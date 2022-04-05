@@ -3,9 +3,12 @@
 # https://github.com/osmoscraft/osmosfeed/blob/master/docs/osmosfeed-yaml-reference.md
 #########################
 
-cacheUrl: https://sovy666.github.io/feeds/cache.json
+cacheUrl: https://sovy666.github.io/notizie/cache.json
 sources:
-  - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
-  - href: https://css-tricks.com/feed/
-  - href: https://www.smashingmagazine.com/feed/
-  - href: https://www.freecodecamp.org/news/rss/
+  - href: http://rss.adnkronos.com/RSS_PrimaPagina.xml
+  - href: https://www.gazzetta.it/rss/home.xml
+  - href: https://espresso.repubblica.it/rss?sezione=espresso
+  - href: https://www.internazionale.it/sitemaps/rss_reportage.xml
+  - href: https://www.internazionale.it/sitemaps/rss_opinioni.xml
+  - href: https://www.internazionale.it/sitemaps/rss_italia.xml
+  - href: http://feed.lastampa.it/Homepage.rss
