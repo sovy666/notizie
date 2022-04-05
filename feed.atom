@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>urn:2022-04-05T13:26:47.105Z</id>
+    <title>osmos::feed</title>
+    <updated>2022-04-05T13:26:47.105Z</updated>
+    <generator>osmosfeed 1.14.4</generator>
+    <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Package Manager – Complete Guide to NPM and Yarn]]></title>
+        <id>624b0547ac55f60686c2d2e1</id>
+        <link href="https://www.freecodecamp.org/news/javascript-package-manager-npm-and-yarn/"/>
+        <updated>2022-04-05T00:08:08.000Z</updated>
+        <summary type="html"><![CDATA[A package manager is a tool developers use to automate finding, downloading, installing, configuring, upgrading, and removing a system's packages. This article will show you all you need to get started with package managers like NPM and Yarn. But why exactly do we need a package manager in our development]]></summary>
+        <author>
+            <name>Oluwatobi Sofela</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Beginner's Guide to Sass]]></title>
+        <id>6233c160cdcd57069ddfadb8</id>
+        <link href="https://www.freecodecamp.org/news/the-beginners-guide-to-sass/"/>
+        <updated>2022-04-04T23:39:31.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever wondered what SASS stands for? Or perhaps you already know what it is but haven't taken the time to study and use it. Whether you're learning about it for the first time, or want to brush up on your knowledge of the subject, this is the article]]></summary>
+        <author>
+            <name>Israel Mitolu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Types of Hard Drives – SATA, PATA, SCSI, and SSD]]></title>
+        <id>624ad0f4ac55f60686c2d118</id>
+        <link href="https://www.freecodecamp.org/news/types-of-hard-drives-sata-pata-scsi-and-more-2/"/>
+        <updated>2022-04-04T23:17:35.000Z</updated>
+        <summary type="html"><![CDATA[A hard drive is a non-volatile hardware component on a computer that acts as the storage for all digital content. It holds program files, documents, pictures, videos, music, and more. The non-volatile nature of hard drives means they don’t lose data, even if power is lost. Due to this, they]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Make an Image Search App in React using the Unsplash API]]></title>
+        <id>6249d59dac55f60686c2ce11</id>
+        <link href="https://www.freecodecamp.org/news/how-to-make-an-image-search-app-in-react/"/>
+        <updated>2022-04-04T22:19:13.000Z</updated>
+        <summary type="html"><![CDATA[Unsplash is a site where you can download free and unlicensed images and use them as you see fit. In this tutorial, we will make an Image Search App using the Unsplash API to get access to its enormous collection of images and also download them. Before starting the development]]></summary>
+        <author>
+            <name>Ateev Duggal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Project – How to Build a Wordle Clone using Python and Rich]]></title>
+        <id>624a520eac55f60686c2cfa0</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-wordle-clone-using-python-and-rich/"/>
+        <updated>2022-04-04T20:21:41.000Z</updated>
+        <summary type="html"><![CDATA[Wordle is a popular game where you guess a five-letter word in six tries. After each guess, the color of the tiles will change to show how close your guess was to the word.  It is similar to the Hangman game [https://ireadblog.com/posts/124/hangman-game-using-python] which I've already shown you how to]]></summary>
+        <author>
+            <name>Ashutosh Krishna</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Docker Mount Volume – How To Mount a Local Directory]]></title>
+        <id>62402130138a19064b0666c6</id>
+        <link href="https://www.freecodecamp.org/news/docker-mount-volume-guide-how-to-mount-a-local-directory/"/>
+        <updated>2022-04-04T20:08:50.000Z</updated>
+        <summary type="html"><![CDATA[Containers make software engineering easier and more efficient, and Docker [https://www.docker.com/] containers are popular and easy to use.  Containers are essential for local development. They let you test-run your applications in local environments and start building out the required infrastructure. Docker containers are immutable by nature. This means that]]></summary>
+        <author>
+            <name>Sebastian Sigl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thunder Client – An Alternative Way to Test Restful APIs]]></title>
+        <id>623646bccdcd57069ddfb98f</id>
+        <link href="https://www.freecodecamp.org/news/thunder-client-for-vscode/"/>
+        <updated>2022-04-04T19:09:46.000Z</updated>
+        <summary type="html"><![CDATA[This article will teach you an alternative approach to testing client APIs using Thunder Client, an open-source extension available on VS Code marketplace [https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client] .  You will not need to download any tools to do this, since you can get it done right within VS Code. The article covers]]></summary>
+        <author>
+            <name>Sule-Balogun Olanrewaju Ganiu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adding CDN Caching to a Vite Build]]></title>
+        <id>https://css-tricks.com/?p=364166</id>
+        <link href="https://css-tricks.com/adding-cdn-caching-to-a-vite-build/"/>
+        <updated>2022-04-04T18:25:23.000Z</updated>
+        <summary type="html"><![CDATA[Content delivery networks, or CDNs, allow you to improve the delivery of your website’s static resources, most notably, with CDN caching. They do this by serving your content from edge locations, which are located all over the world. When a …
+Adding CDN Caching to a Vite Build originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Adam Rackis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scientific Computing in Golang with the Gonum Package]]></title>
+        <id>624515df138a19064b068e7c</id>
+        <link href="https://www.freecodecamp.org/news/scientific-computing-in-golang-using-gonum/"/>
+        <updated>2022-04-04T15:49:21.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I'll introduce you to Gonum, a package you can use to perform scientific computations in the Go programming language. Here's what we'll cover in this intermediate tutorial:  * What is Gonum?  * Why use Gonum  * How to install and set up Gonum]]></summary>
+        <author>
+            <name>Ukeje Chukwuemeriwo Goodness</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The freeCodeCamp World Translation Summit 2022 – Join the Translation Effort]]></title>
+        <id>6244b25c138a19064b0686d0</id>
+        <link href="https://www.freecodecamp.org/news/the-freecodecamp-world-translation-summit-2022-join-the-translation-effort/"/>
+        <updated>2022-04-04T14:23:26.000Z</updated>
+        <summary type="html"><![CDATA[Translation is a powerful tool that can change lives. Everyone should have access to free learning resources in their native language.  To achieve this, freeCodeCamp has started translating our curriculum into dozens of world languages, with the help of thousands of volunteers around the world. To honor our translators]]></summary>
+        <author>
+            <name>Estefania Cassingena Navone</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ExamPro Cloud Developer Environment Certification — Pass the Exam with This 12 Hour Course]]></title>
+        <id>623f380c138a19064b06605b</id>
+        <link href="https://www.freecodecamp.org/news/exampro-cloud-developer-environment-certification-gitpod-course/"/>
+        <updated>2022-04-04T13:14:49.000Z</updated>
+        <summary type="html"><![CDATA[If you are a web-application developer looking to learn how to leverage the cloud or want to become a cloud developer, the ExamPro Cloud Development Environment (EXP-CDE-01) is the first step. What is a Cloud Developer Environment?  A Cloud Developer Environment (CDE) is a:  *  code editor]]></summary>
+        <author>
+            <name>Andrew Brown</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Build A Progressively Enhanced, Accessible, Filterable And Paginated List]]></title>
+        <id>https://smashingmagazine.com/2022/04/accessible-filterable-paginated-list-11ty-alpinejs/</id>
+        <link href="https://smashingmagazine.com/2022/04/accessible-filterable-paginated-list-11ty-alpinejs/"/>
+        <updated>2022-04-04T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ever wondered how to build a paginated list that works with and without JavaScript? In this article, Manuel explains how you can leverage the power of Progressive Enhancement and do just that with Eleventy and Alpine.js.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Manuel Matuzović)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The What, When, Why And How Of Next.js’ New Middleware Feature]]></title>
+        <id>https://smashingmagazine.com/2022/04/next-js-middleware-feature/</id>
+        <link href="https://smashingmagazine.com/2022/04/next-js-middleware-feature/"/>
+        <updated>2022-04-01T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Next.js’ recent 12.0 release included a new beta feature: middleware. For a detailed explanation, you can read all about it in Sam’s previous article, “[Next.js Wildcard Subdomains](https://www.smashingmagazine.com/2021/11/nextjs-wildcard-subdomains/)”. This article, on the other hand, dives into the overall concept of middleware and how handy it can be in building things.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Sam Poder)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Time For Reflection (April 2022 Desktop Wallpapers Edition)]]></title>
+        <id>https://smashingmagazine.com/2022/03/desktop-wallpaper-calendars-april-2022/</id>
+        <link href="https://smashingmagazine.com/2022/03/desktop-wallpaper-calendars-april-2022/"/>
+        <updated>2022-03-31T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Let’s welcome the new month with some new wallpapers. Designed with love by artists and designers from across the globe, they are available in versions with and without a calendar for April 2022.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tricks to Cut Corners Using CSS Mask and Clip-Path Properties]]></title>
+        <id>https://css-tricks.com/?p=364279</id>
+        <link href="https://css-tricks.com/cut-corners-using-css-mask-and-clip-path-properties/"/>
+        <updated>2022-03-30T16:35:08.000Z</updated>
+        <summary type="html"><![CDATA[We recently covered creating fancy borders with CSS mask properties, and now we are going to cut the corners with CSS mask and clip-path! A lot of techniques exist to cut different shapes from the corners of any element. …
+Tricks to Cut Corners Using CSS Mask and Clip-Path Properties originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Designing A Better Infinite Scroll]]></title>
+        <id>https://smashingmagazine.com/2022/03/designing-better-infinite-scroll/</id>
+        <link href="https://smashingmagazine.com/2022/03/designing-better-infinite-scroll/"/>
+        <updated>2022-03-30T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In this series of articles, we highlight design patterns and techniques to design better interfaces. You can also find more examples in [“Smart Interface Design Patterns”](https://smart-interface-design-patterns.com/), a 6h-video course with 100s of hand-picked examples, curated by Vitaly.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SmashingConf Is Back In 2022]]></title>
+        <id>https://smashingmagazine.com/2022/03/smashingconf-workshops-conferences-2022/</id>
+        <link href="https://smashingmagazine.com/2022/03/smashingconf-workshops-conferences-2022/"/>
+        <updated>2022-03-29T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[After two years when almost everything moved online, 2022 marks the return of in-person conferences. In fact, [SmashingConf is back](https://smashingconf.com/conferences): coming to  San Francisco and Austin in June, Freiburg (Germany) in September, and New York in October.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Jarijn Nijkamp)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jobs For Designers And Developers Affected By The War In Ukraine 🇺🇦]]></title>
+        <id>https://smashingmagazine.com/2022/03/jobs-designers-developers-war-ukraine/</id>
+        <link href="https://smashingmagazine.com/2022/03/jobs-designers-developers-war-ukraine/"/>
+        <updated>2022-03-29T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Are you a designer or developer affected by the war in Ukraine? Here are some options to consider if you’re looking for a design or tech job.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6 Useful Bookmarklets to Boost Web Development]]></title>
+        <id>https://css-tricks.com/?p=364118</id>
+        <link href="https://css-tricks.com/web-development-bookmarklets/"/>
+        <updated>2022-03-28T18:15:41.000Z</updated>
+        <summary type="html"><![CDATA[A bookmarklet is a JavaScript-based bookmark that adds to a web browser. I’d like to show you some awesome web browser hacks to aid your web development workflow and how to convert those hacks into time-saving bookmarklets.
+Activating design mode
+…
+6 Useful Bookmarklets to Boost Web Development originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Guide To Hover And Pointer Media Queries]]></title>
+        <id>https://smashingmagazine.com/2022/03/guide-hover-pointer-media-queries/</id>
+        <link href="https://smashingmagazine.com/2022/03/guide-hover-pointer-media-queries/"/>
+        <updated>2022-03-28T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we’ll talk about how to adapt our sites to the different scenarios of a device pointer: whether it has a pointer or not, or how accurate it is. To adapt our site to those devices’ needs we’ll talk about how to properly use media queries `hover`, `pointer`, `any-hover` and `any-pointer`.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cristian Díaz)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Remix Routes Demystified]]></title>
+        <id>https://smashingmagazine.com/2022/03/remix-routes-demystified/</id>
+        <link href="https://smashingmagazine.com/2022/03/remix-routes-demystified/"/>
+        <updated>2022-03-25T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In the past months, there have been lots of talks dedictaed to Remix. Routing is not only one of the things that sets it apart from other frameworks, but it also fuels great performance and improves the overall experience for developers. Let’s dig in to all  of the features that build up routing in this powerful framework.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Átila Fassina)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Those HTML Attributes You Never Use]]></title>
+        <id>https://smashingmagazine.com/2022/03/html-attributes-you-never-use/</id>
+        <link href="https://smashingmagazine.com/2022/03/html-attributes-you-never-use/"/>
+        <updated>2022-03-23T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, Louis Lazaris describes and demonstrates some interesting HTML attributes that you may or may not have heard of and perhaps find useful enough to personally use in one of your projects.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Louis Lazaris)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Good Design Is All About Good Timing]]></title>
+        <id>https://smashingmagazine.com/2022/03/design-is-all-about-good-timing/</id>
+        <link href="https://smashingmagazine.com/2022/03/design-is-all-about-good-timing/"/>
+        <updated>2022-03-22T12:45:00.000Z</updated>
+        <summary type="html"><![CDATA[In this shorter series of articles, we highlight design patterns, techniques, and strategies to design better digital interfaces. You can also learn much more in [“Smart Interface Design Patterns”](https://smart-interface-design-patterns.com/), a 6h-video course with 100s of hand-picked examples, curated by Vitaly.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Write HTML, the HTML Way (Not the XHTML Way)]]></title>
+        <id>https://css-tricks.com/?p=363745</id>
+        <link href="https://css-tricks.com/write-html-the-html-way-not-the-xhtml-way/"/>
+        <updated>2022-03-21T20:08:38.000Z</updated>
+        <summary type="html"><![CDATA[You may not use XHTML (anymore), but when you write HTML, you may be more influenced by XHTML than you think. You are very likely writing HTML, the XHTML way.
+What is the XHTML way of writing HTML, and what …
+Write HTML, the HTML Way (Not the XHTML Way) originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Jens Oliver Meiert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows High Contrast Mode, Forced Colors Mode And CSS Custom Properties]]></title>
+        <id>https://smashingmagazine.com/2022/03/windows-high-contrast-colors-mode-css-custom-properties/</id>
+        <link href="https://smashingmagazine.com/2022/03/windows-high-contrast-colors-mode-css-custom-properties/"/>
+        <updated>2022-03-21T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[CSS Custom Properties can be used for far more than just color, and their values update in realtime, both via display mode updates and JavaScript logic. This is powerful stuff. Eric explains how modern CSS is a powerful piece of assistive technology that can thread into it to create flexible, maintainable and adaptive digital experiences.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Eric Bailey)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optimizing SVG Patterns to Their Smallest Size]]></title>
+        <id>https://css-tricks.com/?p=364090</id>
+        <link href="https://css-tricks.com/optimizing-svg-patterns/"/>
+        <updated>2022-03-18T22:31:22.000Z</updated>
+        <summary type="html"><![CDATA[I recently created a brick wall pattern as part of my #PetitePatterns series, a challenge where I create organic-looking patterns or textures in SVG within 560 bytes (or approximately the size of two tweets). To fit this constraint, I have …
+Optimizing SVG Patterns to Their Smallest Size originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Bence Szabó</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Make A Drag-and-Drop File Uploader With Vue.js 3]]></title>
+        <id>https://smashingmagazine.com/2022/03/drag-drop-file-uploader-vuejs-3/</id>
+        <link href="https://smashingmagazine.com/2022/03/drag-drop-file-uploader-vuejs-3/"/>
+        <updated>2022-03-18T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Building on a previous article on How to Build a Drag-and-Drop File Uploader, we’ll be adding some new features, but more importantly (maybe), we’ll be learning how to build it in Vue 3 and learn some best practices for Vue along the way.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Joseph Zimmerman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claymorphism: Will It Stick Around?]]></title>
+        <id>https://smashingmagazine.com/2022/03/claymorphism-css-ui-design-trend/</id>
+        <link href="https://smashingmagazine.com/2022/03/claymorphism-css-ui-design-trend/"/>
+        <updated>2022-03-16T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This fresh new design trend has been picking up steam with the rising popularity of colorful inflated 3D graphics in web illustrations and with the latest Virtual Reality projects like “Horizon Worlds”. Let’s see if there is room for Claymorphism on the UI, and how we can create this effect with CSS.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Adrian Bece)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS-Tricks is joining DigitalOcean!]]></title>
+        <id>https://css-tricks.com/?p=365042</id>
+        <link href="https://css-tricks.com/css-tricks-is-joining-digitalocean/"/>
+        <updated>2022-03-15T12:18:44.000Z</updated>
+        <summary type="html"><![CDATA[Hey hey!
+I’ve got a big announcement to make here. (Where’s my gong? I feel like this really needs a good gong hit.)
+CSS-Tricks, this very website you’re looking at, has been acquired by DigitalOcean!
+You can hear …
+CSS-Tricks is joining DigitalOcean! originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improving The CI/CD Flow For Your Application]]></title>
+        <id>https://smashingmagazine.com/2022/03/improving-ci-cd-flow-application/</id>
+        <link href="https://smashingmagazine.com/2022/03/improving-ci-cd-flow-application/"/>
+        <updated>2022-03-14T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Looking for ways to create a smooth CI/CD flow for your software? In this article, Tom Hastjarjanto shares some useful concepts that can be combined with GitHub Actions and NPM packages. With this setup, you will be able to release multiple times per hour with a fully documented trace managed by Git.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Tom Hastjarjanto)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Complete Guide To Mobile App Marketing]]></title>
+        <id>https://smashingmagazine.com/2022/03/guide-mobile-app-marketing/</id>
+        <link href="https://smashingmagazine.com/2022/03/guide-mobile-app-marketing/"/>
+        <updated>2022-03-11T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Standing out among the millions of mobile apps can be challenging, but proper marketing can give you that crucial edge. This piece shares how to start your mobile app marketing strategy and improve it as you go while keeping up with the latest trends in the market.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Sona Dabaghyan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Introduction To AWS Cloud Development Kit (CDK)]]></title>
+        <id>https://smashingmagazine.com/2022/03/introduction-aws-cloud-development-kit/</id>
+        <link href="https://smashingmagazine.com/2022/03/introduction-aws-cloud-development-kit/"/>
+        <updated>2022-03-10T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, Vivek Maskara introduces Amazon Web Services’ (AWS) Cloud Development Kit (CDK) which is increasingly becoming a popular tool for managing AWS-based infrastructure. We’ll take a closer look into CDK concepts, and then how to use the AWS CDK toolkit to deploy a sample application to an AWS account.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vivek Maskara)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Guide To Audio Visualization With JavaScript And GSAP (Part 2)]]></title>
+        <id>https://smashingmagazine.com/2022/03/audio-visualization-javascript-gsap-part2/</id>
+        <link href="https://smashingmagazine.com/2022/03/audio-visualization-javascript-gsap-part2/"/>
+        <updated>2022-03-09T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What started as a case study turned into a guide to visualizing audio with JavaScript. Although the output demos are in React, Jhey Tompkins isn’t going to dwell on the React side of things too much. The underlying techniques work with or without React.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Jhey Tompkins)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Performance Signals For Customizing Website UX]]></title>
+        <id>https://smashingmagazine.com/2022/03/signals-customizing-website-user-experience/</id>
+        <link href="https://smashingmagazine.com/2022/03/signals-customizing-website-user-experience/"/>
+        <updated>2022-03-07T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Using signals to deliver less, or different, content is a form of progressive enhancement (or graceful degradation depending on how you look at it), whereby extraneous content is only loaded when necessary, but the core functionality of the website still works. In this article, we’ll look at some of the signals that can be used for this.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Barry Pollard)</name>
+        </author>
+    </entry>
+</feed>
