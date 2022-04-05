@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-05T13:26:47.105Z</id>
+    <id>https://sovy666.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-05T13:26:47.105Z</updated>
+    <updated>2022-04-05T13:31:50.570Z</updated>
     <generator>osmosfeed 1.14.4</generator>
-    <link rel="alternate" href="index.html"/>
+    <link rel="alternate" href="https://sovy666.github.io/feeds/index.html"/>
+    <link rel="self" href="https://sovy666.github.io/feeds/feed.atom"/>
     <entry>
         <title type="html"><![CDATA[JavaScript Package Manager – Complete Guide to NPM and Yarn]]></title>
         <id>624b0547ac55f60686c2d2e1</id>
