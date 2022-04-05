@@ -4,6 +4,7 @@
 #########################
 
 cacheUrl: https://sovy666.github.io/notizie/cache.json
+cacheMaxDays: 2
 sources:
   - href: http://rss.adnkronos.com/RSS_PrimaPagina.xml
   - href: https://www.gazzetta.it/rss/home.xml
