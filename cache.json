@@ -6,6 +6,21 @@
       "siteUrl": "https://www.adnkronos.com",
       "articles": [
         {
+          "id": "https://www.adnkronos.com/pnrr-cdm-approva-decreto-con-norme-anti-evasione_1PwDMAvan7AMcXBSj3PwnP",
+          "author": "webinfo@adnkronos.com (Web Info)",
+          "description": "(Adnkronos) - Sul testo ci sarebbero stati dei problemi tecnici, \"non politici\", conferma una fonte presente alla riunione",
+          "link": "https://www.adnkronos.com/pnrr-cdm-approva-decreto-con-norme-anti-evasione_1PwDMAvan7AMcXBSj3PwnP",
+          "publishedOn": "2022-04-13T18:03:00.000Z",
+          "wordCount": 1856,
+          "title": "Pnrr, Cdm approva decreto con norme anti-evasione",
+          "enclosure": {
+            "length": "13813",
+            "type": "image/jpeg",
+            "url": "https://www.adnkronos.com/resources/0274-14e684eaf549-54f40b011e77-1000/format/medium/palazzo_chigi3_sera_fg_3-5-4165442880.jpg"
+          },
+          "imageUrl": "https://www.adnkronos.com/resources/0274-14e684eaf549-54f40b011e77-1000/format/medium/palazzo_chigi3_sera_fg_3-5-4165442880.jpg"
+        },
+        {
           "id": "https://www.adnkronos.com/ucraina-telefonata-biden-zelensky-russia-sposta-truppe-verso-finlandia_7GhQhLvlgZMmlDWFeSvSIl",
           "author": "webinfo@adnkronos.com (Web Info)",
           "description": "(Adnkronos) - Mosca starebbe spostando mezzi militari verso il confine finlandese, nel pieno del dibattito interno al Paese per un prossimo ingresso nella Nato",
@@ -2321,36 +2336,6 @@
           "wordCount": 775,
           "title": "La \"schiena d'asino\", \"l'effetto centrifuga\", le docce in pietra: Pozzato e i segreti della Roubaix",
           "imageUrl": "https://images2.gazzettaobjects.it/methode_image/2022/04/11/Ciclismo/Foto_Ciclismo_-_Trattate/9d452537418c35563d8f70c259341eb4_1200x675.jpg?v=202204122348"
-        },
-        {
-          "id": "https://www.gazzetta.it/Nba/12-04-2022/nba-playoff-pronostico-dan-peterson-titolo-boston-tatum-mvp-44012536351.shtml",
-          "author": "Dan Peterson",
-          "description": "Nba, pronostico con tante sorprese: titolo a Boston  e Tatum  mvp \nAbbiamo chiesto a Dan Peterson i pronostici per i playoff Nba che iniziano sabato",
-          "link": "https://www.gazzetta.it/Nba/12-04-2022/nba-playoff-pronostico-dan-peterson-titolo-boston-tatum-mvp-44012536351.shtml",
-          "publishedOn": "2022-04-12T06:22:19.000Z",
-          "wordCount": 578,
-          "title": "Playoff, le previsioni di Dan Peterson: \"Perché io dico Boston\"",
-          "imageUrl": "https://images2.gazzettaobjects.it/methode_image/2022/04/11/Varie/Foto_Varie_-_Trattate/e884df42ac52d09ded6e3a91776a2507_1200x675.jpg?v=202204120823"
-        },
-        {
-          "id": "https://www.gazzetta.it/bici/turismo/12-04-2022/provincia-varese-scommette-cicloturismo.shtml",
-          "author": null,
-          "description": "Giovanni Martinelli, project manager di Varese #DoYouBike?, racconta il progetto per fare del varesotto la prima provincia italiana interamente dedicata al cicloturismo",
-          "link": "https://www.gazzetta.it/bici/turismo/12-04-2022/provincia-varese-scommette-cicloturismo.shtml",
-          "publishedOn": "2022-04-12T06:18:03.000Z",
-          "wordCount": 927,
-          "title": "La Provincia di Varese scommette sul cicloturismo: ecco il progetto",
-          "imageUrl": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/04/07/624e8c1d44b8f.jpeg"
-        },
-        {
-          "id": "https://www.gazzetta.it/Nba/12-04-2022/nba-play-in-partite-calendario-squadre-date-durant-gallinari-44013890584.shtml",
-          "author": "Gasport",
-          "description": "Nba, scatta il Play-In: da Durant a Gallinari, tutto quello che dovete sapere\nBrooklyn-Cleveland inaugura il mini torneo che assegna gli ultimi due posti alla postseason per ciascuna conference: ecco l’analisi partita per partita e la formula",
-          "link": "https://www.gazzetta.it/Nba/12-04-2022/nba-play-in-partite-calendario-squadre-date-durant-gallinari-44013890584.shtml",
-          "publishedOn": "2022-04-12T06:17:19.000Z",
-          "wordCount": 728,
-          "title": "Oggi scatta il Play-In: da Durant a Gallinari, tutto quello che dovete sapere",
-          "imageUrl": "https://images2.gazzettaobjects.it/methode_image/2022/04/12/Varie/Foto_Varie_-_Trattate/6ccf6805d1e5dbb3a844437824875f1c_1200x675.JPG?v=202204120817"
         }
       ]
     },
@@ -2434,6 +2419,26 @@
       "feedUrl": "http://feed.lastampa.it/Homepage.rss",
       "siteUrl": "https://www.lastampa.it",
       "articles": [
+        {
+          "id": "gnn:lastampa:3011449",
+          "author": null,
+          "description": "",
+          "link": "https://www.lastampa.it/audio/serie/2022/04/13/audio/guerra_russiaucraina_cose_successo_oggi_13_aprile_2022_mosca_minaccia_europa_e_america-3011449/",
+          "publishedOn": "2022-04-13T17:49:42.000Z",
+          "wordCount": 250,
+          "title": "Guerra Russia-Ucraina, cos'è successo oggi 13 aprile 2022: Mosca minaccia Europa e America",
+          "imageUrl": "https://www.gedistatic.it/content/gnn/img/lastampa/2022/04/13/194939344-574b2317-fcd1-4604-b2d1-e7f0fea577a9.jpg"
+        },
+        {
+          "id": "gnn:lastampa:3010105",
+          "author": null,
+          "description": "La denuncia di Olha Stefanishyna, vicepremier di Volodymyr Zelensky, collegata con Palazzo Madama per una audizione con la Commissione contro intolleranza e od…",
+          "link": "https://www.lastampa.it/rubriche/metropolis/2022/04/13/video/metropolis71_la_vicepremier_ucraina_i_russi_responsabili_di_genocidio_ci_vogliono_cancellare-3010105/",
+          "publishedOn": "2022-04-13T17:26:56.000Z",
+          "wordCount": 291,
+          "title": "Metropolis/71, la vicepremier ucraina: \"I russi responsabili di genocidio, ci vogliono cancellare\"",
+          "imageUrl": "https://www.gedistatic.it/content/gnn/img/lastampa/2022/04/13/192653414-1e1d4e3f-4242-4f4e-8759-07c143c1cc96.jpg"
+        },
         {
           "id": "gnn:lastampa:3009552",
           "author": null,

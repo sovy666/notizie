@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sovy666.github.io/notizie/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-13T17:54:58.968Z</updated>
+    <updated>2022-04-13T18:22:37.501Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sovy666.github.io/notizie/index.html"/>
     <link rel="self" href="https://sovy666.github.io/notizie/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pnrr, Cdm approva decreto con norme anti-evasione]]></title>
+        <id>https://www.adnkronos.com/pnrr-cdm-approva-decreto-con-norme-anti-evasione_1PwDMAvan7AMcXBSj3PwnP</id>
+        <link href="https://www.adnkronos.com/pnrr-cdm-approva-decreto-con-norme-anti-evasione_1PwDMAvan7AMcXBSj3PwnP"/>
+        <updated>2022-04-13T18:03:00.000Z</updated>
+        <summary type="html"><![CDATA[(Adnkronos) - Sul testo ci sarebbero stati dei problemi tecnici, "non politici", conferma una fonte presente alla riunione]]></summary>
+        <author>
+            <name>webinfo@adnkronos.com (Web Info)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guerra Russia-Ucraina, cos'è successo oggi 13 aprile 2022: Mosca minaccia Europa e America]]></title>
+        <id>gnn:lastampa:3011449</id>
+        <link href="https://www.lastampa.it/audio/serie/2022/04/13/audio/guerra_russiaucraina_cose_successo_oggi_13_aprile_2022_mosca_minaccia_europa_e_america-3011449/"/>
+        <updated>2022-04-13T17:49:42.000Z</updated>
+        <author>
+            <name>lastampa.it - Homepage</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Genoa e il rebus Destro: come gestirlo al fantacalcio?]]></title>
         <id>https://www.gazzetta.it/Calcio/Serie-A/Genoa/13-04-2022/fantacalcio-consigli-genoa-rebus-destro-44032418185.shtml</id>
@@ -58,6 +77,16 @@ Contratti in scadenza oppure di breve durata. Quanti movimenti tra i centrali de
         <summary type="html"><![CDATA[(Adnkronos) - Mosca starebbe spostando mezzi militari verso il confine finlandese, nel pieno del dibattito interno al Paese per un prossimo ingresso nella Nato]]></summary>
         <author>
             <name>webinfo@adnkronos.com (Web Info)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Metropolis/71, la vicepremier ucraina: "I russi responsabili di genocidio, ci vogliono cancellare"]]></title>
+        <id>gnn:lastampa:3010105</id>
+        <link href="https://www.lastampa.it/rubriche/metropolis/2022/04/13/video/metropolis71_la_vicepremier_ucraina_i_russi_responsabili_di_genocidio_ci_vogliono_cancellare-3010105/"/>
+        <updated>2022-04-13T17:26:56.000Z</updated>
+        <summary type="html"><![CDATA[La denuncia di Olha Stefanishyna, vicepremier di Volodymyr Zelensky, collegata con Palazzo Madama per una audizione con la Commissione contro intolleranza e od…]]></summary>
+        <author>
+            <name>lastampa.it - Homepage</name>
         </author>
     </entry>
     <entry>
@@ -2679,38 +2708,6 @@ Dalla stella del baseball Otani fino agli assi milionari di Nba e Nfl:  gli atle
 Il veneto, secondo nel 2009 e per undici volte al via della Parigi-Roubaix, ci porta "dentro" la Classica delle pietre. "Tra i favoriti c'è anche Ganna"]]></summary>
         <author>
             <name>L. Gialanella - A. Morici</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Playoff, le previsioni di Dan Peterson: "Perché io dico Boston"]]></title>
-        <id>https://www.gazzetta.it/Nba/12-04-2022/nba-playoff-pronostico-dan-peterson-titolo-boston-tatum-mvp-44012536351.shtml</id>
-        <link href="https://www.gazzetta.it/Nba/12-04-2022/nba-playoff-pronostico-dan-peterson-titolo-boston-tatum-mvp-44012536351.shtml"/>
-        <updated>2022-04-12T06:22:19.000Z</updated>
-        <summary type="html"><![CDATA[Nba, pronostico con tante sorprese: titolo a Boston  e Tatum  mvp 
-Abbiamo chiesto a Dan Peterson i pronostici per i playoff Nba che iniziano sabato]]></summary>
-        <author>
-            <name>Dan Peterson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[La Provincia di Varese scommette sul cicloturismo: ecco il progetto]]></title>
-        <id>https://www.gazzetta.it/bici/turismo/12-04-2022/provincia-varese-scommette-cicloturismo.shtml</id>
-        <link href="https://www.gazzetta.it/bici/turismo/12-04-2022/provincia-varese-scommette-cicloturismo.shtml"/>
-        <updated>2022-04-12T06:18:03.000Z</updated>
-        <summary type="html"><![CDATA[Giovanni Martinelli, project manager di Varese #DoYouBike?, racconta il progetto per fare del varesotto la prima provincia italiana interamente dedicata al cicloturismo]]></summary>
-        <author>
-            <name>Gazzetta.it</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oggi scatta il Play-In: da Durant a Gallinari, tutto quello che dovete sapere]]></title>
-        <id>https://www.gazzetta.it/Nba/12-04-2022/nba-play-in-partite-calendario-squadre-date-durant-gallinari-44013890584.shtml</id>
-        <link href="https://www.gazzetta.it/Nba/12-04-2022/nba-play-in-partite-calendario-squadre-date-durant-gallinari-44013890584.shtml"/>
-        <updated>2022-04-12T06:17:19.000Z</updated>
-        <summary type="html"><![CDATA[Nba, scatta il Play-In: da Durant a Gallinari, tutto quello che dovete sapere
-Brooklyn-Cleveland inaugura il mini torneo che assegna gli ultimi due posti alla postseason per ciascuna conference: ecco l’analisi partita per partita e la formula]]></summary>
-        <author>
-            <name>Gasport</name>
         </author>
     </entry>
 </feed>
