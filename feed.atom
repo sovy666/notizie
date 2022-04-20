@@ -2,10 +2,431 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sovy666.github.io/notizie/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-19T18:23:58.099Z</updated>
+    <updated>2022-04-20T01:52:17.919Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sovy666.github.io/notizie/index.html"/>
     <link rel="self" href="https://sovy666.github.io/notizie/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Inter-Milan, le pagelle: Perisic re della fascia, 7,5. Giroud delude: 5]]></title>
+        <id>https://www.gazzetta.it/Calcio/Coppa-Italia/20-04-2022/inter-milan-derby-coppa-italia-pagelle-semifinale-ritorno-440122486044.shtml</id>
+        <link href="https://www.gazzetta.it/Calcio/Coppa-Italia/20-04-2022/inter-milan-derby-coppa-italia-pagelle-semifinale-ritorno-440122486044.shtml"/>
+        <updated>2022-04-19T23:25:40.000Z</updated>
+        <summary type="html"><![CDATA[Inter-Milan, le pagelle: Perisic re della fascia, 7,5. Giroud delude: 5
+Il migliore tra i nerazzurri è Lautaro Tra i rossoneri si salvano Leao e Diaz]]></summary>
+        <author>
+            <name>Andrea Masala</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mariupol, apocalisse d’acciaio]]></title>
+        <id>gnn:lastampa:3148111</id>
+        <link href="https://www.lastampa.it/esteri/2022/04/20/news/mariupol_apocalisse_d_acciaio-3148111/"/>
+        <updated>2022-04-19T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Chissà in quanti respirano ancora là sotto, stretti nelle gallerie di cemento armato a trenta metri di profondità. Chissà cosa pensano i civili seppelliti vivi da tonnellate di cemento che, pian piano, si sgretolano sotto le bombe anti-bunker che  ... [Continua a leggere sul sito.]]]></summary>
+        <author>
+            <name>lastampa.it - Homepage</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Il collasso economico di Mosca è inevitabile]]></title>
+        <id>gnn:lastampa:3148065</id>
+        <link href="https://www.lastampa.it/editoriali/lettere-e-idee/2022/04/20/news/il_collasso_economico_di_mosca_e_inevitabile-3148065/"/>
+        <updated>2022-04-19T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Seguendo quanto suggeriva dopo la Seconda guerra mondiale George Kennan, il padre della politica del contenimento, l’azione migliore verso l’Unione Sovietica era presidiare i confini della Nato, mentre si adottavano delle sanzioni per sgretolare i ... [Continua a leggere sul sito.]]]></summary>
+        <author>
+            <name>lastampa.it - Homepage</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In Donbass arrivano le armi americane: “Non cederemo di un metro”]]></title>
+        <id>gnn:lastampa:3148049</id>
+        <link href="https://www.lastampa.it/esteri/2022/04/20/news/in_donbass_arrivano_le_armi_americane_non_cederemo_di_un_metro_-3148049/"/>
+        <updated>2022-04-19T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[INVIATO A SVYATOGORSK. Alexandra sta per compiere 21 anni, il viso di fanciulla edulcora il carattere da combattente. Ha fatto «la scelta», come lei stessa racconta. Imbracciare il fucile per difendere la sua terra, la sua gente, il suo futur ... [Continua a leggere sul sito.]]]></summary>
+        <author>
+            <name>lastampa.it - Homepage</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kiev, il ritorno a casa dei profughi: “Rivogliamo la nostra vita”]]></title>
+        <id>gnn:lastampa:3148060</id>
+        <link href="https://www.lastampa.it/esteri/2022/04/20/news/kiev_il_ritorno_a_casa_dei_profughi_rivogliamo_la_nostra_vita_-3148060/"/>
+        <updated>2022-04-19T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Lungo la strada, che porta dall’Ucraina occidentale a Kiev, l’unico segno di guerra in corso sono i posti di blocco e la segnaletica stradale mancante o oscurata. Però, non appena ci si avvicina alla capitale ucraina, tutto cambia. Le tracce di ba ... [Continua a leggere sul sito.]]]></summary>
+        <author>
+            <name>lastampa.it - Homepage</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Il punto di Andrea Margelletti: “Se Mariupol resisterà a lungo Putin potrebbe usare le atomiche tattiche. E l’Europa farebbe bene a dotarsi di un ombrello anti-missile”]]></title>
+        <id>gnn:lastampa:3147818</id>
+        <link href="https://www.lastampa.it/esteri/2022/04/20/news/il_punto_di_andrea_margelletti_putin_non_si_fermera_il_9_maggio_e_l_europa_farebbe_bene_a_dotarsi_di_un_ombrello_antimis-3147818/"/>
+        <updated>2022-04-19T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Professor Margelletti, quanto sono importanti i tempi della presa di Mariupol?
+«Sono cruciali. Anche se la città è praticamente caduta, gli sparuti drappelli della difesa ucraina impediscono ancora all’esercito russo, circ ... [Continua a leggere sul sito.]]]></summary>
+        <author>
+            <name>lastampa.it - Homepage</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[La guerra del risentimento tra Putin e Zelensky]]></title>
+        <id>gnn:lastampa:3148068</id>
+        <link href="https://www.lastampa.it/esteri/2022/04/20/news/la_guerra_del_risentimento_tra_putin_e_zelensky-3148068/"/>
+        <updated>2022-04-19T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Zelensky ci intimidisce. Perché la sua collera contro i russi è vera, l’orrore di ritrovarsi nella gabbia di Putin e di rischiare la sconfitta per poi essere esibito come il trofeo conquistato, lui e il suo popolo, gli brucia in gola. Le sue parol ... [Continua a leggere sul sito.]]]></summary>
+        <author>
+            <name>lastampa.it - Homepage</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[La pace del Papa cuce, non taglia]]></title>
+        <id>gnn:lastampa:3148083</id>
+        <link href="https://www.lastampa.it/esteri/2022/04/20/news/la_pace_del_papa_cuce_non_taglia-3148083/"/>
+        <updated>2022-04-19T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Quando Francesco ha parlato della Chiesa come «ospedale da campo dopo una battaglia», aveva davanti agli occhi uno scenario mondiale da «guerra mondiale a pezzi». Pochi giorni fa, nel suo messaggio «Urbi et Orbi» di Pasqua, ha elencato solamente a ... [Continua a leggere sul sito.]]]></summary>
+        <author>
+            <name>lastampa.it - Homepage</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dal "Toro scatenato" allo "scandaloso" del fratello di Theo: che derby sui social!]]></title>
+        <id>https://video.gazzetta.it/inter-milan-coppa-italia-3-0-reazioni-piu-divertenti-social/6f6f2ce0-c033-11ec-ab19-bcde98bcf1e2</id>
+        <link href="https://video.gazzetta.it/inter-milan-coppa-italia-3-0-reazioni-piu-divertenti-social/6f6f2ce0-c033-11ec-ab19-bcde98bcf1e2"/>
+        <updated>2022-04-19T22:58:30.000Z</updated>
+        <summary type="html"><![CDATA[Inter-Milan Coppa Italia 3-0: le reazioni sui social
+Gol, spettacolo e polemiche: l'Inter batte il Milan 3-0 nella semifinale di ritorno di Coppa Italia. Ma la gara si è giocata anche sui social, con i tifosi che si sono scatenati pubblicando tantissimi meme. Ecco quelli più divertenti]]></summary>
+        <author>
+            <name>Antonino Lo Re</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[L'Inter e l'importanza di un bomber per coppa e scudetto. Milan, proteste giuste ma ora fuori l'orgoglio]]></title>
+        <id>https://video.gazzetta.it/inter-milan-coppa-italia-3-0-gol-annullato-bennacer-commento-gazzetta/ddcfa4f0-c02c-11ec-ab19-bcde98bcf1e2</id>
+        <link href="https://video.gazzetta.it/inter-milan-coppa-italia-3-0-gol-annullato-bennacer-commento-gazzetta/ddcfa4f0-c02c-11ec-ab19-bcde98bcf1e2"/>
+        <updated>2022-04-19T22:09:25.000Z</updated>
+        <summary type="html"><![CDATA[Inter-Milan Coppa Italia 3-0 e il gol annullato a Bennacer: il commento della Gazzetta
+Nella semifinale di ritorno della Coppa Italia, l'Inter supera il Milan per 3-0 e si qualifica per la finale in virtù dello 0-0 dell'andata. In gol Lautaro martinez (doppietta) e Gosens, polemiche per un gol annullato a Bennacer per fuorigioco di Kalulu. Il commento del vicedirettore della Gazzetta, Andrea Di Caro, in studio con Fabio Russo]]></summary>
+        <author>
+            <name>Andrea Di Caro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guerra Russia-Ucraina, Aiea: ristabilite le comunicazioni con la centrale di Chernobyl. New York Times: dagli Usa nuovo pacchetto di armi a Kiev per 800 milioni]]></title>
+        <id>gnn:lastampa:3148119</id>
+        <link href="https://www.lastampa.it/esteri/2022/04/20/news/guerra_russiaucraina_le_notizie_di_oggi_mercoledi_20_aprile-3148119/"/>
+        <updated>2022-04-19T22:02:12.000Z</updated>
+        <summary type="html"><![CDATA[Cinquantaseiesimo giorno di guerra in Ucraina. Le forze russe hanno iniziato la battaglia per il Donbass nell'Ucraina orientale, ha dichiarato lunedì il presidente ucraino Volodymyr Zelensky sottolineando che il paese continuerà a combattere contr ... [Continua a leggere sul sito.]]]></summary>
+        <author>
+            <name>lastampa.it - Homepage</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lautaro: "Un'altra finale! All'Inter sento fiducia e la ripago". E si toglie qualche sassolino...]]></title>
+        <id>https://www.gazzetta.it/Calcio/Coppa-Italia/20-04-2022/lautaro-altra-finale-inter-sento-fiducia-ripago-440122060896.shtml</id>
+        <link href="https://www.gazzetta.it/Calcio/Coppa-Italia/20-04-2022/lautaro-altra-finale-inter-sento-fiducia-ripago-440122060896.shtml"/>
+        <updated>2022-04-19T22:01:40.000Z</updated>
+        <summary type="html"><![CDATA[Lautaro: "Un'altra finale! All'Inter sento fiducia e la ripago". E si toglie qualche sassolino...
+Il Toro: "Ci sono parole che non mi piacciono" e il riferimento è alle critiche per i pochi gol realizzati nel 2022. Poi sul campionato: "Abbiamo perso punti importanti. Ora stiamo tranquilli,  ci mancano partite difficili".]]></summary>
+        <author>
+            <name>Luca Taidelli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[La rivincita di Inzaghi: "Dopo il derby in campionato si è parlato per un mese dei miei cambi..."]]></title>
+        <id>https://www.gazzetta.it/Calcio/Coppa-Italia/19-04-2022/inter-milan-coppa-italia-inzaghi-intervista-semifinale-440124785106.shtml</id>
+        <link href="https://www.gazzetta.it/Calcio/Coppa-Italia/19-04-2022/inter-milan-coppa-italia-inzaghi-intervista-semifinale-440124785106.shtml"/>
+        <updated>2022-04-19T21:45:01.000Z</updated>
+        <summary type="html"><![CDATA[La rivincita di Inzaghi: "Dopo il derby in campionato si è parlato per un mese dei miei cambi..."
+L'allenatore nerazzurro dopo il netto successo in semifinale di Coppa Italia: "Ho ascoltato le critiche costruttive, non quelle create apposta. Questo derby valeva una finale e l'abbiamo conquistata sul campo. Siamo in corsa su tutto, non vogliamo mollare"]]></summary>
+        <author>
+            <name>Gasport</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gol annullato, un Pioli  mai visto: "Handanovic non protesta, non  aggiungo altro". E lascia la tv]]></title>
+        <id>https://www.gazzetta.it/Calcio/Serie-A/Milan/19-04-2022/rabbia-pioli-handanovic-non-protesta-non-c-altro-aggiungere-se-ne-va-440119367886.shtml</id>
+        <link href="https://www.gazzetta.it/Calcio/Serie-A/Milan/19-04-2022/rabbia-pioli-handanovic-non-protesta-non-c-altro-aggiungere-se-ne-va-440119367886.shtml"/>
+        <updated>2022-04-19T21:39:37.000Z</updated>
+        <summary type="html"><![CDATA[Gol annullato, un Pioli  mai visto: "Handanovic non protesta, non c’è altro da aggiungere". E lascia la tv
+Il tecnico rossonero nel dopogara rivede le immagini del gol annullato a Bennacer e abbandona stizzito l’intervista. Calabria: “Il portiere nerazzurro non poteva  arrivare su quel tiro”]]></summary>
+        <author>
+            <name>Marco Pasotto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inter-Milan 3-0, Pioli: "Gol annullato? Ma dai..."]]></title>
+        <id>https://www.adnkronos.com/inter-milan-3-0-pioli-gol-annullato-ma-dai_5RZOIDP4rdn73DQmQ40tIf</id>
+        <link href="https://www.adnkronos.com/inter-milan-3-0-pioli-gol-annullato-ma-dai_5RZOIDP4rdn73DQmQ40tIf"/>
+        <updated>2022-04-19T21:39:28.000Z</updated>
+        <summary type="html"><![CDATA[(Adnkronos) - Il tecnico rossonero dopo il derby di Coppa Italia]]></summary>
+        <author>
+            <name>webinfo@adnkronos.com (Web Info)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Da brividi: l'omaggio di Anfield a Cristiano Ronaldo, al 7' di Liverpool-United]]></title>
+        <id>https://video.gazzetta.it/video-omaggio-anfield-cristiano-ronaldo-liverpool-manchester-united/71d07f60-c025-11ec-ab19-bcde98bcf1e2</id>
+        <link href="https://video.gazzetta.it/video-omaggio-anfield-cristiano-ronaldo-liverpool-manchester-united/71d07f60-c025-11ec-ab19-bcde98bcf1e2"/>
+        <updated>2022-04-19T21:22:05.000Z</updated>
+        <summary type="html"><![CDATA[Video, l'omaggio di Anfield a Cristiano Ronaldo in Liverpool-Manchester United
+Nella gara della 30ª giornata di Premier League, il Liverpool schianta per 4-0 il Manchester United. Al 7', l'omaggio del pubblico di Anfield a Cristiano Ronaldo, dopo la morte di uno dei due gemelli neonati. Guarda il video]]></summary>
+        <author>
+            <name>Gasport</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Liverpool irresistibile, quattro gol allo United e sorpasso al City: ora è a +2]]></title>
+        <id>https://www.gazzetta.it/Calcio/Premier-League/19-04-2022/premier-liverpool-manchester-united-gol-diaz-mane-doppietta-salah-440123940199.shtml</id>
+        <link href="https://www.gazzetta.it/Calcio/Premier-League/19-04-2022/premier-liverpool-manchester-united-gol-diaz-mane-doppietta-salah-440123940199.shtml"/>
+        <updated>2022-04-19T21:18:53.000Z</updated>
+        <summary type="html"><![CDATA[Liverpool irresistibile, quattro gol al Manchester United e sorpasso al City: ora è a +2
+Partita senza storia, aperta da Diaz dopo appena 5 minuti. Poi sono arrivati anche i gol di Salah (doppietta) e Mané. Klopp torna in testa per una notte, ma domani tocca a Guardiola rispondere]]></summary>
+        <author>
+            <name>Francesco Calvi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Orsini: "Famiglie mi scrivono da Mariupol, non vogliono guerra"]]></title>
+        <id>https://www.adnkronos.com/orsini-famiglie-mi-scrivono-da-mariupol-non-vogliono-guerra_3qNj0lv2XyZCNZ8p0eVBmH</id>
+        <link href="https://www.adnkronos.com/orsini-famiglie-mi-scrivono-da-mariupol-non-vogliono-guerra_3qNj0lv2XyZCNZ8p0eVBmH"/>
+        <updated>2022-04-19T21:18:34.000Z</updated>
+        <summary type="html"><![CDATA[(Adnkronos) - "Queste donne che mi scrivono con bambini morti non hanno voce"]]></summary>
+        <author>
+            <name>webinfo@adnkronos.com (Web Info)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inter-Milan 3-0, nerazzurri in finale di Coppa Italia]]></title>
+        <id>https://www.adnkronos.com/inter-milan-3-0-nerazzurri-in-finale-di-coppa-italia_5A8vGOGlctHsS4IJGG5KOv</id>
+        <link href="https://www.adnkronos.com/inter-milan-3-0-nerazzurri-in-finale-di-coppa-italia_5A8vGOGlctHsS4IJGG5KOv"/>
+        <updated>2022-04-19T21:03:00.000Z</updated>
+        <summary type="html"><![CDATA[(Adnkronos) - Doppietta di Lautaro Martinez e gol di Gosens, rossoneri k.o.]]></summary>
+        <author>
+            <name>webinfo@adnkronos.com (Web Info)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[L'Inter vola con un Lautaro da urlo: 3-0 al Milan e finale di Coppa Italia]]></title>
+        <id>https://www.gazzetta.it/Calcio/Coppa-Italia/19-04-2022/coppa-italia-inter-finale-3-0-milan-lautaro-2-gosens-440122060580.shtml</id>
+        <link href="https://www.gazzetta.it/Calcio/Coppa-Italia/19-04-2022/coppa-italia-inter-finale-3-0-milan-lautaro-2-gosens-440122060580.shtml"/>
+        <updated>2022-04-19T21:01:16.000Z</updated>
+        <summary type="html"><![CDATA[L'Inter vola con un Lautaro da urlo: 3-0 al Milan e finale di Coppa Italia
+Nerazzurri a lungo padroni del campo nel primo tempo, deciso dal Toro. Grande reazione rossonera nella ripresa, ma dopo il gol annullato a Bennacer la chiude il tedesco]]></summary>
+        <author>
+            <name>Luca Taidelli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Superenalotto, numeri estrazione vincente oggi 19 aprile]]></title>
+        <id>https://www.adnkronos.com/superenalotto-numeri-estrazione-vincente-oggi-19-aprile_6ft2lMsv5b6puR7eYQUdpF</id>
+        <link href="https://www.adnkronos.com/superenalotto-numeri-estrazione-vincente-oggi-19-aprile_6ft2lMsv5b6puR7eYQUdpF"/>
+        <updated>2022-04-19T20:33:44.000Z</updated>
+        <summary type="html"><![CDATA[(Adnkronos) - La combinazione vincente di oggi]]></summary>
+        <author>
+            <name>webinfo@adnkronos.com (Web Info)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Piero Fassino verso il processo per l’aggiudicazione dell’ex area Westinghouse a Esselunga]]></title>
+        <id>gnn:lastampa:3148080</id>
+        <link href="https://www.lastampa.it/torino/2022/04/19/news/piero_fassino_verso_il_processo_per_l_aggiudicazione_dell_ex_area_westinghouse_a_esselunga-3148080/"/>
+        <updated>2022-04-19T20:19:34.000Z</updated>
+        <summary type="html"><![CDATA[Piero Fassino verso il processo per il caso “Ream 2”, la vicenda legata all’iter per la vendita dell’area ex Westinghouse. La procura ha chiesto il rinvio a giudizio per l’ex sindaco accusato di turbativa d’asta: avrebbe agito sulla gara per l’ass ... [Continua a leggere sul sito.]]]></summary>
+        <author>
+            <name>lastampa.it - Homepage</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cacciari a Cartabianca: "Patatrac Putin, Russia impantanata"]]></title>
+        <id>https://www.adnkronos.com/cacciari-a-cartabianca-patatrac-putin-russia-impantanata_3l36Zf0QYH2jmPCYShSqyD</id>
+        <link href="https://www.adnkronos.com/cacciari-a-cartabianca-patatrac-putin-russia-impantanata_3l36Zf0QYH2jmPCYShSqyD"/>
+        <updated>2022-04-19T20:10:18.000Z</updated>
+        <summary type="html"><![CDATA[(Adnkronos) - "Europa ha fallito, solo gli Usa giocano ruolo da potenza"]]></summary>
+        <author>
+            <name>webinfo@adnkronos.com (Web Info)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[L'applauso di Anfield per CR7: i tifosi del Liverpool partecipano al suo dramma]]></title>
+        <id>https://www.gazzetta.it/Calcio/Premier-League/19-04-2022/liverpool-applausi-tifosi-ronaldo-che-ha-perso-figlio-440122414160.shtml</id>
+        <link href="https://www.gazzetta.it/Calcio/Premier-League/19-04-2022/liverpool-applausi-tifosi-ronaldo-che-ha-perso-figlio-440122414160.shtml"/>
+        <updated>2022-04-19T20:05:16.000Z</updated>
+        <summary type="html"><![CDATA[L'applauso di Anfield per CR7: i tifosi del Liverpool partecipano al suo dramma
+Allo scoccare del 7' tutti in piedi e l'immancabile coro "You’ll Never Walk Alone". Così i tifosi dei Reds hanno espresso vicinanza al giocatore dello United assente per la perdita di uno dei figli]]></summary>
+        <author>
+            <name>Francesco Calvi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Micic e Larkin affondano l'Olimpia: guarda gli highlights]]></title>
+        <id>https://video.gazzetta.it/video-eurolega-olimpia-milano-anadolu-efes-48-64-highlights/2d8fb514-c01b-11ec-ab19-bcde98bcf1e2</id>
+        <link href="https://video.gazzetta.it/video-eurolega-olimpia-milano-anadolu-efes-48-64-highlights/2d8fb514-c01b-11ec-ab19-bcde98bcf1e2"/>
+        <updated>2022-04-19T20:04:31.000Z</updated>
+        <summary type="html"><![CDATA[Video Eurolega, Olimpia Milano-Anadolu Efes 48-64: gli highlights
+Nella gara-1 dei playoff di Eurolega, l'Olimpia Milano perde in casa contro l'Anadolu Efes per 64-48. Guarda gli highlights del match]]></summary>
+        <author>
+            <name>Gasport</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Davidovich, chef con la racchetta: "Cotoletta e burrata, la mia ricetta per battere Djokovic"]]></title>
+        <id>https://www.gazzetta.it/Tennis/ATP/19-04-2022/davidovich-fokina-intervista-finalista-montecarlo-440119054905.shtml</id>
+        <link href="https://www.gazzetta.it/Tennis/ATP/19-04-2022/davidovich-fokina-intervista-finalista-montecarlo-440119054905.shtml"/>
+        <updated>2022-04-19T20:00:26.000Z</updated>
+        <summary type="html"><![CDATA[Davidovich, chef con la racchetta: "Cotoletta e burrata, la mia ricetta per battere Djokovic"
+Lo spagnolo finalista a Montecarlo ama stare ai fornelli, si è allenato col n.1 e poi l'ha battuto: "Ma il mio idolo è Federer. Aveva un caratteraccio, è diventato il più grande"]]></summary>
+        <author>
+            <name>Federica Cocchi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tinkov attacca Putin e la guerra: "L'esercito è m... come tutto questo Paese"]]></title>
+        <id>https://www.gazzetta.it/Ciclismo/19-04-2022/ucraina-tinkov-attacca-putin-guerra-esercito-merda-come-tutto-questo-paese-440123119748.shtml</id>
+        <link href="https://www.gazzetta.it/Ciclismo/19-04-2022/ucraina-tinkov-attacca-putin-guerra-esercito-merda-come-tutto-questo-paese-440123119748.shtml"/>
+        <updated>2022-04-19T19:54:09.000Z</updated>
+        <summary type="html"><![CDATA[Tinkov attacca Putin e la guerra: "L'esercito è m... come tutto questo Paese"
+Il banchiere russo, ex proprietario dell'omonima squadra di ciclismo, si scaglia contro il conflitto e il leader russo: "Per favore, dategli una chiara uscita perché possa salvare la faccia e fermare il massacro"]]></summary>
+        <author>
+            <name>Gasport</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[La Nord con la storia, la Sud con la maglia: lo spettacolo delle coreografie]]></title>
+        <id>https://video.gazzetta.it/video-inter-milan-coppa-italia-coreografie-due-curve/b4dcd0b2-c019-11ec-ab19-bcde98bcf1e2</id>
+        <link href="https://video.gazzetta.it/video-inter-milan-coppa-italia-coreografie-due-curve/b4dcd0b2-c019-11ec-ab19-bcde98bcf1e2"/>
+        <updated>2022-04-19T19:52:07.000Z</updated>
+        <summary type="html"><![CDATA[Video Inter-Milan Coppa Italia, le coreografie delle due curve
+A San Siro si gioca la semifinale di ritorno di Coppa Italia tra Inter e Milan. Sugli spalti, grande spettacolo con le coreografie della curva Nord e Sud. Guarda le foto più belle]]></summary>
+        <author>
+            <name>Gasport</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vaccino covid, Speranza: "Secondo booster under 80? Possibile prima di autunno"]]></title>
+        <id>https://www.adnkronos.com/vaccino-covid-speranza-secondo-booster-under-80-possibile-prima-di-autunno_2iMulEG7sWbEbns1mteTI7</id>
+        <link href="https://www.adnkronos.com/vaccino-covid-speranza-secondo-booster-under-80-possibile-prima-di-autunno_2iMulEG7sWbEbns1mteTI7"/>
+        <updated>2022-04-19T19:45:56.000Z</updated>
+        <summary type="html"><![CDATA[(Adnkronos) - "E' probabile che la soglia possa scendere"]]></summary>
+        <author>
+            <name>webinfo@adnkronos.com (Web Info)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inter-Milan, la moviola: tolto un gol a Bennacer sul 2-0, ma quanti dubbi...]]></title>
+        <id>https://www.gazzetta.it/Calcio/Serie-A/Inter/19-04-2022/inter-milan-moviola-dubbi-giallo-theo-hernandez-440119852470.shtml</id>
+        <link href="https://www.gazzetta.it/Calcio/Serie-A/Inter/19-04-2022/inter-milan-moviola-dubbi-giallo-theo-hernandez-440119852470.shtml"/>
+        <updated>2022-04-19T19:42:26.000Z</updated>
+        <summary type="html"><![CDATA[Inter-Milan, la moviola: tolto un gol a Bennacer sul 2-0, ma quanti dubbi...
+Tutti gli episodi del derby di Coppa Italia]]></summary>
+        <author>
+            <name>Gasport</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mano sul cuore e occhi lucidi: Adriano commosso a San Siro]]></title>
+        <id>https://video.gazzetta.it/video-inter-milan-coppa-italia-adriano-commosso-san-siro/d6c709b6-c016-11ec-ab19-bcde98bcf1e2</id>
+        <link href="https://video.gazzetta.it/video-inter-milan-coppa-italia-adriano-commosso-san-siro/d6c709b6-c016-11ec-ab19-bcde98bcf1e2"/>
+        <updated>2022-04-19T19:31:40.000Z</updated>
+        <summary type="html"><![CDATA[Video Inter-Milan Coppa Italia, Adriano commosso a San Siro
+Ospite d'onore per la semifinale di ritorno di Coppa Italia tra Inter e Milan: a San Siro è presente anche l'ex attaccante nerazzurro Adriano Leite Ribeiro, che si è commosso per l'accoglienza dei suoi ex tifosi. Guarda le foto più belle]]></summary>
+        <author>
+            <name>Gasport</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Musetti supera Evans a Barcellona: guarda i 3 colpi più belli del match]]></title>
+        <id>https://video.gazzetta.it/video-atp-barcellona-musetti-evans-6-4-7-6-3-colpi-piu-belli/27c58b50-c010-11ec-ab19-bcde98bcf1e2</id>
+        <link href="https://video.gazzetta.it/video-atp-barcellona-musetti-evans-6-4-7-6-3-colpi-piu-belli/27c58b50-c010-11ec-ab19-bcde98bcf1e2"/>
+        <updated>2022-04-19T19:18:54.000Z</updated>
+        <summary type="html"><![CDATA[Musetti supera Evans a Barcellona: guarda i 3 colpi più belli del match
+Nella gara del secondo turno del torneo di tennis Atp di Barcellona, Musetti batte Evans per 6-4, 7-6. Guarda i tre colpi più belli del match]]></summary>
+        <author>
+            <name>Gasport</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mariupol, bombe su acciaieria Azovstal - Video]]></title>
+        <id>https://www.adnkronos.com/mariupol-bombe-su-acciaieria-azovstal-video_27MautVPh0Cz6gIyixxUsQ</id>
+        <link href="https://www.adnkronos.com/mariupol-bombe-su-acciaieria-azovstal-video_27MautVPh0Cz6gIyixxUsQ"/>
+        <updated>2022-04-19T19:09:07.000Z</updated>
+        <summary type="html"><![CDATA[(Adnkronos) - Le immagini dell'offensiva della Russia]]></summary>
+        <author>
+            <name>webinfo@adnkronos.com (Web Info)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Playoff gara-1: Milano crolla in casa, l’Efes è padrona]]></title>
+        <id>https://www.gazzetta.it/Basket/Eurolega/19-04-2022/eurolega-playoff-gara-1-milano-crolla-casa-vince-efes-440121034550.shtml</id>
+        <link href="https://www.gazzetta.it/Basket/Eurolega/19-04-2022/eurolega-playoff-gara-1-milano-crolla-casa-vince-efes-440121034550.shtml"/>
+        <updated>2022-04-19T19:08:37.000Z</updated>
+        <summary type="html"><![CDATA[Playoff gara-1: Milano crolla in casa, l’Efes è padrona
+Brutta gara, brutta sconfitta al Forum e il fattore campo passa nelle mani dei campioni 2021]]></summary>
+        <author>
+            <name>Andrea Tosi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Haaland-City,  un "sì" da 29 milioni all'anno. Ma il feeling con Pep non è scontato]]></title>
+        <id>https://www.gazzetta.it/Calciomercato/19-04-2022/haaland-city-si-29-milioni-anno-ma-feeling-pep-non-scontato-440119113971.shtml</id>
+        <link href="https://www.gazzetta.it/Calciomercato/19-04-2022/haaland-city-si-29-milioni-anno-ma-feeling-pep-non-scontato-440119113971.shtml"/>
+        <updated>2022-04-19T18:58:53.000Z</updated>
+        <summary type="html"><![CDATA[Haaland-City,  un "sì" da 29 milioni all'anno. Ma il feeling con Pep non è scontato
+Il Manchester City darà al norvegese uno stipendio d'oro, anche perché il cartellino costerà "solo" 75 milioni. In passato Guardiola ha avuto problemi nel rapporto coi centravanti: stavolta sarà diverso?]]></summary>
+        <author>
+            <name>Carlo Laudisa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sondaggi Francia 2022, "Macron 10 punti avanti a Le Pen"]]></title>
+        <id>https://www.adnkronos.com/sondaggi-francia-2022-macron-10-punti-avanti-a-le-pen_6dRdXE6mAe7ihEVVmMbulR</id>
+        <link href="https://www.adnkronos.com/sondaggi-francia-2022-macron-10-punti-avanti-a-le-pen_6dRdXE6mAe7ihEVVmMbulR"/>
+        <updated>2022-04-19T18:55:12.000Z</updated>
+        <summary type="html"><![CDATA[(Adnkronos) - In vista del ballottaggio per le presidenziali del 24 aprile]]></summary>
+        <author>
+            <name>webinfo@adnkronos.com (Web Info)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Un po' Carlo, un po' Pep e un po' Klopp: alla scoperta dell'antidivo   Tuchel (che vale i top)]]></title>
+        <id>https://www.gazzetta.it/Calcio/Premier-League/19-04-2022/tuchel-chelsea-ha-top-coach-440115346765.shtml</id>
+        <link href="https://www.gazzetta.it/Calcio/Premier-League/19-04-2022/tuchel-chelsea-ha-top-coach-440115346765.shtml"/>
+        <updated>2022-04-19T18:54:58.000Z</updated>
+        <summary type="html"><![CDATA[Un po' Carlo, un po' Pep e un po' Klopp: alla scoperta dell'antidivo   Tuchel (che vale i top)
+Il tecnico del Chelsea non ha l'appeal dei colleghi più celebrati, ma si sta dimostrando di primo livello per gestione, personalità e spirito innovativo. E dire che voleva fare il pilota di elicotteri...]]></summary>
+        <author>
+            <name>Furio Zara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bimbo di 2 anni precipita con il trattore e muore: la tragedia in una cascina di Saluzzo]]></title>
+        <id>gnn:lastampa:3148015</id>
+        <link href="https://www.lastampa.it/cuneo/2022/04/19/news/bimbo_di_2_anni_muore_dopo_un_incidente_la_tragedia_in_un_azienda_agricola_di_saluzzo-3148015/"/>
+        <updated>2022-04-19T18:49:18.000Z</updated>
+        <summary type="html"><![CDATA[Tragedia in un’azienda agricola sulla collina di Saluzzo dove un bambino di 2 anni è rimasto coinvolto in un incidente mortale. Da quanto si è appreso, il piccolo sarebbe salito a bordo di un trattore di proprietà della famiglia, forse las ... [Continua a leggere sul sito.]]]></summary>
+        <author>
+            <name>lastampa.it - Homepage</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guerra Ucraina-Russia, Biden: "Manderemo più artiglieria a Kiev"]]></title>
+        <id>https://www.adnkronos.com/guerra-ucraina-russia-biden-manderemo-piu-artiglieria-a-kiev_7cmbKT6zW0GWj39GeUwNkf</id>
+        <link href="https://www.adnkronos.com/guerra-ucraina-russia-biden-manderemo-piu-artiglieria-a-kiev_7cmbKT6zW0GWj39GeUwNkf"/>
+        <updated>2022-04-19T18:37:00.000Z</updated>
+        <summary type="html"><![CDATA[(Adnkronos) - In arrivo nuovo pacchetto di aiuti militari. Pentagono: Ucraina ha ricevuto aerei ma non da Usa]]></summary>
+        <author>
+            <name>webinfo@adnkronos.com (Web Info)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Russia, ex funzionario Cremlino trovato morto con moglie e figlia]]></title>
+        <id>https://www.adnkronos.com/russia-ex-funzionario-cremlino-trovato-morto-con-moglie-e-figlia_6EijSJQlUZxVrwT5LQNHOb</id>
+        <link href="https://www.adnkronos.com/russia-ex-funzionario-cremlino-trovato-morto-con-moglie-e-figlia_6EijSJQlUZxVrwT5LQNHOb"/>
+        <updated>2022-04-19T18:29:09.000Z</updated>
+        <summary type="html"><![CDATA[(Adnkronos) - La macabra scoperta nel suo appartamento da 2,4 milioni di euro a Mosca]]></summary>
+        <author>
+            <name>webinfo@adnkronos.com (Web Info)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lewis Askey e la sua Roubaix eroica: 155 km con uno squarcio nella gamba]]></title>
         <id>https://www.gazzetta.it/Ciclismo/19-04-2022/ciclismo-roubaix-lewis-askey-20-anni-dolore-vedevo-dentro-mia-gamba-440117339617.shtml</id>
@@ -59,6 +480,15 @@ L'ex stella brasiliana nei mesi scorsi è stato operato per un tumore al colon. 
 Alle 21 si gioca a Milano il derby di ritorno delle semifinali di Coppa Italia tra Inter e Milan. Tutto esaurito a San Siro, dove i tifosi hanno accolto con grande entusiasmo i pullman delle due squadre. Guarda il video dell'inviato della Gazzetta, Luca Taidelli]]></summary>
         <author>
             <name>Luca Taidelli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guerra Russia-Ucraina, cos'è successo oggi 19 aprile 2022: attacco finale su Mariupol]]></title>
+        <id>gnn:lastampa:3148001</id>
+        <link href="https://www.lastampa.it/esteri/2022/04/19/audio/guerra_russiaucraina_cose_successo_oggi_19_aprile_2022_attacco_finale_su_mariupol-3148001/"/>
+        <updated>2022-04-19T18:12:34.000Z</updated>
+        <author>
+            <name>lastampa.it - Homepage</name>
         </author>
     </entry>
     <entry>
@@ -1256,6 +1686,16 @@ In Campania è andato in scena l'ennesimo "duello" a distanza tra l'allenatore d
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[L'assedio di Mariupol: le immagini del bombardamento dell'acciaieria dove le forze ucraine resistono]]></title>
+        <id>gnn:lastampa:3147425</id>
+        <link href="https://www.lastampa.it/esteri/2022/04/19/video/lassedio_di_mariupol_le_immagini_del_bombardamento_dellacciaieria_dove_le_forze_ucraine_resistono-3147425/"/>
+        <updated>2022-04-19T07:12:31.000Z</updated>
+        <summary type="html"><![CDATA[Il consigliere del sindaco di Mariupol Petro Andryushchenko ha pubblicato un video dal drone che mostra al mattino gli incendi dell'acciaieria di Azovstal …]]></summary>
+        <author>
+            <name>lastampa.it - Homepage</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Federica Nargi tra squat, pasta al pomodoro, Matri e i consigli alle mamme: "Siate costanti"]]></title>
         <id>https://www.gazzetta.it/fitness/19-04-2022/federica-nargi-intervista-matri-squat-pasta-consigli.shtml</id>
         <link href="https://www.gazzetta.it/fitness/19-04-2022/federica-nargi-intervista-matri-squat-pasta-consigli.shtml"/>
@@ -1551,6 +1991,16 @@ Il trio di Golden State dà spettacolo e non lascia scampo a Denver. Jokic  espu
         <link href="https://www.lastampa.it/sport/tennis/2022/04/19/news/tennis_jannick_sinner_non_ho_paura_questa_e_la_mia_forza_guardo_i_grandi_e_continuo_a_imparare_-3147312/"/>
         <updated>2022-04-19T04:00:00.000Z</updated>
         <summary type="html"><![CDATA[Jannik Sinner entusiasma anche quando perde. Per il modo in cui sa stare in campo, per la grinta che ci mette. Perché anche se ha i piedi piagati non si lamenta, continua a giocare, a cercare di vincere. Questa settimana, dopo la sconfitta nei qua ... [Continua a leggere sul sito.]]]></summary>
+        <author>
+            <name>lastampa.it - Homepage</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Condizionatori mai sotto i 25 gradi, così il governo rivoluziona l’estate (e taglia i consumi di gas)]]></title>
+        <id>gnn:lastampa:3147297</id>
+        <link href="https://www.lastampa.it/economia/2022/04/19/news/un_grado_in_piu_o_in_meno-3147297/"/>
+        <updated>2022-04-18T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Un po’ meno fresco d’estate e un po’ meno caldo d’inverno. Anche in questo modo sarà possibile iniziare a fare meno del gas russo. Questo già da subito, visto che storicamente è tra giugno e luglio, quando fa più caldo ed i condizionatori  ... [Continua a leggere sul sito.]]]></summary>
         <author>
             <name>lastampa.it - Homepage</name>
         </author>
@@ -2410,775 +2860,6 @@ La proprietà del Milan potrebbe diventare bahreinita. Una nazione-isola dove so
         <summary type="html"><![CDATA[Il maggiore Sergiy Volyna, comandante della 36esima brigata dei Marines ucraini, assediati a Mariupol, ha scritto una lettera a papa Francesco chiedendo di intervenire «per salvare la popolazione civile allo stremo nella città». «Su ... [Continua a leggere sul sito.]]]></summary>
         <author>
             <name>lastampa.it - Homepage</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jorge Lorenzo: "Porsche Carrera Cup, in pista a tutta per divertirmi"]]></title>
-        <id>https://video.gazzetta.it/porsche-carrera-cup-italia-int-jorge-lorenzo160422/e6d27967-1153-456d-9269-b3a89d32axlk</id>
-        <link href="https://video.gazzetta.it/porsche-carrera-cup-italia-int-jorge-lorenzo160422/e6d27967-1153-456d-9269-b3a89d32axlk"/>
-        <updated>2022-04-18T13:51:33.000Z</updated>
-        <summary type="html"><![CDATA[Il 5 volte campione del mondo del Motomondiale quest'anno passa alle quattro ruote come <a href="https://video.gazzetta.it/valentino-rossi/41c9c88b-c067-41e1-baae-ea978c3cdxlk" title="Valentino Rossi e le emozioni di Imola: &quot;Sogno la 24 Ore di Le Mans. Nel GT è come una giungla&quot;" target="_blank">Valentino Rossi</a>. La nuova carriera di Jorge Lorenzo partirà dalla <a href="https://www.gazzetta.it/Auto/04-04-2022/lorenzo-rossi-correra-porsche-carrera-cup-italia-2022.shtml" title="Lorenzo come Rossi: correrà la Porsche Carrera Cup Italia 2022" target="_blank">Porsche Carrera Cup Italia 2022</a>, dove l'obiettivo sarà quello di uscire dall'abitacolo con il sorriso, ma la grinta da campione non mancherà. La passione per l'automobile è molto forte, collezioni di sportive e di cimeli di piloti, e anche da piccolo qualche allenamento sui kart non è mancato. Ancora non si sa quale sarà il futuro di Jorge nelle corse con le ruote coperte, ma in futuro potremmo vederlo anche alla <a href="https://www.gazzetta.it/Auto/14-04-2022/ecco-ferrari-mans-prime-immagini-gioiello-rosso-disegnato-vento.shtml" title="Ecco la Ferrari per Le Mans: prime immagini del gioiello rosso disegnato dal vento">24 Ore di Le Mans</a>, magari in pista proprio con il numero 46]]></summary>
-        <author>
-            <name>Gazzetta.it</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Milan-Investcorp, l'ambasciata del Bahrain "ufficializza" la trattativa con un tweet]]></title>
-        <id>https://www.gazzetta.it/Calcio/Serie-A/Milan/18-04-2022/milan-investcorp-ambasciata-bahrain-ufficializza-cessione-elliott-un-tweet-440102351559.shtml</id>
-        <link href="https://www.gazzetta.it/Calcio/Serie-A/Milan/18-04-2022/milan-investcorp-ambasciata-bahrain-ufficializza-cessione-elliott-un-tweet-440102351559.shtml"/>
-        <updated>2022-04-18T13:36:13.000Z</updated>
-        <summary type="html"><![CDATA[Cessione Milan, l'ambasciata del Bahrain "ufficializza" la trattativa con Investcorp
-Dopo il post del presidente del fondo, ecco una comunicazione sui social dalla rappresentanza diplomatica del paese del Golfo nel Regno Unito]]></summary>
-        <author>
-            <name>Gasport</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Covid a Shanghai, Tesla riapre la fabbrica a "circolo chiuso"]]></title>
-        <id>https://www.gazzetta.it/motori/la-mia-auto/18-04-2022/covid-shanghai-tesla-altri-pronti-ripartenza.shtml</id>
-        <link href="https://www.gazzetta.it/motori/la-mia-auto/18-04-2022/covid-shanghai-tesla-altri-pronti-ripartenza.shtml"/>
-        <updated>2022-04-18T13:26:31.000Z</updated>
-        <summary type="html"><![CDATA[L'azienda americana avrebbe richiamato i lavoratori, spiegano due fonti interpellate dalla Reuters. Anche Saic e GM pronte a ripartire]]></summary>
-        <author>
-            <name>Gazzetta.it</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A 41 anni si ritira D'Alessandro, l'ex gioiello del River che Moggi voleva  alla Juve]]></title>
-        <id>https://www.calciomercato.com/news/a-41-anni-si-ritira-d-alessandro-l-ex-gioiello-del-river-che-mog-32549</id>
-        <link href="https://www.calciomercato.com/news/a-41-anni-si-ritira-d-alessandro-l-ex-gioiello-del-river-che-mog-32549"/>
-        <updated>2022-04-18T13:02:25.000Z</updated>
-        <summary type="html"><![CDATA[Nella notte ha giocato l'ultima partita della sua carriera - con tanto di gol - Andrés D’Alessandro, che a gennaio scorso era tornato in Brasile]]></summary>
-        <author>
-            <name>Gazzetta.it</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[La rabbia del commentatore putiniano Solovyov sull'affondamento della Moskva: "Come diavolo abbiamo fatto a perderla?"]]></title>
-        <id>gnn:lastampa:3146995</id>
-        <link href="https://www.lastampa.it/esteri/2022/04/18/video/la_rabbia_del_commentatore_putiniano_solovyov_sullaffondamento_della_moskva_come_diavolo_abbiamo_fatto_a_perderla-3146995/"/>
-        <updated>2022-04-18T12:49:23.000Z</updated>
-        <summary type="html"><![CDATA["Come diavolo abbiamo fatto a perdere la Moskva?", è la domanda che il commentatore filoputiniano Vladimir Solovyov si è post…]]></summary>
-        <author>
-            <name>lastampa.it - Homepage</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tris Cremonese, Lecce ko. Colpo del Pisa. Rossi salva la Spal, Pordenone retrocesso]]></title>
-        <id>https://www.gazzetta.it/Calcio/Serie-B/18-04-2022/serie-b-spal-crotone-reggina-lecce-pordenone-benevento-monza-brescia-440103345722.shtml</id>
-        <link href="https://www.gazzetta.it/Calcio/Serie-B/18-04-2022/serie-b-spal-crotone-reggina-lecce-pordenone-benevento-monza-brescia-440103345722.shtml"/>
-        <updated>2022-04-18T12:45:09.000Z</updated>
-        <summary type="html"><![CDATA[Tris Cremonese, Lecce ko. Colpo del Pisa. Rossi salva la Spal, Pordenone retrocesso
-Grigiorossi di nuovo in vetta con la vittoria in rimonta sul Cosenza. Pugliesi battuti dalla Reggina. I toscani battono il Como, il Benevento asfalta i neroverdi che scendono in C. Vittoria esterna del Perugia a Vicenza, ferraresi a un passo dal k.o. casalingo col Crotone. Alle 21 Monza-Brescia]]></summary>
-        <author>
-            <name>Matteo Lignelli</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Allegri farà peggio di Sarri e Pirlo. Ecco perché con loro fu addio e lui resterà]]></title>
-        <id>https://www.gazzetta.it/Calcio/Serie-A/Juventus/18-04-2022/juve-allegri-peggio-sarri-pirlo-perche-non-sara-addio-a-meno-che-440100563818.shtml</id>
-        <link href="https://www.gazzetta.it/Calcio/Serie-A/Juventus/18-04-2022/juve-allegri-peggio-sarri-pirlo-perche-non-sara-addio-a-meno-che-440100563818.shtml"/>
-        <updated>2022-04-18T12:32:03.000Z</updated>
-        <summary type="html"><![CDATA[Allegri farà peggio di Sarri e Pirlo. Ecco perché con loro fu addio e lui resterà
-Max verso un ulteriore passo indietro nei risultati bianconeri.  Ma al di là del contratto il livornese è considerato il più credibile per il progetto. Sempre che non si finisca per mancare l’obiettivo minimo]]></summary>
-        <author>
-            <name>Giovanni Albanese</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I caccia russi in formazione disegnano la Z nei cieli: così Mosca prepara la festa del 9 maggio]]></title>
-        <id>gnn:lastampa:3146990</id>
-        <link href="https://www.lastampa.it/esteri/2022/04/18/video/i_caccia_russi_in_formazione_disegnano_la_z_nei_cieli_cosi_mosca_prepara_la_festa_del_9_maggio-3146990/"/>
-        <updated>2022-04-18T12:29:41.000Z</updated>
-        <summary type="html"><![CDATA[Un video di pochi secondi, diffuso da un'agenzia d'informazione di Mosca, per preparare il popolo russo alla festa del 9 maggio. Otto caccia del C…]]></summary>
-        <author>
-            <name>lastampa.it - Homepage</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Covid oggi Lazio, 1.986 contagi e 4 morti: a Roma 1.272 casi]]></title>
-        <id>https://www.adnkronos.com/covid-oggi-lazio-1986-contagi-e-4-morti-a-roma-1272-casi_2KwFWv8imGAVInMdXHblZp</id>
-        <link href="https://www.adnkronos.com/covid-oggi-lazio-1986-contagi-e-4-morti-a-roma-1272-casi_2KwFWv8imGAVInMdXHblZp"/>
-        <updated>2022-04-18T12:24:41.000Z</updated>
-        <summary type="html"><![CDATA[(Adnkronos) - Il bollettino di oggi, 18 aprile]]></summary>
-        <author>
-            <name>webinfo@adnkronos.com (Web Info)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Karakurt trascina, Novara sbarca in semifinale dove c’è Monza]]></title>
-        <id>https://www.gazzetta.it/Volley/16-04-2022/volley-novara-sbarca-semifinale-dove-c-monza-44081969500.shtml</id>
-        <link href="https://www.gazzetta.it/Volley/16-04-2022/volley-novara-sbarca-semifinale-dove-c-monza-44081969500.shtml"/>
-        <updated>2022-04-18T12:24:22.000Z</updated>
-        <summary type="html"><![CDATA[Volley: Karakurt trascina, Novara sbarca in semifinale dove c’è Monza 
-Nulla da fare per Cuneo che in gara-3 dei quarti di finale viene superata 3-0. L’altra semifinale è Conegliano-Scandicci]]></summary>
-        <author>
-            <name>Gasport</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mario Draghi positivo al Covid: il premier non andrà in missione in Africa]]></title>
-        <id>https://www.gazzetta.it/Altri-Mondi/18-04-2022/mario-draghi-positivo-covid-asintomatico-440102715158.shtml</id>
-        <link href="https://www.gazzetta.it/Altri-Mondi/18-04-2022/mario-draghi-positivo-covid-asintomatico-440102715158.shtml"/>
-        <updated>2022-04-18T12:24:18.000Z</updated>
-        <summary type="html"><![CDATA[Mario Draghi positivo al Covid: il premier non andrà in missione in Africa
-Il Presidente del Consiglio aveva in agenda un viaggio in Angola e Repubblica del Congo: sarà sostituito dai ministri Di Maio e Cingolani]]></summary>
-        <author>
-            <name>Gasport</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nuzzo-Di Biase e la 2CV: "Due cuori e un meccanico"]]></title>
-        <id>https://www.gazzetta.it/motori/la-mia-auto/18-04-2022/autovelox-nuzzo-di-biase-auto-moto-intervista.shtml</id>
-        <link href="https://www.gazzetta.it/motori/la-mia-auto/18-04-2022/autovelox-nuzzo-di-biase-auto-moto-intervista.shtml"/>
-        <updated>2022-04-18T12:08:09.000Z</updated>
-        <summary type="html"><![CDATA[Coppia comica in scena, coppia nella vita. Corrado Nuzzo e Maria Di Biase condividono anche le (dis)avventure su mezzi datati ma pieni di fascino come una 2CV rossa o le due ruote. Intervista di coppia tutta da ridere]]></summary>
-        <author>
-            <name>Gazzetta.it</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morto Piergiorgio Bellocchio, scrittore e intellettuale militante. Fondò “Quaderni piacentini”]]></title>
-        <id>gnn:lastampa:3146988</id>
-        <link href="https://www.lastampa.it/cultura/2022/04/18/news/morto_piergiorgio_bellocchio_scrittore_e_intellettuale_militante_fondo_quaderni_piacentini_-3146988/"/>
-        <updated>2022-04-18T12:00:41.000Z</updated>
-        <summary type="html"><![CDATA[Lo scrittore e critico letterario Piergiorgio Bellocchio, tra i più noti intellettuali militanti della sinistra eterodossa, che con la sua rivista Quaderni piacentini ha dato un contributo determinante al rinnovamento della cultura i ... [Continua a leggere sul sito.]]]></summary>
-        <author>
-            <name>lastampa.it - Homepage</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gigio ci ricasca, il Psg si interroga: ritorno in Italia? I tifosi Milan dicono no]]></title>
-        <id>https://www.gazzetta.it/Calcio/Ligue-1/18-04-2022/psg-donnarumma-mercato-equipe-potrebbe-tornare-milan-440102440625.shtml</id>
-        <link href="https://www.gazzetta.it/Calcio/Ligue-1/18-04-2022/psg-donnarumma-mercato-equipe-potrebbe-tornare-milan-440102440625.shtml"/>
-        <updated>2022-04-18T11:48:12.000Z</updated>
-        <summary type="html"><![CDATA[Donnarumma ci ricasca, il Psg si interroga: ritorno in Italia? I tifosi Milan dicono no
-Nuova papera di Donnarumma in campionato. Tra le incognite sul futuro tecnico del Psg, l'Equipe aggiunge anche un possibile clamoroso ritorno in Italia. Ma ci sono molti elementi per dubitare. Compreso l'umore dei tifosi rossoneri]]></summary>
-        <author>
-            <name>Alessandro Grandesso</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morto Piergiorgio Bellocchio, intellettuale militante]]></title>
-        <id>https://www.adnkronos.com/morto-piergiorgio-bellocchio-intellettuale-militante_61WWSdyPfdQhk1FGp9GUqv</id>
-        <link href="https://www.adnkronos.com/morto-piergiorgio-bellocchio-intellettuale-militante_61WWSdyPfdQhk1FGp9GUqv"/>
-        <updated>2022-04-18T11:47:55.000Z</updated>
-        <summary type="html"><![CDATA[(Adnkronos) - Aveva 90 anni. Con la sua rivista "Quaderni piacentini" ha dato un contributo determinante al rinnovamento della cultura italiana]]></summary>
-        <author>
-            <name>webinfo@adnkronos.com (Web Info)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Damiano dei Maneskin dal Coachella alla Roma, il basket, la dieta e... tutto su di lui]]></title>
-        <id>https://www.gazzetta.it/fitness/allenamento/storie/18-04-2022/damiano-david-maneskin-coachella-sport-alimentazione-basket-1650281690/</id>
-        <link href="https://www.gazzetta.it/fitness/allenamento/storie/18-04-2022/damiano-david-maneskin-coachella-sport-alimentazione-basket-1650281690/"/>
-        <updated>2022-04-18T11:35:04.000Z</updated>
-        <summary type="html"><![CDATA[Il leader dei Maneskin Damiano David si è presentato in forma strepitosa sul palco del Coachella: ecco come si è preparato tra sport e una dieta sanissima.]]></summary>
-        <author>
-            <name>Gazzetta.it</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Milan,  tesoretto Hauge: scatta il riscatto dell'Eintracht Francoforte, ecco le cifre]]></title>
-        <id>https://www.calciomercato.com/news/milan-ecco-il-tesoretto-hauge-scatta-il-riscatto-dell-eintracht--28107</id>
-        <link href="https://www.calciomercato.com/news/milan-ecco-il-tesoretto-hauge-scatta-il-riscatto-dell-eintracht--28107"/>
-        <updated>2022-04-18T11:32:37.000Z</updated>
-        <summary type="html"><![CDATA[L’Eintracht Francoforte, protagonista di una grande avventura in Europa League con tanto di uno scalpo eccellente come quello del Barcellona, ieri ha festeggiato]]></summary>
-        <author>
-            <name>Gazzetta.it</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mariupol, l'ex soldato e il combattente anti Isis: chi sono i britannici catturati]]></title>
-        <id>https://www.adnkronos.com/mariupol-lex-soldato-e-il-combattente-anti-isis-chi-sono-i-britannici-catturati_6k7wPA88EJeg0EySTyAcUb</id>
-        <link href="https://www.adnkronos.com/mariupol-lex-soldato-e-il-combattente-anti-isis-chi-sono-i-britannici-catturati_6k7wPA88EJeg0EySTyAcUb"/>
-        <updated>2022-04-18T11:32:24.000Z</updated>
-        <summary type="html"><![CDATA[(Adnkronos) - Si chiamano Shaun Pinner e Aiden Aslin i due combattenti apparsi sulla tv russa]]></summary>
-        <author>
-            <name>webinfo@adnkronos.com (Web Info)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Musetti, buona la prima a Barcellona:  supera Baez, ora c'è Evans]]></title>
-        <id>https://www.gazzetta.it/Tennis/ATP/18-04-2022/barcellona-500-musetti-baez-7-5-7-5-ora-c-evans-440102715815.shtml</id>
-        <link href="https://www.gazzetta.it/Tennis/ATP/18-04-2022/barcellona-500-musetti-baez-7-5-7-5-ora-c-evans-440102715815.shtml"/>
-        <updated>2022-04-18T11:32:16.000Z</updated>
-        <summary type="html"><![CDATA[A Barcellona Musetti supera Baez. Al prossimo turno troverà Evans 
-Il toscano approda al secondo round del Trofeo Conde De Godó imponendosi per 7-5 7-5 sull’argentino. Prossimo avversario, il britannico n.12 del seeding]]></summary>
-        <author>
-            <name>Arianna Nardi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dal circolo di Galatina al 5° posto nel ranking. Com’era Tsitsipas quando giocava in Italia?]]></title>
-        <id>https://www.gazzetta.it/fitness/allenamento/storie/12-05-2021/tsitsipas-com-era-quando-giocava-italia-inizio-carriera-1620800093/</id>
-        <link href="https://www.gazzetta.it/fitness/allenamento/storie/12-05-2021/tsitsipas-com-era-quando-giocava-italia-inizio-carriera-1620800093/"/>
-        <updated>2022-04-18T11:24:06.000Z</updated>
-        <summary type="html"><![CDATA[Il tennista greco, numero 5 della classifica ATP, ha iniziato la carriera nel Circolo Tennis Galatina, in Puglia: ecco come e quando]]></summary>
-        <author>
-            <name>Gazzetta.it</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Latina, 13enne morta dopo panino: Procura apre fascicolo]]></title>
-        <id>https://www.adnkronos.com/latina-13enne-morta-dopo-panino-procura-apre-fascicolo_7xDY8Hgh1B1xFb3YFk6Ppx</id>
-        <link href="https://www.adnkronos.com/latina-13enne-morta-dopo-panino-procura-apre-fascicolo_7xDY8Hgh1B1xFb3YFk6Ppx"/>
-        <updated>2022-04-18T11:22:06.000Z</updated>
-        <summary type="html"><![CDATA[(Adnkronos) - A carico di ignoti in relazione al decesso di Martina Quadrino avvenuto giovedì scorso]]></summary>
-        <author>
-            <name>webinfo@adnkronos.com (Web Info)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ucraina, gen.Tricarico: "Con 'porte chiuse' a Putin crescono timori per opzione nucleare"]]></title>
-        <id>https://www.adnkronos.com/ucraina-gentricarico-con-porte-chiuse-a-putin-crescono-timori-per-opzione-nucleare_rJYLBA53tE2Sc0ITJDM3V</id>
-        <link href="https://www.adnkronos.com/ucraina-gentricarico-con-porte-chiuse-a-putin-crescono-timori-per-opzione-nucleare_rJYLBA53tE2Sc0ITJDM3V"/>
-        <updated>2022-04-18T11:09:18.000Z</updated>
-        <summary type="html"><![CDATA[(Adnkronos) - "Per uscire da questa preoccupante impasse serve qualcuno che sparigli una situazione che rischia di incancrenirsi"]]></summary>
-        <author>
-            <name>webinfo@adnkronos.com (Web Info)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mariupol, catturati due britannici: il messaggio sulla tv russa]]></title>
-        <id>https://www.adnkronos.com/mariupol-catturati-due-britannici-il-messaggio-sulla-tv-russa_695TvdqaDfsPusgAjRtGEb</id>
-        <link href="https://www.adnkronos.com/mariupol-catturati-due-britannici-il-messaggio-sulla-tv-russa_695TvdqaDfsPusgAjRtGEb"/>
-        <updated>2022-04-18T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[(Adnkronos) - Chiedono a Johnson di essere scambiati con Medvedchuk. Il leader filorusso chiede invece lo scambio con "civili e difensori" di Mariupol]]></summary>
-        <author>
-            <name>webinfo@adnkronos.com (Web Info)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elden Ring: i 10 migliori posti da visitare]]></title>
-        <id>https://esports.gazzetta.it/gaming/speciali/18-04-2022/elden-ring-10-migliori-posti-72605</id>
-        <link href="https://esports.gazzetta.it/gaming/speciali/18-04-2022/elden-ring-10-migliori-posti-72605"/>
-        <updated>2022-04-18T10:59:06.000Z</updated>
-        <summary type="html"><![CDATA[Nel giorno di Pasquetta, l'Interregno di Elden Ring è un mondo che ha tanti luoghi perfetti per meditazioni e scampagnate. Ecco i migliori.]]></summary>
-        <author>
-            <name>Gazzetta.it</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Draghi positivo al Covid, è asintomatico]]></title>
-        <id>https://www.adnkronos.com/draghi-positivo-al-covid-e-asintomatico_6zqQfv10UJhZiKS4xYXOP</id>
-        <link href="https://www.adnkronos.com/draghi-positivo-al-covid-e-asintomatico_6zqQfv10UJhZiKS4xYXOP"/>
-        <updated>2022-04-18T10:50:57.000Z</updated>
-        <summary type="html"><![CDATA[(Adnkronos) - A rappresentare il governo nelle missioni in Angola e Congo, i ministri Di Maio e Cingolani]]></summary>
-        <author>
-            <name>webinfo@adnkronos.com (Web Info)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inzaghi: "Inter, usa gli episodi per vincere. In estate arriverà il vice-Brozovic"]]></title>
-        <id>https://www.gazzetta.it/Calcio/Coppa-Italia/18-04-2022/coppa-italia-inter-milan-inzaghi-carichi-motivati-vincere-440101084298.shtml</id>
-        <link href="https://www.gazzetta.it/Calcio/Coppa-Italia/18-04-2022/coppa-italia-inter-milan-inzaghi-carichi-motivati-vincere-440101084298.shtml"/>
-        <updated>2022-04-18T10:50:07.000Z</updated>
-        <summary type="html"><![CDATA[Inzaghi: "Inter, usa gli episodi per vincere. In estate arriverà il vice-Brozovic"
-Il tecnico nerazzurro alla vigilia della sfida di Coppa col Milan: "Nei tre derby precedenti potevamo ottenere di più. La regola del gol in trasferta? Bisognava fare come in Europa"]]></summary>
-        <author>
-            <name>Luca Taidelli</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Il presidente del Consiglio Mario Draghi è positivo al Covid, ed è asintomatico]]></title>
-        <id>gnn:lastampa:3146960</id>
-        <link href="https://www.lastampa.it/politica/2022/04/18/news/il_presidente_del_consiglio_mario_draghi_e_positivo_al_covid_ed_e_asintomatico-3146960/"/>
-        <updated>2022-04-18T10:46:16.000Z</updated>
-        <summary type="html"><![CDATA[Il presidente del Consiglio Mario Draghi è positivo al Covid, ed è asintomatico. 
-A rappresentare il Governo nelle missioni nella Repubblica dell’Angola e nella Repubblica del Congo, previste mercoledì 20 e giovedì 21 aprile, saranno i ... [Continua a leggere sul sito.]]]></summary>
-        <author>
-            <name>lastampa.it - Homepage</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Insulti e minacce online a Zaki dopo un tweet su Juve-Bologna]]></title>
-        <id>gnn:lastampa:3146955</id>
-        <link href="https://www.lastampa.it/cronaca/2022/04/18/news/insulti_e_minacce_online_a_zaki_dopo_un_tweet_su_juvebologna-3146955/"/>
-        <updated>2022-04-18T10:42:25.000Z</updated>
-        <summary type="html"><![CDATA[«Due cartellini rossi, stanno ancora pagando. Forza Bologna». Le poche parole utilizzate da Patrick Zaki per commentare le fasi concitate del finale di gara con la Juventus non sono passate inosservate su Twitter e lo hanno esposto al mirino di un ... [Continua a leggere sul sito.]]]></summary>
-        <author>
-            <name>lastampa.it - Homepage</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Supercoppa spagnola in Arabia,  scandalo coinvolge Piqué e il presidente federale]]></title>
-        <id>https://www.gazzetta.it/Calcio/Liga/18-04-2022/supercoppa-spagnola-arabia-pique-bufera-440101826911.shtml</id>
-        <link href="https://www.gazzetta.it/Calcio/Liga/18-04-2022/supercoppa-spagnola-arabia-pique-bufera-440101826911.shtml"/>
-        <updated>2022-04-18T10:34:47.000Z</updated>
-        <summary type="html"><![CDATA[Supercoppa spagnola in Arabia,  scandalo coinvolge Piqué e il presidente federale
-"Otto milioni a Real e Barça, 6 chili li tieni tu...". El Confidencial pubblica le intercettazioni tra il difensore-manager del Barcellona e il numero uno della federazione Rubiales]]></summary>
-        <author>
-            <name>Filippo Maria Ricci</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ucraina, Peskov: "Russia avanti secondo i piani"]]></title>
-        <id>https://www.adnkronos.com/ucraina-peskov-russia-avanti-secondo-i-piani_5BsR4IxIc8ahK9J9GUY2lJ</id>
-        <link href="https://www.adnkronos.com/ucraina-peskov-russia-avanti-secondo-i-piani_5BsR4IxIc8ahK9J9GUY2lJ"/>
-        <updated>2022-04-18T10:34:43.000Z</updated>
-        <summary type="html"><![CDATA[(Adnkronos) - "Video su attacco Moskva? Non verificabile. Negoziati? Avanti, ma potrebbe andare meglio"]]></summary>
-        <author>
-            <name>webinfo@adnkronos.com (Web Info)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LIVE Dalle 19 Napoli-Roma: Ospina ha l'influenza, Abraham cerca il record]]></title>
-        <id>https://www.gazzetta.it/Calcio/Serie-A/Napoli/18-04-2022/napoli-roma-diretta-serie-a-risultato-live-440101869300.shtml</id>
-        <link href="https://www.gazzetta.it/Calcio/Serie-A/Napoli/18-04-2022/napoli-roma-diretta-serie-a-risultato-live-440101869300.shtml"/>
-        <updated>2022-04-18T10:31:35.000Z</updated>
-        <summary type="html"><![CDATA[Napoli-Roma LIVE: le probabili formazioni e dove vederla | La Diretta
-Il posticipo della 33ª giornata di Serie A: gli azzurri puntano a restare agganciati al treno scudetto, i giallorossi sognano la Champions]]></summary>
-        <author>
-            <name>Gasport</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ucraina-Russia, testate e armi nucleari 'tattiche': l'arsenale di Mosca]]></title>
-        <id>https://www.adnkronos.com/ucraina-russia-testate-e-armi-nucleari-tattiche-larsenale-di-mosca_6ij8f0Hr5QJd8Qoi9ChAM3</id>
-        <link href="https://www.adnkronos.com/ucraina-russia-testate-e-armi-nucleari-tattiche-larsenale-di-mosca_6ij8f0Hr5QJd8Qoi9ChAM3"/>
-        <updated>2022-04-18T10:24:01.000Z</updated>
-        <summary type="html"><![CDATA[(Adnkronos) - Torna la paura per un possibile ricorso ad armi nucleari da parte di Putin]]></summary>
-        <author>
-            <name>webinfo@adnkronos.com (Web Info)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Truffa del car sharing, centinaia di profili falsi per usare le Enjoy]]></title>
-        <id>https://www.gazzetta.it/motori/la-mia-auto/18-04-2022/car-sharing-centinaia-profili-falsi-noleggiare.shtml</id>
-        <link href="https://www.gazzetta.it/motori/la-mia-auto/18-04-2022/car-sharing-centinaia-profili-falsi-noleggiare.shtml"/>
-        <updated>2022-04-18T10:16:57.000Z</updated>
-        <summary type="html"><![CDATA[L'indagine della polizia locale di Milano, in collaborazione con Eni, ha portato alla scoperta di 220 account falsi e alla denuncia di 70 persone. Ecco come funzionava la frode]]></summary>
-        <author>
-            <name>Gazzetta.it</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Giroud, interista mancato per un soffio. E Galliani volò a Sarajevo per Dzeko...]]></title>
-        <id>https://www.gazzetta.it/Calcio/Serie-A/Milan/18-04-2022/giroud-interista-mancato-galliani-volo-sarajevo-dzeko-44081133144.shtml</id>
-        <link href="https://www.gazzetta.it/Calcio/Serie-A/Milan/18-04-2022/giroud-interista-mancato-galliani-volo-sarajevo-dzeko-44081133144.shtml"/>
-        <updated>2022-04-18T10:16:31.000Z</updated>
-        <summary type="html"><![CDATA[Giroud, interista mancato per un soffio. E Galliani volò a Sarajevo per Dzeko...
-Il francese avrebbe potuto vestire nerazzurro, ma rimase al Chelsea e diventò campione d'Europa. Il bosniaco fu a un passo dal Milan ai tempi del Wolfsburg]]></summary>
-        <author>
-            <name>Francesco Pietrella</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Torino, operata da sveglia in gravidanza per una gravissima infezione al torace: salvi mamma e feto]]></title>
-        <id>gnn:lastampa:3146950</id>
-        <link href="https://www.lastampa.it/torino/2022/04/18/news/torino_operata_da_sveglia_in_gravidanza_per_una_gravissima_infezione_al_torace_salvi_mamma_e_feto-3146950/"/>
-        <updated>2022-04-18T10:13:41.000Z</updated>
-        <summary type="html"><![CDATA[TORINO. Una donna di 39 anni alla 17esimnasettimana di gravidanza viene colpita da una gravissima infezione polmonare e del torace. E’ accaduto pochi giorni fa. Una probabile polmonite trascurata ha condotto la donna a recarsi presso il Pront ... [Continua a leggere sul sito.]]]></summary>
-        <author>
-            <name>lastampa.it - Homepage</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uragano Jayson Tatum: dal figlio al Covid, dall'inalatore, alla dieta. Ecco il suo mondo]]></title>
-        <id>https://www.gazzetta.it/fitness/allenamento/storie/18-04-2022/jayson-tatum-figlio-covid-inalatore-dieta-tutto-suo-mondo-1650276781/</id>
-        <link href="https://www.gazzetta.it/fitness/allenamento/storie/18-04-2022/jayson-tatum-figlio-covid-inalatore-dieta-tutto-suo-mondo-1650276781/"/>
-        <updated>2022-04-18T10:13:14.000Z</updated>
-        <summary type="html"><![CDATA[La stella NBA Jayson Tatum a 24 anni è un papà responsabile e un campione dentro e fuori dal campo. Le curiosità su di lui dall'inalatore al panino speciale.]]></summary>
-        <author>
-            <name>Gazzetta.it</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ucraina, Banca centrale russa pianifica azione legale contro sanzioni]]></title>
-        <id>https://www.adnkronos.com/ucraina-banca-centrale-russa-pianifica-azione-legale-contro-sanzioni_61eB1jYRRJtlEZlmVyOEyv</id>
-        <link href="https://www.adnkronos.com/ucraina-banca-centrale-russa-pianifica-azione-legale-contro-sanzioni_61eB1jYRRJtlEZlmVyOEyv"/>
-        <updated>2022-04-18T10:09:07.000Z</updated>
-        <summary type="html"><![CDATA[(Adnkronos) - "Le riserve non sono infinite" e per questo "è necessario trasformare l'economia"]]></summary>
-        <author>
-            <name>webinfo@adnkronos.com (Web Info)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Imola, come funziona la nuova F1 Sprint: mini GP sabato con più punti e griglia di partenza]]></title>
-        <id>https://www.gazzetta.it/Formula-1/18-04-2022/imola-come-funziona-nuova-f1-sprint-sabato.shtml</id>
-        <link href="https://www.gazzetta.it/Formula-1/18-04-2022/imola-come-funziona-nuova-f1-sprint-sabato.shtml"/>
-        <updated>2022-04-18T10:07:42.000Z</updated>
-        <summary type="html"><![CDATA[Nel fine settimana debutta il nuovo format: qualifica tradizionale il venerdì per assegnare la pole e definire lo schieramento della Sprint di sabato che assegnerà 8 punti al vincitore Scoprima come]]></summary>
-        <author>
-            <name>Gazzetta.it</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Roma, picchiato dopo lite su viabilità: è grave]]></title>
-        <id>https://www.adnkronos.com/roma-picchiato-dopo-lite-su-viabilita-e-grave_615vsdPQgpHPHXVmjecMv9</id>
-        <link href="https://www.adnkronos.com/roma-picchiato-dopo-lite-su-viabilita-e-grave_615vsdPQgpHPHXVmjecMv9"/>
-        <updated>2022-04-18T10:04:14.000Z</updated>
-        <summary type="html"><![CDATA[(Adnkronos) - Il pestaggio ieri in zona Tuscolana]]></summary>
-        <author>
-            <name>webinfo@adnkronos.com (Web Info)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Calabria in dubbio, Brahim fuori per scelta: le ultime da Milanello]]></title>
-        <id>https://video.gazzetta.it/video-inter-milan-probabile-formazione-pioli/85f0ffc4-befe-11ec-9b69-aa17de14ae1a</id>
-        <link href="https://video.gazzetta.it/video-inter-milan-probabile-formazione-pioli/85f0ffc4-befe-11ec-9b69-aa17de14ae1a"/>
-        <updated>2022-04-18T10:04:08.000Z</updated>
-        <summary type="html"><![CDATA[Calabria in dubbio, Brahim fuori per scelta: le ultime da Milanello
-Martedì Milan in campo per la semifinale di ritorno di Coppa Italia: Marco Pasotto, da Milanello, sulla conferenza stampa di Pioli e le ultime di formazione.]]></summary>
-        <author>
-            <name>Marco Pasotto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alpini, Giovanardi: "No a data divisiva, Ana proponga a parlamento il 15/10"]]></title>
-        <id>https://www.adnkronos.com/alpini-giovanardi-no-a-data-divisiva-ana-proponga-a-parlamento-il-1510_ShkTeZq7Do5f0vDcJjH3d</id>
-        <link href="https://www.adnkronos.com/alpini-giovanardi-no-a-data-divisiva-ana-proponga-a-parlamento-il-1510_ShkTeZq7Do5f0vDcJjH3d"/>
-        <updated>2022-04-18T10:01:34.000Z</updated>
-        <summary type="html"><![CDATA[(Adnkronos) - "L'Associazione nazionale alpini mi ha sempre onorato della sua amicizia che ho sempre cercato di ricambiare con ammirazione e stima". Lo afferma l'ex ministro Carlo Giovanardi, che per quasi vent' anni ha rappresentato governo e parlamento alle adunate nazionali della associazione.]]></summary>
-        <author>
-            <name>webinfo@adnkronos.com (Web Info)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ineos 3.0, con la Roubaix si è compiuta la rivoluzione dell’Impero]]></title>
-        <id>https://www.gazzetta.it/Ciclismo/18-04-2022/ciclismo-ineos-il-successo-roubaix-rivoluzione-compiuta-440101238174.shtml</id>
-        <link href="https://www.gazzetta.it/Ciclismo/18-04-2022/ciclismo-ineos-il-successo-roubaix-rivoluzione-compiuta-440101238174.shtml"/>
-        <updated>2022-04-18T09:57:23.000Z</updated>
-        <summary type="html"><![CDATA[Ineos 3.0, non solo grandi giri: con il successo  alla Roubaix la rivoluzione dell’Impero si è compiuta
- Dalla nascita di Sky nel 2010 alla Ineos-Grenadiers 2022 che, priva  di Bernal, punta sul gruppo e sulle classiche: analisi di una trasformazione nel segno del successo]]></summary>
-        <author>
-            <name>Ciro Scognamiglio</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brenda Gonzalez tra Tiki Taka, boxe, dieta e Messi: "Cresciuti nello stesso quartiere"]]></title>
-        <id>https://www.gazzetta.it/fitness/18-04-2022/brenda-gonzalez-regina-tiki-taka-boxe-dieta.shtml</id>
-        <link href="https://www.gazzetta.it/fitness/18-04-2022/brenda-gonzalez-regina-tiki-taka-boxe-dieta.shtml"/>
-        <updated>2022-04-18T09:45:59.000Z</updated>
-        <summary type="html"><![CDATA[A tu per tu con la modella argentina che ci racconta come si tiene in forma tra cibo e sport]]></summary>
-        <author>
-            <name>Gazzetta.it</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[La governatrice della Banca centrale russa Nabiullina ammette: “Le sanzioni colpiscono l’economia. Il periodo in cui l'economia può vivere sulle scorte è limitato”]]></title>
-        <id>gnn:lastampa:3146921</id>
-        <link href="https://www.lastampa.it/esteri/2022/04/18/news/banca_centrale_russa_sanzioni_iniziano_a_colpire_l_economia_scorte_limitate_-3146921/"/>
-        <updated>2022-04-18T09:45:45.000Z</updated>
-        <summary type="html"><![CDATA[ROMA. Le sanzioni imposte dopo il conflitto in Ucraina «hanno colpito in un primo momento il mercato finanziario anche se ora avranno un impatto più forte sull'economia russa», afferma, in un discorso alla Duma, la governatrice della Ban ... [Continua a leggere sul sito.]]]></summary>
-        <author>
-            <name>lastampa.it - Homepage</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Musica, danza, arte e lo sport per i meno fortunati: Margherita Vicario tra palco, campo e dieta]]></title>
-        <id>https://www.gazzetta.it/fitness/allenamento/storie/18-04-2022/margherita-vicario-nero-a-meta-concerti-sport-danza-1650275095/</id>
-        <link href="https://www.gazzetta.it/fitness/allenamento/storie/18-04-2022/margherita-vicario-nero-a-meta-concerti-sport-danza-1650275095/"/>
-        <updated>2022-04-18T09:45:02.000Z</updated>
-        <summary type="html"><![CDATA[Qualche curiosità su Margherita Vicario, cantante e attrice ora in tv in Nero a metà 3. La musica, i concerti, la danza, lo sport, i capelli e altre curiosità.]]></summary>
-        <author>
-            <name>Gazzetta.it</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Butler, Giannis, CP3: il meglio della notte Nba]]></title>
-        <id>https://video.gazzetta.it/video-nba-highlights-partite-notte-playoff-18-aprile/be57331a-bef4-11ec-9b69-aa17de14ae1a</id>
-        <link href="https://video.gazzetta.it/video-nba-highlights-partite-notte-playoff-18-aprile/be57331a-bef4-11ec-9b69-aa17de14ae1a"/>
-        <updated>2022-04-18T09:29:55.000Z</updated>
-        <summary type="html"><![CDATA[NBA Playoff, highlights: le partite della notte (18 aprile)
-Il recap delle partite Nba disputate nella notte italiana tra il 17 e il 18 aprile.]]></summary>
-        <author>
-            <name>Gasport</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Milan, chi è stato il giocatore più caro della gestione Elliott? La top 10]]></title>
-        <id>https://www.ilmilanista.it/news-milan/ultime-notizie/milan-acquisti-costosi-elliott/1/</id>
-        <link href="https://www.ilmilanista.it/news-milan/ultime-notizie/milan-acquisti-costosi-elliott/1/"/>
-        <updated>2022-04-18T09:23:45.000Z</updated>
-        <summary type="html"><![CDATA[Quali sono i colpi di mercato più cari della gestione Elliott? Ecco la top 10 della presidenza di Paul Singer.]]></summary>
-        <author>
-            <name>Gazzetta.it</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inter-Milan: il Diavolo vuole vendicare il k.o. dell’anno scorso. E nel 2004-05]]></title>
-        <id>https://www.gazzetta.it/comparazione-quote/18-04-2022/comparazione-quote-coppa-italia-inter-milan-statistiche-precedenti-440101082948.shtml</id>
-        <link href="https://www.gazzetta.it/comparazione-quote/18-04-2022/comparazione-quote-coppa-italia-inter-milan-statistiche-precedenti-440101082948.shtml"/>
-        <updated>2022-04-18T09:22:35.000Z</updated>
-        <summary type="html"><![CDATA[Inter-Milan: il Diavolo vuole vendicare il k.o. dell’anno scorso. E nel 2004-05
-Nei quarti 2020-2021 decise un gol di Eriksen. È il quarto incrocio stagionale, non accadeva da 18 anni: finì con tre successi rossoneri e un pari]]></summary>
-        <author>
-            <name>Oscar Maresca</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Camper, Salone di Parma: l'edizione 2022 dal 10 al 18 settembre]]></title>
-        <id>https://www.gazzetta.it/Motori/18-04-2022/salone-parma-edizione-2022-10-18-settembre.shtml</id>
-        <link href="https://www.gazzetta.it/Motori/18-04-2022/salone-parma-edizione-2022-10-18-settembre.shtml"/>
-        <updated>2022-04-18T09:21:09.000Z</updated>
-        <summary type="html"><![CDATA[Un'area di 100mila mq alla Fiera per celebrare il momento molto positivo del settore. Tante novità alla rassegna e per le Case produttrici]]></summary>
-        <author>
-            <name>Gazzetta.it</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Investimenti quadruplicati in sei anni: Investcorp si presenta con questo video]]></title>
-        <id>https://video.gazzetta.it/video-investcorp-cos-societa-che-vuole-comprare-milan/3ee7976e-bef4-11ec-9b69-aa17de14ae1a</id>
-        <link href="https://video.gazzetta.it/video-investcorp-cos-societa-che-vuole-comprare-milan/3ee7976e-bef4-11ec-9b69-aa17de14ae1a"/>
-        <updated>2022-04-18T09:15:15.000Z</updated>
-        <summary type="html"><![CDATA[Investimenti quadruplicati in sei anni: Investcorp si presenta con questo video
-Investcorp presenta sé stessa su Twitter attraverso questo video. La società, fondata in Bahrain nel 1982, gestisce prodotti di investimento alternativi: potrebbe acquisire la proprietà del Milan. (Twitter @Investcorp)]]></summary>
-        <author>
-            <name>Gasport</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pacing: la strategia per gestire al meglio una cronometro]]></title>
-        <id>https://www.gazzetta.it/be-active/18-04-2022/pacing-ciclismo-strategia-gestire-meglio-cronometro.shtml</id>
-        <link href="https://www.gazzetta.it/be-active/18-04-2022/pacing-ciclismo-strategia-gestire-meglio-cronometro.shtml"/>
-        <updated>2022-04-18T09:14:07.000Z</updated>
-        <summary type="html"><![CDATA[Il pacing nel ciclismo può essere sfruttato anche dall'atleta meno evoluto per gestire lo sforzo. Ecco come.]]></summary>
-        <author>
-            <name>Gazzetta.it</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[La guardia del corpo diffonde la chat con Wanda Nara: "Stai tranquilla..."]]></title>
-        <id>https://www.golssip.it/social/guardia-corpo-wanda-chat/</id>
-        <link href="https://www.golssip.it/social/guardia-corpo-wanda-chat/"/>
-        <updated>2022-04-18T09:02:07.000Z</updated>
-        <summary type="html"><![CDATA[La chat tra Wanda e la sua guardia del corpo]]></summary>
-        <author>
-            <name>Gazzetta.it</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[La palestra ti annoia? Prova gli exergame, i videogiochi attivi]]></title>
-        <id>https://www.gazzetta.it/active/18-04-2022/exergame-videogiochi-attivi.shtml</id>
-        <link href="https://www.gazzetta.it/active/18-04-2022/exergame-videogiochi-attivi.shtml"/>
-        <updated>2022-04-18T08:57:50.000Z</updated>
-        <summary type="html"><![CDATA[Secondo una ricerca gli exergame, i videogiochi attivi, possono essere un degno sostituto della palestra. Almeno per i più pigri]]></summary>
-        <author>
-            <name>Gazzetta.it</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Giornata nazionale della salute della donna: oltre 300 visite gratuite]]></title>
-        <id>https://www.gazzetta.it/salute/18-04-2022/giornata-nazionale-salute-donna-oltre-300-visite-gratuite.shtml</id>
-        <link href="https://www.gazzetta.it/salute/18-04-2022/giornata-nazionale-salute-donna-oltre-300-visite-gratuite.shtml"/>
-        <updated>2022-04-18T08:56:22.000Z</updated>
-        <summary type="html"><![CDATA[I centri medici Humanitas Medical Care celebrano la giornata nazionale della salute della donna, in programma venerdì 22 aprile, con uno speciale calendario di visite gratuite per la salute femminile.]]></summary>
-        <author>
-            <name>Gazzetta.it</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liverpool-Manchester United: com’è dura per i Reds ad Anfield]]></title>
-        <id>https://www.gazzetta.it/comparazione-quote/18-04-2022/comparazione-quote-liverpool-manchester-united-risultati-precedenti-incroci-440101610857.shtml</id>
-        <link href="https://www.gazzetta.it/comparazione-quote/18-04-2022/comparazione-quote-liverpool-manchester-united-risultati-precedenti-incroci-440101610857.shtml"/>
-        <updated>2022-04-18T08:53:52.000Z</updated>
-        <summary type="html"><![CDATA[Liverpool-Manchester United: Ronaldo nel fortino Anfield. Pep tifa per lui 
-I Reds hanno fatto 30 punti nelle ultime dieci gare in casa e non perdono in Premier dal 28 dicembre. Ma il City, per una volta, spera nello United]]></summary>
-        <author>
-            <name>Francesco Sessa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Il pagellone della settimana: super Brozo, la rinascita di Zaniolo e Pellegri, la stecca Juve]]></title>
-        <id>https://www.gazzetta.it/Calcio/Serie-A/18-04-2022/pagellone-settimana-brozovic-juve-sinner-klopp-440100550705.shtml</id>
-        <link href="https://www.gazzetta.it/Calcio/Serie-A/18-04-2022/pagellone-settimana-brozovic-juve-sinner-klopp-440100550705.shtml"/>
-        <updated>2022-04-18T08:47:42.000Z</updated>
-        <summary type="html"><![CDATA[Il pagellone della settimana: super Brozo, la rinascita di Zaniolo e Pellegri, la stecca Juve
-Una settimana di sport giudicata dalla Gazzetta: Sinner da applausi, Simeone nel mirino e grande Arnautovic]]></summary>
-        <author>
-            <name>Fabio Licari</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zelenskyj moltiplica gli appelli in vista della battaglia del Donbass]]></title>
-        <id>https://www.internazionale.it/opinione/pierre-haski/2022/04/18/zelenskyj-prepara-battaglia-donbass</id>
-        <link href="https://www.internazionale.it/opinione/pierre-haski/2022/04/18/zelenskyj-prepara-battaglia-donbass"/>
-        <updated>2022-04-18T08:39:51.000Z</updated>
-        <summary type="html"><![CDATA[Il leader ucraino cerca di ridimensionare il senso di vittoria alimentato dai successi del suo esercito e chiede aiuti militari prima che parta l’offensiva russa nella regione contesa. Leggi]]></summary>
-        <author>
-            <name>Internazionale</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Italians - Strama, che primato! Lisci prova l’impresa, Ogbonna sogna il rientro]]></title>
-        <id>https://www.ilposticipo.it/calcio/italiani-allestero-stramaccioni-che-primato-lisci-prova-limpresa-ogbonna-sogna-il-rientro/</id>
-        <link href="https://www.ilposticipo.it/calcio/italiani-allestero-stramaccioni-che-primato-lisci-prova-limpresa-ogbonna-sogna-il-rientro/"/>
-        <updated>2022-04-18T08:38:29.000Z</updated>
-        <summary type="html"><![CDATA[Settimana da incorniciare in campo internazionale per Andrea Stramaccioni. L’ex allenatore di Inter e Udinese, alla guida dell’Al-Gharafa è riuscito ad arrampicarsi al primo posto nel girone di qualificazione nella Champions League...]]></summary>
-        <author>
-            <name>Gazzetta.it</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GP Emilia Romagna, gli orari di Imola con la diretta tv su SKY e in chiaro su TV8]]></title>
-        <id>https://www.gazzetta.it/Formula-1/18-04-2022/gp-emilia-romagna-imola-orari-tv-diretta-sky-tv8.shtml</id>
-        <link href="https://www.gazzetta.it/Formula-1/18-04-2022/gp-emilia-romagna-imola-orari-tv-diretta-sky-tv8.shtml"/>
-        <updated>2022-04-18T08:37:15.000Z</updated>
-        <summary type="html"><![CDATA[Nel weekend in Romagna il quarto appuntamento del Mondiale con la Ferrari attesa protagonista e il pienone di pubblico. La programmazione con gli orari e la tv]]></summary>
-        <author>
-            <name>Gazzetta.it</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lazio, il dopo-Strakosha ha un nome: Sergio Rico. Garantisce Luis Alberto]]></title>
-        <id>https://www.gazzetta.it/Calcio/Calciomercato/Lazio/18-04-2022/calciomercato-lazio-obiettivo-sergio-rico-dopo-strakosha-440100612817.shtml</id>
-        <link href="https://www.gazzetta.it/Calcio/Calciomercato/Lazio/18-04-2022/calciomercato-lazio-obiettivo-sergio-rico-dopo-strakosha-440100612817.shtml"/>
-        <updated>2022-04-18T08:36:14.000Z</updated>
-        <summary type="html"><![CDATA[Lazio, il dopo-Strakosha ha un nome: Sergio Rico, l'amico di Luis Alberto
-Il d.s. Tare proverà a convincere il portiere albanese a rinnovare il contratto, ma intanto sta seguendo lo spagnolo del Psg, attualmente in prestito al Maiorca]]></summary>
-        <author>
-            <name>Elmar Bergonzini</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rassegna stampa - Marca celebra la rimonta del Real Madrid: "Do di petto"]]></title>
-        <id>https://www.itasportpress.it/calcio/calcio-rassegna-stampa-dei-principali-quotidiani-europei-14/2/</id>
-        <link href="https://www.itasportpress.it/calcio/calcio-rassegna-stampa-dei-principali-quotidiani-europei-14/2/"/>
-        <updated>2022-04-18T08:33:46.000Z</updated>
-        <summary type="html"><![CDATA[Tutte le principali news sul mondo del pallone]]></summary>
-        <author>
-            <name>Gazzetta.it</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Incrociatore Moskva: il video del rogo dell'ammiraglia russa affondata]]></title>
-        <id>gnn:lastampa:3146880</id>
-        <link href="https://www.lastampa.it/esteri/2022/04/18/video/incrociatore_moskva_il_video_del_rogo_dellammiraglia_russa_affondata-3146880/"/>
-        <updated>2022-04-18T08:31:43.000Z</updated>
-        <summary type="html"><![CDATA[L’incrociatore Moskva è appena stato centrato dai missili ucraini: l’ammiraglia della flotta russa è avvolta dalle fiamme mentre altr…]]></summary>
-        <author>
-            <name>lastampa.it - Homepage</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[La beffa del 2003 e quattro eliminazioni di fila: l'Inter e la doppia maledizione delle semifinali]]></title>
-        <id>https://www.gazzetta.it/Calcio/Serie-A/Inter/18-04-2022/derby-coppa-italia-inter-beffa-2003-maledizione-semifinali-44093632064.shtml</id>
-        <link href="https://www.gazzetta.it/Calcio/Serie-A/Inter/18-04-2022/derby-coppa-italia-inter-beffa-2003-maledizione-semifinali-44093632064.shtml"/>
-        <updated>2022-04-18T08:23:44.000Z</updated>
-        <summary type="html"><![CDATA[La beffa del 2003 e quattro eliminazioni di fila: l'Inter e la doppia maledizione delle semifinali
-Domani l'ultima sfida col gol in trasferta che vale doppio. Quello che nel derby costò a Cuper la finale Champions]]></summary>
-        <author>
-            <name>Luca Taidelli</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Slam sulla terra: dopo Nastase, Muster e Nadal,  Stefanos è pronto per il club?]]></title>
-        <id>https://www.gazzetta.it/Tennis/ATP/18-04-2022/nastase-muster-nadal-signori-slam-rosso-tsitsipas-ci-punta-440100328058.shtml</id>
-        <link href="https://www.gazzetta.it/Tennis/ATP/18-04-2022/nastase-muster-nadal-signori-slam-rosso-tsitsipas-ci-punta-440100328058.shtml"/>
-        <updated>2022-04-18T08:22:41.000Z</updated>
-        <summary type="html"><![CDATA[Nastase, Muster, Nadal, i signori dello Slam Rosso.  Tsitsipas entrerà nel club?
-Vincere  Montecarlo, Roma, Roland Garros in una singola stagione resta un'impresa storica, riuscita solo a tre giocatori. E ora il greco ci spera...]]></summary>
-        <author>
-            <name>Luca Marianantoni</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[E se non fosse più solo Nole, Rafa e Roger? Otto campioni per 8 Masters 1000, come 20 anni fa]]></title>
-        <id>https://www.gazzetta.it/Tennis/ATP/18-04-2022/tsitsipas-ora-sono-otto-campioni-diversi-altrettanti-masters-1000-44094014821.shtml</id>
-        <link href="https://www.gazzetta.it/Tennis/ATP/18-04-2022/tsitsipas-ora-sono-otto-campioni-diversi-altrettanti-masters-1000-44094014821.shtml"/>
-        <updated>2022-04-18T08:19:52.000Z</updated>
-        <summary type="html"><![CDATA[Otto campioni per 8 Masters 1000 come 20 anni fa. Il 2022 sarà  l'anno della rivoluzione? 
-Da poco prima dell'esplosione di Djokovic, Nadal e Federer non si verificava che ci fossero tanti vincitori diversi nella categoria da 1000 punti. Le basi per il rinnovamento ci sono]]></summary>
-        <author>
-            <name>Federica Cocchi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Toyota Supra, torna il cambio manuale per i puristi]]></title>
-        <id>https://www.gazzetta.it/motori/la-mia-auto/18-04-2022/toyota-supra-torna-cambio-manuale-puristi.shtml</id>
-        <link href="https://www.gazzetta.it/motori/la-mia-auto/18-04-2022/toyota-supra-torna-cambio-manuale-puristi.shtml"/>
-        <updated>2022-04-18T08:05:52.000Z</updated>
-        <summary type="html"><![CDATA[A grande richiesta torna la trasmissione manuale sulla coupé giapponese. Per ora, però, non ci sono altre indicazioni. Potrebbe trattarsi di un sei velocità]]></summary>
-        <author>
-            <name>Gazzetta.it</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Storia F1: quando c’è una vittoria Ferrari dentro l’uovo di Pasqua]]></title>
-        <id>https://www.gazzetta.it/Formula-1/storie/18-04-2022/storia-f1-quando-vittoria-ferrari-dentro-uovo-pasqua-1650268303/</id>
-        <link href="https://www.gazzetta.it/Formula-1/storie/18-04-2022/storia-f1-quando-vittoria-ferrari-dentro-uovo-pasqua-1650268303/"/>
-        <updated>2022-04-18T07:51:55.000Z</updated>
-        <summary type="html"><![CDATA[In ben 16 GP Formula 1 disputati nella domenica di Pasqua, la Ferrari ha vinto sei volte. Grazie al mattatore Schumacher, ma anche con Vettel, Raikkonen e Mansell. La storia]]></summary>
-        <author>
-            <name>Gazzetta.it</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pioli: "Cessione del Milan? Il presente è molto solido, il futuro potrà essere migliore"]]></title>
-        <id>https://www.gazzetta.it/Calcio/Coppa-Italia/18-04-2022/milan-pioli-cessione-presente-molto-solido-futuro-potra-essere-migliore-440100475697.shtml</id>
-        <link href="https://www.gazzetta.it/Calcio/Coppa-Italia/18-04-2022/milan-pioli-cessione-presente-molto-solido-futuro-potra-essere-migliore-440100475697.shtml"/>
-        <updated>2022-04-18T07:47:47.000Z</updated>
-        <summary type="html"><![CDATA[Pioli: "Cessione del Milan? Il presente è molto solido, il futuro potrà essere migliore"
-Parla l'allenatore rossonero, alla vigilia del derby con l'Inter: "Nessuno ci potrà togliere concentrazione, il club ci è vicinissimo.Valuteremo oggi le condizioni di Calabria e Romagnoli"]]></summary>
-        <author>
-            <name>Marco Pasotto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Allegri può ancora contare sulla Joya? Dopo l'addio annunciato è un altro Dybala]]></title>
-        <id>https://www.gazzetta.it/Calcio/Serie-A/Juventus/18-04-2022/juve-dybala-crisi-l-addio-bocciatura-allegri-dubbi-44084461676.shtml</id>
-        <link href="https://www.gazzetta.it/Calcio/Serie-A/Juventus/18-04-2022/juve-dybala-crisi-l-addio-bocciatura-allegri-dubbi-44084461676.shtml"/>
-        <updated>2022-04-18T07:42:53.000Z</updated>
-        <summary type="html"><![CDATA[Allegri può ancora contare sulla Joya? Dopo l'addio annunciato è un altro Dybala
-Contro il Bologna, dopo il gol preso e nel momento in cui doveva credere nella rimonta, per l'ultima mezzora il tecnico ha preferito togliere l'argentino. Che dopo la separazione era atteso a una reazione e invece non si è più visto ad alto livello]]></summary>
-        <author>
-            <name>Giuseppe Nigro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Måneskin infiammano Coachella, l'urlo di Damiano per l'Ucraina]]></title>
-        <id>gnn:lastampa:3146848</id>
-        <link href="https://www.lastampa.it/spettacoli/2022/04/18/video/i_maneskin_infiammano_coachella_lurlo_di_damiano_per_lucraina-3146848/"/>
-        <updated>2022-04-18T07:34:55.000Z</updated>
-        <summary type="html"><![CDATA[Il rock dei Måneskin infiamma il Coachella: la band romana ha invitato i fan a 'fare rumore' sul palco di uno dei festival più attesi del …]]></summary>
-        <author>
-            <name>lastampa.it - Homepage</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jokic-Embiid-Giannis, mvp per 3: ecco i finalisti per i premi della regular season]]></title>
-        <id>https://www.gazzetta.it/Nba/18-04-2022/nba-jokic-embiid-giannis-mvp-3-ecco-finalisti-premi-440100475266.shtml</id>
-        <link href="https://www.gazzetta.it/Nba/18-04-2022/nba-jokic-embiid-giannis-mvp-3-ecco-finalisti-premi-440100475266.shtml"/>
-        <updated>2022-04-18T07:27:51.000Z</updated>
-        <summary type="html"><![CDATA[Jokic-Embiid-Giannis, mvp per 3: ecco i finalisti per i premi della regular season
-La lega ha annunciato le nomination delle sei categorie, in base ai voti dei giornalisti di tutto il mondo. I vincitori verranno svelati durante i playoff]]></summary>
-        <author>
-            <name>Gasport</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Boston-Brooklyn è già nella storia: pazzesco canestro della vittoria di Tatum]]></title>
-        <id>https://video.gazzetta.it/nba-highlights-boston-brooklyn-gara-1-115-114/5a6c3c2a-bed0-11ec-9b69-aa17de14ae1a</id>
-        <link href="https://video.gazzetta.it/nba-highlights-boston-brooklyn-gara-1-115-114/5a6c3c2a-bed0-11ec-9b69-aa17de14ae1a"/>
-        <updated>2022-04-18T07:24:37.000Z</updated>
-        <summary type="html"><![CDATA[NBA Highlights: Boston-Brooklyn gara-1 115-114
-La sintesi della vittoria 115-114 dei Boston Celtics sui Brooklyn Nets in gara-1 del primo turno dei playoff Nba: decide sulla sirena JaysonTatum.]]></summary>
-        <author>
-            <name>Gasport</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[È subito Chris Paul show!  E i Suns piegano i Pelicans in gara-1]]></title>
-        <id>https://www.gazzetta.it/Nba/18-04-2022/nba-playoff-phoenix-new-orleans-110-99-chris-paul-piega-pelicans-gara-1-440100173346.shtml</id>
-        <link href="https://www.gazzetta.it/Nba/18-04-2022/nba-playoff-phoenix-new-orleans-110-99-chris-paul-piega-pelicans-gara-1-440100173346.shtml"/>
-        <updated>2022-04-18T06:53:31.000Z</updated>
-        <summary type="html"><![CDATA[È subito Chris Paul show!  E i Suns piegano i Pelicans 110-99
-A quasi 37 anni, il regista di Phoenix sforna una prestazione da 30 punti, 10 assist, 7 rimbalzi. New Orleans  al tappeto in gara-1]]></summary>
-        <author>
-            <name>Riccardo Pratesi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Giannis mostra i muscoli: i Bucks domano i Bulls in gara-1]]></title>
-        <id>https://www.gazzetta.it/Nba/18-04-2022/nba-risultati-milwaukee-chicago-antetokounmpo-doma-bulls-gara-1-440100024097.shtml</id>
-        <link href="https://www.gazzetta.it/Nba/18-04-2022/nba-risultati-milwaukee-chicago-antetokounmpo-doma-bulls-gara-1-440100024097.shtml"/>
-        <updated>2022-04-18T06:36:37.000Z</updated>
-        <summary type="html"><![CDATA[Giannis mostra i muscoli: i Bucks domano i Bulls in gara-1
-Vittoria sofferta di Milwaukee contro Chicago (93-86), strappata soprattutto  grazie ad Antetokounmpo. Per il greco  27 punti, 16 rimbalzi, 3 assist e 2 stoppate, ma la squadra di Budenholzer non ha brillato]]></summary>
-        <author>
-            <name>Davide Piasentini</name>
         </author>
     </entry>
 </feed>
