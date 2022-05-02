@@ -2,10 +2,616 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sovy666.github.io/notizie/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-02T12:38:09.801Z</updated>
+    <updated>2022-05-02T18:23:37.413Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sovy666.github.io/notizie/index.html"/>
     <link rel="self" href="https://sovy666.github.io/notizie/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Roma, a fuoco appartamento: 6 feriti e 50 inquilini evacuati]]></title>
+        <id>https://www.adnkronos.com/roma-a-fuoco-appartamento-6-feriti-e-50-inquilini-evacuati_4S4gvBb5LRczXgWBNHhluY</id>
+        <link href="https://www.adnkronos.com/roma-a-fuoco-appartamento-6-feriti-e-50-inquilini-evacuati_4S4gvBb5LRczXgWBNHhluY"/>
+        <updated>2022-05-02T18:18:10.000Z</updated>
+        <summary type="html"><![CDATA[(Adnkronos) - Palazzo dichiarato inagibile]]></summary>
+        <author>
+            <name>webinfo@adnkronos.com (Web Info)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ucraina, attacco a Odessa: "Morti e feriti"]]></title>
+        <id>https://www.adnkronos.com/ucraina-attacco-a-odessa-morti-e-feriti_35BiFw99KBmHSNQAHMzGwI</id>
+        <link href="https://www.adnkronos.com/ucraina-attacco-a-odessa-morti-e-feriti_35BiFw99KBmHSNQAHMzGwI"/>
+        <updated>2022-05-02T18:18:00.000Z</updated>
+        <summary type="html"><![CDATA[(Adnkronos) - Incendio nello stabilimento Azovstal bombardato]]></summary>
+        <author>
+            <name>webinfo@adnkronos.com (Web Info)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Calcio, Uefa: "Russia non avrà club in competizioni 2022/23"]]></title>
+        <id>https://www.adnkronos.com/calcio-uefa-russia-non-avra-club-in-competizioni-202223_5YXpb8f6FYnLxpMYm6kWpC</id>
+        <link href="https://www.adnkronos.com/calcio-uefa-russia-non-avra-club-in-competizioni-202223_5YXpb8f6FYnLxpMYm6kWpC"/>
+        <updated>2022-05-02T18:17:45.000Z</updated>
+        <summary type="html"><![CDATA[(Adnkronos) - Dichiarata non ammissibile la candidatura della Federazione a Euro 2028/2032]]></summary>
+        <author>
+            <name>webinfo@adnkronos.com (Web Info)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Superbonus 110, proroga lavori villette: bozza decreto]]></title>
+        <id>https://www.adnkronos.com/superbonus-110-proroga-lavori-villette-bozza-decreto_lSBc4Bs4ASHsLb94VXkEA</id>
+        <link href="https://www.adnkronos.com/superbonus-110-proroga-lavori-villette-bozza-decreto_lSBc4Bs4ASHsLb94VXkEA"/>
+        <updated>2022-05-02T18:14:11.000Z</updated>
+        <summary type="html"><![CDATA[(Adnkronos) - I proprietari avranno tempo fino al 30 settembre]]></summary>
+        <author>
+            <name>webinfo@adnkronos.com (Web Info)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samp-Genoa, le pagelle: Ekdal, gigante da 7,5. Galdames, errore da 5]]></title>
+        <id>https://www.gazzetta.it/Calcio/Serie-A/Sampdoria/30-04-2022/samp-genoa-pagelle-gazzetta-440288681232.shtml</id>
+        <link href="https://www.gazzetta.it/Calcio/Serie-A/Sampdoria/30-04-2022/samp-genoa-pagelle-gazzetta-440288681232.shtml"/>
+        <updated>2022-05-02T18:04:24.000Z</updated>
+        <summary type="html"><![CDATA[Samp-Genoa, le pagelle: Ekdal, gigante da 7,5. Galdames, errore da 5
+Lo svedese gioca una gran partita, il cileno cambia diversi ruoli senza mai incidere]]></summary>
+        <author>
+            <name>G.B.Olivero</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Morte Raiola, funerali in forma strettamente privata: luogo e data resteranno riservati]]></title>
+        <id>https://www.gazzetta.it/Calcio/Serie-A/02-05-2022/morte-raiola-soltanto-famiglia-sara-presente-funerali-440313295964.shtml</id>
+        <link href="https://www.gazzetta.it/Calcio/Serie-A/02-05-2022/morte-raiola-soltanto-famiglia-sara-presente-funerali-440313295964.shtml"/>
+        <updated>2022-05-02T18:04:22.000Z</updated>
+        <summary type="html"><![CDATA[Morte Raiola, funerali in forma strettamente privata: luogo e data resteranno riservati
+La decisione della famiglia dell'agente morto sabato a 54 anni dopo una lunga malattia non sarà comunicata]]></summary>
+        <author>
+            <name>Gasport</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gerhard Berger: "Ferrari, Porsche, Valentino... Vi dico tutto"]]></title>
+        <id>https://www.gazzetta.it/Auto/02-05-2022/berger-valentino-rossi-dtm-sarebbe-piaciuto-vederlo-retrovie-serve-esperienza.shtml</id>
+        <link href="https://www.gazzetta.it/Auto/02-05-2022/berger-valentino-rossi-dtm-sarebbe-piaciuto-vederlo-retrovie-serve-esperienza.shtml"/>
+        <updated>2022-05-02T18:01:16.000Z</updated>
+        <summary type="html"><![CDATA[Il capo del DTM si dice soddisfatto delle 29 vetture in pista e commenta la presenza del Dottore nel GT World Challenge Europe. “Altri Loeb e carburanti sintetici per il futuro. Ferrari F1, avanti così”]]></summary>
+        <author>
+            <name>Gazzetta.it</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Covid oggi Lombardia, 1.673 contagi e 31 morti: bollettino 2 maggio]]></title>
+        <id>https://www.adnkronos.com/covid-oggi-lombardia-1673-contagi-e-31-morti-bollettino-2-maggio_5VBtGuMkOKpyTXigtsFMLy</id>
+        <link href="https://www.adnkronos.com/covid-oggi-lombardia-1673-contagi-e-31-morti-bollettino-2-maggio_5VBtGuMkOKpyTXigtsFMLy"/>
+        <updated>2022-05-02T17:55:02.000Z</updated>
+        <summary type="html"><![CDATA[(Adnkronos) - Numeri covid della regione]]></summary>
+        <author>
+            <name>webinfo@adnkronos.com (Web Info)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Torna pressing Pd su proporzionale, spinta da tutti big dem]]></title>
+        <id>https://www.adnkronos.com/torna-pressing-pd-su-proporzionale-spinta-da-tutti-big-dem_64weOgW29kgVVfPM6xRmeU</id>
+        <link href="https://www.adnkronos.com/torna-pressing-pd-su-proporzionale-spinta-da-tutti-big-dem_64weOgW29kgVVfPM6xRmeU"/>
+        <updated>2022-05-02T17:50:26.000Z</updated>
+        <summary type="html"><![CDATA[(Adnkronos) - Seminario alla Camera organizzato da Orfini con Franceschini, Guerini, Orlando, Zingaretti e il 'lettiano' Meloni tra gli altri.]]></summary>
+        <author>
+            <name>webinfo@adnkronos.com (Web Info)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["500 prigionieri ucraini costretti a sfilare alla parata di Mosca"]]></title>
+        <id>https://www.adnkronos.com/500-prigionieri-ucraini-costretti-a-sfilare-alla-parata-di-mosca_W3VyNrpof7HTQFhGmfJ8g</id>
+        <link href="https://www.adnkronos.com/500-prigionieri-ucraini-costretti-a-sfilare-alla-parata-di-mosca_W3VyNrpof7HTQFhGmfJ8g"/>
+        <updated>2022-05-02T17:42:04.000Z</updated>
+        <summary type="html"><![CDATA[(Adnkronos) - La denuncia della Ong Gulagunet]]></summary>
+        <author>
+            <name>webinfo@adnkronos.com (Web Info)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[La profezia di Bill Gates: “Sul Covid c’è il rischio che non abbiamo visto il peggio”]]></title>
+        <id>gnn:lastampa:3191068</id>
+        <link href="https://www.lastampa.it/esteri/2022/05/02/news/la_profezia_di_bill_gates_sul_covid_c_e_il_rischio_che_non_abbiamo_visto_il_peggio_-3191068/"/>
+        <updated>2022-05-02T17:38:04.000Z</updated>
+        <summary type="html"><![CDATA[Per evitare la prossima pandemia servono più investimenti e la creazione di una squadra di epidemiologi ed esperti per identificare rapidamente minacce alla salute globale e migliorare la cooperazione fra i paesi. Lo afferma Bill Gates secondo il  ... [Continua a leggere sul sito.]]]></summary>
+        <author>
+            <name>lastampa.it - Homepage</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elezioni amministrative e referendum 2022, ecco quando scrutinio: bozza decreto]]></title>
+        <id>https://www.adnkronos.com/elezioni-amministrative-e-referendum-2022-ecco-quando-scrutinio-bozza-decreto_hmmnP2QsXAQRODh6ZmUFK</id>
+        <link href="https://www.adnkronos.com/elezioni-amministrative-e-referendum-2022-ecco-quando-scrutinio-bozza-decreto_hmmnP2QsXAQRODh6ZmUFK"/>
+        <updated>2022-05-02T17:32:45.000Z</updated>
+        <summary type="html"><![CDATA[(Adnkronos) - Lo scrutinio relativo alle amministrative è rinviato alle ore 14 del lunedì]]></summary>
+        <author>
+            <name>webinfo@adnkronos.com (Web Info)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Juve, riscattato Chiesa: è l'effetto Champions, alla Fiorentina 40 milioni]]></title>
+        <id>https://www.gazzetta.it/Calcio/Calciomercato/Juventus/02-05-2022/juve-riscatta-chiesa-fiorentina-altri-40-milioni-440312692667.shtml</id>
+        <link href="https://www.gazzetta.it/Calcio/Calciomercato/Juventus/02-05-2022/juve-riscatta-chiesa-fiorentina-altri-40-milioni-440312692667.shtml"/>
+        <updated>2022-05-02T17:27:27.000Z</updated>
+        <summary type="html"><![CDATA[La Juve riscatta Chiesa: con la Champions scatta l'obbligo, alla Fiorentina altri 40 milioni
+L'azzurro, che tornerà in campo nella prossima stagione, diventa bianconero a titolo definitivo]]></summary>
+        <author>
+            <name>Gasport</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Strage Bucha, identificato primo responsabile massacri]]></title>
+        <id>https://www.adnkronos.com/strage-di-butcha-comandante-russo-accusato-di-4-morti_52mNTvZDDk16En9F5yOSYc</id>
+        <link href="https://www.adnkronos.com/strage-di-butcha-comandante-russo-accusato-di-4-morti_52mNTvZDDk16En9F5yOSYc"/>
+        <updated>2022-05-02T17:26:46.000Z</updated>
+        <summary type="html"><![CDATA[(Adnkronos) - Sergey Kolotsey, comandante di un'unità della Guardia nazionale russa, accusato di aver ucciso 4 civili]]></summary>
+        <author>
+            <name>webinfo@adnkronos.com (Web Info)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fine Ramadan: il Blackburn apre lo stadio ai fedeli per i festeggiamenti]]></title>
+        <id>https://www.gazzetta.it/Calcio/Campionati-Esteri/02-05-2022/fine-ramadan-blackburn-apre-stadio-fedeli-festeggiamenti-440313280602.shtml</id>
+        <link href="https://www.gazzetta.it/Calcio/Campionati-Esteri/02-05-2022/fine-ramadan-blackburn-apre-stadio-fedeli-festeggiamenti-440313280602.shtml"/>
+        <updated>2022-05-02T17:26:07.000Z</updated>
+        <summary type="html"><![CDATA[Fine Ramadan: il Blackburn apre lo stadio ai fedeli per i festeggiamenti
+Il club di Championship è diventato il primo del Regno Unito  a farlo. Le famiglie musulmane hanno potuto così celebrare sul terreno di gioco dei Rovers]]></summary>
+        <author>
+            <name>Salvatore Malfitano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MotoGP, Suzuki lascia a fine 2022]]></title>
+        <id>https://www.gazzetta.it/Moto/moto-GP/02-05-2022/motogp-suzuki-lascia-fine-2022.shtml</id>
+        <link href="https://www.gazzetta.it/Moto/moto-GP/02-05-2022/motogp-suzuki-lascia-fine-2022.shtml"/>
+        <updated>2022-05-02T17:26:03.000Z</updated>
+        <summary type="html"><![CDATA[Clamorosa notizia nel paddock a Jerez: la Suzuki lascia il Mondiale a fine stagione, dopo aver conquistato nel 2020 un Mondiale Piloti che mancava da 20 anni. Colti di sorpresa i piloti Mir e Rins e il capo del team Livio Suppo. Domani la casa di Hamamatsu diramerà il comunicato ufficiale]]></summary>
+        <author>
+            <name>Gazzetta.it</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dai 4800 minuti di Skriniar ai 3760 di Kessie: cosa dice il minutaggio dei club di Serie A]]></title>
+        <id>https://www.gazzetta.it/Calcio/Serie-A/02-05-2022/tra-primi-100-giocatori-d-europa-minutaggio-serie-ne-ha-solo-4-440311095336.shtml</id>
+        <link href="https://www.gazzetta.it/Calcio/Serie-A/02-05-2022/tra-primi-100-giocatori-d-europa-minutaggio-serie-ne-ha-solo-4-440311095336.shtml"/>
+        <updated>2022-05-02T17:14:21.000Z</updated>
+        <summary type="html"><![CDATA[Dai 4800 minuti di Skriniar ai 3760 di Kessie: cosa dice il minutaggio dei club di Serie A
+Escludendo i portieri, il primo "italiano" è lo slovacco dei nerazzurri, 13° nella classifica dei più impiegati di tutta Europa, seguito dal napoletano Di Lorenzo, 82° con 4343', Brozovic, 99° con 4283' e Barella, 100° con 4282']]></summary>
+        <author>
+            <name>Massimo Oriani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lavrov a Zona Bianca, Brindisi: "Intervista è medaglia, inviterei anche Putin"]]></title>
+        <id>https://www.adnkronos.com/lavrov-a-zona-bianca-brindisi-intervista-e-medaglia-inviterei-anche-putin_4CgRxEWHKr7MDRGwudfxkE</id>
+        <link href="https://www.adnkronos.com/lavrov-a-zona-bianca-brindisi-intervista-e-medaglia-inviterei-anche-putin_4CgRxEWHKr7MDRGwudfxkE"/>
+        <updated>2022-05-02T17:12:00.000Z</updated>
+        <summary type="html"><![CDATA[(Adnkronos) - Il conduttore del programma di Rete 4: "L'intervista a Lavrov è ovviamente uno scoop, senza se e senza ma. Sarei stato anch’io invidioso di chiunque avesse portato il ministro in tv"]]></summary>
+        <author>
+            <name>webinfo@adnkronos.com (Web Info)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jannik,   il  match point contro è un "salvavita": è la quarta volta nel 2022]]></title>
+        <id>https://www.gazzetta.it/Tennis/ATP/02-05-2022/sinner-quarta-partita-vinta-aver-salvato-match-point-440311056553.shtml</id>
+        <link href="https://www.gazzetta.it/Tennis/ATP/02-05-2022/sinner-quarta-partita-vinta-aver-salvato-match-point-440311056553.shtml"/>
+        <updated>2022-05-02T17:02:17.000Z</updated>
+        <summary type="html"><![CDATA[Sinner,   il  match point contro è un "salvavita": è la quarta volta nel 2022 
+Jannik supera Paul dopo essere stato a un passo dalla sconfitta come era successo a Dubai e Miami. Bertolucci: "Un potere che va usato con parsimonia, cominciare già al 1° turno può essere rischioso]]></summary>
+        <author>
+            <name>Federica Cocchi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Servizi, Cisr proroga di 4 anni Caravelli all'Aise e di 2 anni Parente all'Aisi]]></title>
+        <id>https://www.adnkronos.com/servizi-cisr-proroga-di-4-anni-caravelli-allaise-e-di-2-anni-parente-allaisi_4C65BV23r3ZrYNGk2VWgdS</id>
+        <link href="https://www.adnkronos.com/servizi-cisr-proroga-di-4-anni-caravelli-allaise-e-di-2-anni-parente-allaisi_4C65BV23r3ZrYNGk2VWgdS"/>
+        <updated>2022-05-02T16:56:46.000Z</updated>
+        <summary type="html"><![CDATA[(Adnkronos) - Nella riunione odierna del Comitato interministeriale per la sicurezza della Repubblica]]></summary>
+        <author>
+            <name>webinfo@adnkronos.com (Web Info)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Il Bayern in vacanza a Ibiza dopo aver perso col Mainz, Nagelsmann sotto processo]]></title>
+        <id>https://www.gazzetta.it/Calcio/Bundesliga/02-05-2022/bayern-ibiza-la-sconfitta-col-mainz-polemica-440311604477.shtml</id>
+        <link href="https://www.gazzetta.it/Calcio/Bundesliga/02-05-2022/bayern-ibiza-la-sconfitta-col-mainz-polemica-440311604477.shtml"/>
+        <updated>2022-05-02T16:44:17.000Z</updated>
+        <summary type="html"><![CDATA[Il Bayern in vacanza a Ibiza dopo aver perso col Mainz, Nagelsmann sotto processo
+Il tecnico conferma i due giorni di vacanza nonostante il ko, Matthaus critica: "Avrei cancellato quei due giorni di riposo"]]></summary>
+        <author>
+            <name>Gasport</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mercato auto Italia: altro crollo ad aprile]]></title>
+        <id>https://www.gazzetta.it/motori/la-mia-auto/02-05-2022/mercato-auto-italia-vendite-aprile-2022.shtml</id>
+        <link href="https://www.gazzetta.it/motori/la-mia-auto/02-05-2022/mercato-auto-italia-vendite-aprile-2022.shtml"/>
+        <updated>2022-05-02T16:41:21.000Z</updated>
+        <summary type="html"><![CDATA[Ancora un crollo nel mercato auto Italia. Ad aprile 2022 le immatricolazioni di autovetture sono pesantemente calate rispetto ad un anno fa]]></summary>
+        <author>
+            <name>Gazzetta.it</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Conte a Draghi: “Si esprima contro l’escalation in Ucraina, lo pretendo a nome del M5S. L’Italia non reciti un ruolo da comparsa, chi se non noi deve andare a Mosca?”]]></title>
+        <id>gnn:lastampa:3188857</id>
+        <link href="https://www.lastampa.it/politica/2022/05/02/news/conte_a_draghi_si_esprima_contro_escalation_in_ucraina_parole_di_lavrov_inaccettabili_-3188857/"/>
+        <updated>2022-05-02T16:39:58.000Z</updated>
+        <summary type="html"><![CDATA[Guerra ma non solo. Giuseppe Conte ospite di Metroplis inviata ol premier Mario Draghi, «a esprimersi in Parlamento contro il rischio di un'escalation militare»: «Assolutamente, lo pretendo a nome dei cittadini che rappresento e del M5S» ... [Continua a leggere sul sito.]]]></summary>
+        <author>
+            <name>lastampa.it - Homepage</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ucraina, Conte: "Governo chiarisca qual è suo impegno per stop guerra"]]></title>
+        <id>https://www.adnkronos.com/ucraina-conte-governo-chiarisca-qual-e-suo-impegno-per-stop-guerra_3EYbJVPPqro7tfrM5NtVhi</id>
+        <link href="https://www.adnkronos.com/ucraina-conte-governo-chiarisca-qual-e-suo-impegno-per-stop-guerra_3EYbJVPPqro7tfrM5NtVhi"/>
+        <updated>2022-05-02T16:39:02.000Z</updated>
+        <summary type="html"><![CDATA[(Adnkronos) - "Draghi si esprima contro escalation, lo pretendo a nome del M5S"]]></summary>
+        <author>
+            <name>webinfo@adnkronos.com (Web Info)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Il sindaco Gualtieri: "Stadio Roma? Nessuno stallo. Procediamo in silenzio"]]></title>
+        <id>https://www.gazzetta.it/Calcio/Serie-A/Roma/02-05-2022/gualtieri-stadio-roma-nessuno-stallo-procediamo-silenzio-440312024877.shtml</id>
+        <link href="https://www.gazzetta.it/Calcio/Serie-A/Roma/02-05-2022/gualtieri-stadio-roma-nessuno-stallo-procediamo-silenzio-440312024877.shtml"/>
+        <updated>2022-05-02T16:37:51.000Z</updated>
+        <summary type="html"><![CDATA[Gualtieri: "Sullo stadio della Roma nessuno stallo. Procediamo in silenzio"
+L'intervento del primo cittadino, l'area a Pietralata  sembra in vantaggio sulle altre: "Con i Friedkin totale sintonia. Il lavoro sta procedendo con grande serietà, professionalità e riservatezza"]]></summary>
+        <author>
+            <name>Chiara Zucchelli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In Curva Sud la bandiera della Marcia su Roma e si alza la protesta]]></title>
+        <id>https://www.gazzetta.it/Calcio/Serie-A/Roma/02-05-2022/roma-bandiera-marcia-roma-curva-sud-si-alza-protesta-440310402263.shtml</id>
+        <link href="https://www.gazzetta.it/Calcio/Serie-A/Roma/02-05-2022/roma-bandiera-marcia-roma-curva-sud-si-alza-protesta-440310402263.shtml"/>
+        <updated>2022-05-02T16:36:15.000Z</updated>
+        <summary type="html"><![CDATA[In Curva Sud la bandiera della Marcia su Roma e si alza la protesta
+Marco Miccoli, ex deputato Pd, oggi nella direzione nazionale del partito, ha scritto al club giallorosso chiedendo di intervenire: "A 100 anni dall'evento che diede il via al Ventennio è un'offesa alla città". I tifosi: "Via la foto dai social del club"]]></summary>
+        <author>
+            <name>Gasport</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Napoli, quanti nodi sul mercato (compreso Osimhen). Serve chiarezza tra Adl e Spalletti]]></title>
+        <id>https://www.gazzetta.it/Calcio/Calciomercato/Napoli/02-05-2022/napoli-troppi-nodi-mercato-serve-chiarezza-adl-spalletti-440312303494.shtml</id>
+        <link href="https://www.gazzetta.it/Calcio/Calciomercato/Napoli/02-05-2022/napoli-troppi-nodi-mercato-serve-chiarezza-adl-spalletti-440312303494.shtml"/>
+        <updated>2022-05-02T16:34:32.000Z</updated>
+        <summary type="html"><![CDATA[Napoli, quanti nodi sul mercato (compreso Osimhen). Serve chiarezza tra Adl e Spalletti
+Molte valutazioni sono legate all’eventuale cessione della punta nigeriana, ma ci sono diverse situazioni da risolvere, come quella del portiere. Per prima cosa va però definito  il rapporto tra presidente e allenatore]]></summary>
+        <author>
+            <name>Alfredo Pedullà</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De Zerbi-Shakhtar, futuro al bivio: "Forse è stato il mio ultimo giorno qui"]]></title>
+        <id>https://www.gazzetta.it/Calcio/Estero/02-05-2022/shakhtar-donetsk-ucraina-dezerbi-addio-440311986348.shtml</id>
+        <link href="https://www.gazzetta.it/Calcio/Estero/02-05-2022/shakhtar-donetsk-ucraina-dezerbi-addio-440311986348.shtml"/>
+        <updated>2022-05-02T16:25:28.000Z</updated>
+        <summary type="html"><![CDATA[De Zerbi-Shakhtar, futuro al bivio: "Forse è stato il mio ultimo giorno qui"
+L'annuncio del tecnico italiano: "È stata una giornata triste ed emozionante, se ci sarà un campionato mi piacerebbe restare, ma in caso contrario vorrei ricominciare una vita normale e continuare a lavorare"]]></summary>
+        <author>
+            <name>Salvatore Malfitano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coronavirus in Italia, il bollettino del 2 maggio: 18.896 casi, 124 vittime. Tasso di positività al 15,4%]]></title>
+        <id>gnn:lastampa:3188123</id>
+        <link href="https://www.lastampa.it/cronaca/2022/05/02/news/coronavirus_in_italia_il_bollettino_del_2_maggio_18_896_casi_124_vittime-3188123/"/>
+        <updated>2022-05-02T16:19:31.000Z</updated>
+        <summary type="html"><![CDATA[Sembra aver imboccato una strada decisamente in discesa la cura dei contagi in Italia, oggi 18.869 rispetto ai 40.757 ma, come sempre avviene a ridosso dei week end, con molti meno tamponi, nemmeno la metà del giorno prima. Tanto che il tasso di p ... [Continua a leggere sul sito.]]]></summary>
+        <author>
+            <name>lastampa.it - Homepage</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[C'è l'ultima conferma: Salernitana-Venezia si gioca. Lo scontro salvezza il 5 maggio]]></title>
+        <id>https://www.gazzetta.it/Calcio/Serie-A/Salernitana/02-05-2022/salernitana-venezia-si-gioca-scontro-salvezza-5-maggio-440310401713.shtml</id>
+        <link href="https://www.gazzetta.it/Calcio/Serie-A/Salernitana/02-05-2022/salernitana-venezia-si-gioca-scontro-salvezza-5-maggio-440310401713.shtml"/>
+        <updated>2022-05-02T16:15:40.000Z</updated>
+        <summary type="html"><![CDATA[C'è l'ultima conferma: Salernitana-Venezia si gioca. Lo scontro salvezza il 5 maggio
+Il Collegio di garanzia del Coni ha respinto il ricorso dei veneti che chiedevano il 3-0 a tavolino per la partita non disputata il 6 gennaio. Il calendario si riallinea]]></summary>
+        <author>
+            <name>Elisabetta Esposito</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scudetto e bilanci: il Milan costa i due terzi dell'Inter]]></title>
+        <id>https://www.gazzetta.it/Calcio/Serie-A/Milan/02-05-2022/scudetto-bilanci-milan-costa-due-terzi-inter-440307397537.shtml</id>
+        <link href="https://www.gazzetta.it/Calcio/Serie-A/Milan/02-05-2022/scudetto-bilanci-milan-costa-due-terzi-inter-440307397537.shtml"/>
+        <updated>2022-05-02T16:06:21.000Z</updated>
+        <summary type="html"><![CDATA[Scudetto e bilanci: il Milan costa i due terzi dell'Inter
+Milano è tornata protagonista in Serie A con due modelli gestionali differenti: tra stipendi e ammortamenti la spesa annua rossonera è molto più contenuta di quella nerazzurra]]></summary>
+        <author>
+            <name>Marco Iaria</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Il matrimonio e primo ballo in ospedale a Leopoli, la giovane Oksana ha perso le gambe per colpa di una mina russa: il marito è illeso]]></title>
+        <id>gnn:lastampa:3187574</id>
+        <link href="https://www.lastampa.it/esteri/2022/05/02/video/il_matrimonio_nellospedale_a_leopoli_la_giovane_oksana_ha_perso_entrambe_le_gambe_per_colpa_di_una_mina_russa_mentre_il_ma-3187574/"/>
+        <updated>2022-05-02T16:05:33.000Z</updated>
+        <summary type="html"><![CDATA[Il primo ballo dopo le nozze di Oksana doveva aver luogo all'ospedale di Leopoli non come paziente. Ma Oksana, un'infermiera di 23 anni di Lysycha…]]></summary>
+        <author>
+            <name>lastampa.it - Homepage</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[L'altro Ranocchia. Occhi addosso dopo lo  show a Vicenza, ora la Juve gongola]]></title>
+        <id>https://www.calciomercato.com/news/ranocchia-show-a-vicenza-il-piano-della-juve-e-il-retroscena-sul-85604</id>
+        <link href="https://www.calciomercato.com/news/ranocchia-show-a-vicenza-il-piano-della-juve-e-il-retroscena-sul-85604"/>
+        <updated>2022-05-02T15:39:58.000Z</updated>
+        <summary type="html"><![CDATA[Se il Vicenza potrà giocarsi un’ultima occasione di raggiungere la salvezza lo deve anche, dopo le ultime due giornate, al talento di Filippo Ranocchia.]]></summary>
+        <author>
+            <name>Gazzetta.it</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Marc Marquez, salvataggio da paura. Ma il braccio continua a preoccupare]]></title>
+        <id>https://www.gazzetta.it/Moto/moto-GP/02-05-2022/motogp-marc-marquez-salvataggio-braccio-destro.shtml</id>
+        <link href="https://www.gazzetta.it/Moto/moto-GP/02-05-2022/motogp-marc-marquez-salvataggio-braccio-destro.shtml"/>
+        <updated>2022-05-02T15:32:17.000Z</updated>
+        <summary type="html"><![CDATA[Marc Marquez si conferma un funambolo incredibile, ma durante i festeggiamenti con i tifosi mostra ancora qualche problema al braccio dest]]></summary>
+        <author>
+            <name>Gazzetta.it</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paracadutismo Vps:  gli azzurri della Folgore campioni europei]]></title>
+        <id>https://www.gazzetta.it/Sport-Vari/02-05-2022/paracadutismo-vps-azzurri-folgore-campioni-europei-belgio-440310679934.shtml</id>
+        <link href="https://www.gazzetta.it/Sport-Vari/02-05-2022/paracadutismo-vps-azzurri-folgore-campioni-europei-belgio-440310679934.shtml"/>
+        <updated>2022-05-02T15:25:53.000Z</updated>
+        <summary type="html"><![CDATA[Paracadutismo Vps:  gli azzurri della Folgore campioni europei 
+La squadra dell’Esercito si è imposta a Charleroi nella specialità Vertical Formation Skydiving, davanti alla Polonia:  secondo posto dietro agli Usa nella classifica di Coppa del Mondo]]></summary>
+        <author>
+            <name>Gasport</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Senato, Petrocelli: “Non mi dimetto, mia rimozione brutto segnale per la democrazia”]]></title>
+        <id>gnn:lastampa:3185543</id>
+        <link href="https://www.lastampa.it/politica/2022/05/02/news/senato_petrocelli_non_mi_dimetto_mia_rimozione_brutto_segnale_per_la_democrazia-3185543/"/>
+        <updated>2022-05-02T15:20:24.000Z</updated>
+        <summary type="html"><![CDATA[Non mi dimetto. Vito Petrocelli non ci sta e attacca: «La mia rimozione – ha spiegato all’Agi – è un brutto segnale per la democrazia». Il senatore 5Stelle annuncia così le sue intenzioni alla vigilia della riunione (prevista per do ... [Continua a leggere sul sito.]]]></summary>
+        <author>
+            <name>lastampa.it - Homepage</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I missili guidati anticarro ucraini Stugna-P montati anche su Buggy: è tra le armi icona del conflitto]]></title>
+        <id>gnn:lastampa:3184890</id>
+        <link href="https://www.lastampa.it/esteri/2022/05/02/video/i_missili_guidati_anticarro_ucraini_stugnap_montati_anche_su_buggy_e_tra_le_armi_icona_del_conflitto-3184890/"/>
+        <updated>2022-05-02T15:08:17.000Z</updated>
+        <summary type="html"><![CDATA[Le forze ucraine stanno utilizzando nella loro lotta contro l'armatura russa veicoli di tipo buggy dotati di sistemi di missili guidati anticarro Stug…]]></summary>
+        <author>
+            <name>lastampa.it - Homepage</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Padel, boom di campi e strutture: dove si gioca di più in Italia?]]></title>
+        <id>https://www.gazzetta.it/padel/02-05-2022/padel-strutture-dove-si-gioca-piu-italia-440311056875.shtml</id>
+        <link href="https://www.gazzetta.it/padel/02-05-2022/padel-strutture-dove-si-gioca-piu-italia-440311056875.shtml"/>
+        <updated>2022-05-02T15:07:40.000Z</updated>
+        <summary type="html"><![CDATA[Padel, boom di campi e strutture: dove si gioca di più in Italia?
+Il Lazio è la regione leader, seguono Lombardia e Sicilia. Il Country Sport Village di Milano è il centro con più terreni da gioco (18), dopo "Red Padel" e "Joy Padel" di Roma con 15]]></summary>
+        <author>
+            <name>Francesco Pietrella</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Milinkovic allo United? L'agente: "Non è vero". Voci, smentite e la Juve sullo sfondo]]></title>
+        <id>https://www.gazzetta.it/Calcio/Calciomercato/Juventus/02-05-2022/milinkovic-juve-parla-agente-kezman-440307277706.shtml</id>
+        <link href="https://www.gazzetta.it/Calcio/Calciomercato/Juventus/02-05-2022/milinkovic-juve-parla-agente-kezman-440307277706.shtml"/>
+        <updated>2022-05-02T15:04:52.000Z</updated>
+        <summary type="html"><![CDATA[Milinkovic allo United? L'agente: "Non è vero". Voci, smentite e la Juve sullo sfondo
+La corte di United e Psg, il lavoro (di sponda) del club bianconero. Ecco lo stato di avanzamento di uno dei protagonisti del prossimo mercato]]></summary>
+        <author>
+            <name>Francesco Pietrella</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Taylor  batte Serrano nella notte delle donne: 19.187 al Madison Square Garden]]></title>
+        <id>https://www.gazzetta.it/Sport-Vari/02-05-2022/pugilato-femminile-taylor-batte-serrano-ai-19187-madison-square-garden-440310679234.shtml</id>
+        <link href="https://www.gazzetta.it/Sport-Vari/02-05-2022/pugilato-femminile-taylor-batte-serrano-ai-19187-madison-square-garden-440310679234.shtml"/>
+        <updated>2022-05-02T14:37:21.000Z</updated>
+        <summary type="html"><![CDATA[Taylor  batte Serrano nella notte delle donne: 19.187 al Madison Square Garden
+A New York per la prima volta un incontro femminile è main event, grazie al mondiale pesi leggeri. Mantiene le cinture l’irlandese, ai punti contro la portoricana Serrano]]></summary>
+        <author>
+            <name>Gasport</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[L’ex vicepresidente di Gazprombank: “Putin deve essere processato e impiccato”]]></title>
+        <id>gnn:lastampa:3183080</id>
+        <link href="https://www.lastampa.it/esteri/2022/05/02/news/l_ex_vicepresidente_di_gazprombank_putin_deve_essere_processato_e_impiccato_-3183080/"/>
+        <updated>2022-05-02T14:32:53.000Z</updated>
+        <summary type="html"><![CDATA[«Putin deve essere processato e impiccato. Ma solo in conformità con la legge». Le parole molto dure contro il presidente russo sono pronunciate all’ex vicepresidente di Gazprombank, Igor Volobuev, al Telegrah. Volobuev la settimana scorsa ha lasc ... [Continua a leggere sul sito.]]]></summary>
+        <author>
+            <name>lastampa.it - Homepage</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nella regione di Kharkiv continua la distruzione di tank russi, nell'operazione di sorveglianza fatti saltare quattro veicoli]]></title>
+        <id>gnn:lastampa:3182870</id>
+        <link href="https://www.lastampa.it/esteri/2022/05/02/video/nella_regione_di_kharkiv_continua_la_distruzione_di_tank_russi_nelloperazione_di_sorveglianza_fatti_saltare_quattro_veicoli-3182870/"/>
+        <updated>2022-05-02T14:29:13.000Z</updated>
+        <summary type="html"><![CDATA[Continua il faccia a faccia tra le forze armate ucraine e quelle russe nella regione di Kharkiv. I soldati di Kiev sono riusciti a distruggere durante un&…]]></summary>
+        <author>
+            <name>lastampa.it - Homepage</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gol di Acerbi, tuona il presidente dello Spezia: "Errore grave e inaccettabile"]]></title>
+        <id>https://www.gazzetta.it/Calcio/Serie-A/Spezia/02-05-2022/gol-acerbi-presidente-spezia-errore-grave-inaccettabile-440310867988.shtml</id>
+        <link href="https://www.gazzetta.it/Calcio/Serie-A/Spezia/02-05-2022/gol-acerbi-presidente-spezia-errore-grave-inaccettabile-440310867988.shtml"/>
+        <updated>2022-05-02T14:22:56.000Z</updated>
+        <summary type="html"><![CDATA[Gol di Acerbi, tuona il presidente dello Spezia: "Errore grave e inaccettabile"
+Platek jr. ha commentato con una nota del club l'accaduto: "È stato causato da superficialità nell'attuazione delle procedure del protocollo Var, che non può essere penalizzante o discrezionale. Bene le sospensioni di Pairetto e Nasca ma si spendono milioni per avere strumenti che evitino situazioni che possono condizionare una stagione..."]]></summary>
+        <author>
+            <name>Gasport</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ed Sheeran a sostegno dell'Ucraina, il remix della hit "2step" con la band di Kiev: il videoclip]]></title>
+        <id>gnn:lastampa:3181672</id>
+        <link href="https://www.lastampa.it/spettacoli/musica/2022/05/02/video/ed_sheeran_a_sostegno_dellucraina_il_remix_della_hit_2step_con_la_band_di_kiev_il_videoclip-3181672/"/>
+        <updated>2022-05-02T14:05:22.000Z</updated>
+        <summary type="html"><![CDATA[E' uscito oggi il remix di "2step", hit di Ed Sheeran. In queste versione il cantautore britannico duetta con il frontman della band ucraina Antytila…]]></summary>
+        <author>
+            <name>lastampa.it - Homepage</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dal trapianto di midollo alle dimissioni dall'ospedale: Mihajlovic e la lotta alla leucemia]]></title>
+        <id>https://video.gazzetta.it/mihajlovic-leucemia-tappe-vicenda/d23a5158-ca18-11ec-9782-098a255559e2</id>
+        <link href="https://video.gazzetta.it/mihajlovic-leucemia-tappe-vicenda/d23a5158-ca18-11ec-9782-098a255559e2"/>
+        <updated>2022-05-02T14:01:44.000Z</updated>
+        <summary type="html"><![CDATA[Dal trapianto di midollo alle dimissioni dall'ospedale: Mihajlovic e la lotta alla leucemia
+Sinisa Mihajlovic è stato dimesso oggi, 2 maggio, dal Policlinico Sant'Orsola di Bologna: era ricoverato dal 29 marzo nella struttura per delle terapie contro la leucemia. L'allenatore del Bologna aveva già superato la malattia nel 2019, prima dei nuovi campanelli d'allarme: ecco le tappe della battaglia contro il suo male.]]></summary>
+        <author>
+            <name>Gasport</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[La doppia impasse di Xi Jinping tra il covid e la guerra in Ucraina]]></title>
+        <id>https://www.internazionale.it/opinione/pierre-haski/2022/05/02/xi-jinping-covid-ucraina</id>
+        <link href="https://www.internazionale.it/opinione/pierre-haski/2022/05/02/xi-jinping-covid-ucraina"/>
+        <updated>2022-05-02T13:54:19.000Z</updated>
+        <summary type="html"><![CDATA[Il governo cinese è alle prese con due sfide simultanee di natura diversa e per la prima volta arrivano critiche aperte alla sua gestione. Tuttavia questo non complicherà la terza rielezione del presidente al congresso di ottobre. Leggi]]></summary>
+        <author>
+            <name>Internazionale</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mihajlovic lascia l'ospedale: presto riabbraccerà il suo Bologna]]></title>
+        <id>https://www.gazzetta.it/Calcio/Serie-A/Bologna/02-05-2022/bologna-mihajlovic-dimesso-440309008780.shtml</id>
+        <link href="https://www.gazzetta.it/Calcio/Serie-A/Bologna/02-05-2022/bologna-mihajlovic-dimesso-440309008780.shtml"/>
+        <updated>2022-05-02T13:53:34.000Z</updated>
+        <summary type="html"><![CDATA[Mihajlovic lascia l'ospedale: presto riabbraccerà il suo Bologna
+Il tecnico rossoblù ha risposto bene alle cure: ora qualche giorno con la famiglia, a breve tornerà a guidare la squadra dalla panchina]]></summary>
+        <author>
+            <name>Matteo Dalla Vite</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inter, perché prendere Gosens se Perisic rinnova? Ci sono almeno tre buoni motivi]]></title>
+        <id>https://www.gazzetta.it/Calcio/Serie-A/Inter/02-05-2022/inter-perisic-perche-gosens-mossa-giusta-440309075386.shtml</id>
+        <link href="https://www.gazzetta.it/Calcio/Serie-A/Inter/02-05-2022/inter-perisic-perche-gosens-mossa-giusta-440309075386.shtml"/>
+        <updated>2022-05-02T13:35:40.000Z</updated>
+        <summary type="html"><![CDATA[Inter, perché prendere Gosens se Perisic rinnova? Ci sono almeno tre buoni motivi
+Il croato va sempre a mille, ma ha 33 anni e Robin, reduce da un brutto infortunio muscolare, garantirà solidità in un ruolo usurante. I due possono anche convivere, con Ivan a destra]]></summary>
+        <author>
+            <name>Luca Taidelli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[La vendetta di Putin contro Tinkov: aveva criticato la guerra, costretto a vendere la banca: “Ora la mia vita è a rischio”]]></title>
+        <id>gnn:lastampa:3180201</id>
+        <link href="https://www.lastampa.it/esteri/2022/05/02/news/la_vendetta_di_putin_contro_tinkov_aveva_criticato_la_guerra_costretto_a_vendere_la_banca_ora_la_mia_vita_e_a_rischio_-3180201/"/>
+        <updated>2022-05-02T13:32:26.000Z</updated>
+        <summary type="html"><![CDATA[L'oligarca Oleg Tinkov è il fondatore di una delle maggiori banche russe che valeva nove miliardi di dollari in novembre. Poi lo scorso mese ha criticato l'invasione dell'Ucraina su Instagram e il Cremlino non lo ha perdonato. All'indomani del pos ... [Continua a leggere sul sito.]]]></summary>
+        <author>
+            <name>lastampa.it - Homepage</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multa di 10 mila euro al Lecce per il petardo lanciato in campo a Vicenza]]></title>
+        <id>https://www.gazzetta.it/Calcio/Serie-B/02-05-2022/vicenza-lecce-10-mila-euro-multa-pugliese-il-petardo-lanciato-campo-440308938232.shtml</id>
+        <link href="https://www.gazzetta.it/Calcio/Serie-B/02-05-2022/vicenza-lecce-10-mila-euro-multa-pugliese-il-petardo-lanciato-campo-440308938232.shtml"/>
+        <updated>2022-05-02T13:23:31.000Z</updated>
+        <summary type="html"><![CDATA[Multa di 10 mila euro al Lecce per il petardo lanciato in campo a Vicenza
+Il Giudice sportivo ha riconosciuto la collaborazione del club e attenuato la sanzione]]></summary>
+        <author>
+            <name>Gasport</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In "testa" alla Serie A: Inter, nessuna segna come te. Rivedi i 18 gol... aerei]]></title>
+        <id>https://video.gazzetta.it/video-inter-gia-18-gol-testa-nessuno-come-lei-riguardali/acdccd46-ca18-11ec-9782-098a255559e2</id>
+        <link href="https://video.gazzetta.it/video-inter-gia-18-gol-testa-nessuno-come-lei-riguardali/acdccd46-ca18-11ec-9782-098a255559e2"/>
+        <updated>2022-05-02T13:19:34.000Z</updated>
+        <summary type="html"><![CDATA[In "testa" alla Serie A: Inter, nessuna segna come te. Rivedi i 18 gol... aerei
+Con le due reti segnate da Perisic e Lautaro Martinez a Udine, l'Inter ha raggiunto quota 18 gol segnati di testa. Un record in questo campionato: guarda il video con tutte le reti fatte sfruttando questa specialità]]></summary>
+        <author>
+            <name>Gasport</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sinner, che rimonta! Annulla 3 match point e batte Paul al 3° set]]></title>
+        <id>https://www.gazzetta.it/Tennis/ATP/02-05-2022/atp-madrid-sinner-batte-paul-3-set-440308956386.shtml</id>
+        <link href="https://www.gazzetta.it/Tennis/ATP/02-05-2022/atp-madrid-sinner-batte-paul-3-set-440308956386.shtml"/>
+        <updated>2022-05-02T13:11:59.000Z</updated>
+        <summary type="html"><![CDATA[Sinner, che rimonta! Annulla 3 match point e batte Paul al 3° set
+Jannik cede il primo allo statunitense 7-6 (4), risale da 2-5 nel 2° che vince dopo un altro tie-break, dominando poi il parziale decisivo (6-3). In campo Fognini e Musetti contro il georgiano Basilashvili e il bielorusso Ivashka]]></summary>
+        <author>
+            <name>Francesco Sessa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Leao da record! Meglio di CR7, Rui Costa e...: i portoghesi in doppia cifra]]></title>
+        <id>https://video.gazzetta.it/video-milan-leao-record-meglio-cr7-rui-costa-portoghesi-doppia-cifra/600ae546-ca15-11ec-9782-098a255559e2</id>
+        <link href="https://video.gazzetta.it/video-milan-leao-record-meglio-cr7-rui-costa-portoghesi-doppia-cifra/600ae546-ca15-11ec-9782-098a255559e2"/>
+        <updated>2022-05-02T13:02:12.000Z</updated>
+        <summary type="html"><![CDATA[Leao da record! Meglio di CR7, Rui Costa e...: i portoghesi in doppia cifra
+Con il gol alla Fiorentina Rafael Leao raggiunge quota 10 gol in questa stagione: è il quinto portoghese a toccare la doppia cifra in un singolo campionato, l'unico ad esserci riuscito prima dei 23 anni]]></summary>
+        <author>
+            <name>Angelica Cardoni</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Segna meno e tira la metà: Vlahovic, "la Juve non è la Fiorentina"]]></title>
+        <id>https://video.gazzetta.it/video-vlahovic-juve-segna-meno-tira-meta-rispetto-fiorentina/84e02142-ca15-11ec-9782-098a255559e2</id>
+        <link href="https://video.gazzetta.it/video-vlahovic-juve-segna-meno-tira-meta-rispetto-fiorentina/84e02142-ca15-11ec-9782-098a255559e2"/>
+        <updated>2022-05-02T13:00:51.000Z</updated>
+        <summary type="html"><![CDATA[Segna meno e tira la metà: Vlahovic, "la Juve non è la Fiorentina"
+Hanno fatto molto discutere le parole di Massimiliano Allegri, allenatore della Juve, su Dusan Vlahovic. "Qui non è la Fiorentina", ha detto il tecnico. E il confronto tra i numeri del serbo in viola e quelli in bianconero non lascia dubbi: guarda il video]]></summary>
+        <author>
+            <name>Angelica Cardoni</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guerra in Ucraina, monologo o colpo giornalistico? Pd-Iv contro l’intervista in tv a ministro russo Lavrov ma il M5S tace]]></title>
+        <id>gnn:lastampa:3178278</id>
+        <link href="https://www.lastampa.it/politica/2022/05/02/news/guerra_in_ucraina_monologo_o_colpo_giornalistico_pdiv_contro_l_intervista_in_tv_a_ministro_russo_lavrov_ma_il_m5s_tace-3178278/"/>
+        <updated>2022-05-02T12:55:17.000Z</updated>
+        <summary type="html"><![CDATA[Non c’è pace in maggioranza. O forse coesione, chissà. Di certo sulla guerra in Ucraina tra Pd e 5Stelle le differenze ci sono. Anche sui fatti in Tv.  L'intervista del ministro degli esteri russo, Sergei Lavrov, apre un caso politico e una n ... [Continua a leggere sul sito.]]]></summary>
+        <author>
+            <name>lastampa.it - Homepage</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MotoGP, Marquez "arbitro" del duello Bagnaia-Quartararo]]></title>
+        <id>https://www.gazzetta.it/Moto/moto-GP/02-05-2022/motogp-marquez-arbitro-duello-bagnaia-quartararo.shtml</id>
+        <link href="https://www.gazzetta.it/Moto/moto-GP/02-05-2022/motogp-marquez-arbitro-duello-bagnaia-quartararo.shtml"/>
+        <updated>2022-05-02T12:48:41.000Z</updated>
+        <summary type="html"><![CDATA[Il GP Spagna ha confermato nei risultati e nei tempi quanto previsto prima del via del Mondiale MotoGP 2022: sarà duello Bagnaia-Quartararo, ma Marc Marquez competitivo potrebbe diventare "elemento di disturbo" e risultare decisivo]]></summary>
+        <author>
+            <name>Gazzetta.it</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[La verità sul gol  di Acerbi: ecco cosa si sono detti Pairetto e Nasca]]></title>
+        <id>https://www.gazzetta.it/Calcio/Serie-A/Lazio/02-05-2022/pairetto-nasca-gol-acerbi-dialogo-440309222708.shtml</id>
+        <link href="https://www.gazzetta.it/Calcio/Serie-A/Lazio/02-05-2022/pairetto-nasca-gol-acerbi-dialogo-440309222708.shtml"/>
+        <updated>2022-05-02T12:34:51.000Z</updated>
+        <summary type="html"><![CDATA[La verità sul gol  di Acerbi: ecco cosa si sono detti Pairetto e Nasca
+Ecco cos’è successo nel minuto  appena successivo al gol di Acerbi a La Spezia. Difetto totale di comunicazione e di procedura...]]></summary>
+        <author>
+            <name>Matteo Dalla Vite</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lamborghini Aventador Ultimae, l'ultimo Toro col V12]]></title>
+        <id>https://video.gazzetta.it/lamborghini-aventador-ultimae/827b6fbc-dd14-4631-90bc-9d73256e7xlk</id>
+        <link href="https://video.gazzetta.it/lamborghini-aventador-ultimae/827b6fbc-dd14-4631-90bc-9d73256e7xlk"/>
+        <updated>2022-05-02T12:31:28.000Z</updated>
+        <author>
+            <name>Gazzetta.it</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ucraina, "spari Russia contro mezzi con civili in fuga"]]></title>
         <id>https://www.adnkronos.com/ucraina-spari-russia-contro-mezzi-con-civili-in-fuga_5owVAaRHARD5xZFeJcbZqk</id>
@@ -14,6 +620,16 @@
         <summary type="html"><![CDATA[(Adnkronos) - Human Rights cita tre incidenti tra fine febbraio e metà marzo nelle regioni di Kiev e Chernihiv, dove sei civili sono morti e altri tre sono rimasti feriti]]></summary>
         <author>
             <name>webinfo@adnkronos.com (Web Info)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Offese pesanti a Venuti e alla fidanzata, interviene la Fiorentina: "Inaccettabile"]]></title>
+        <id>https://www.violanews.com/news-viola/insulti-a-venuti-sui-social-acf-vicinanza-a-lorenzo/</id>
+        <link href="https://www.violanews.com/news-viola/insulti-a-venuti-sui-social-acf-vicinanza-a-lorenzo/"/>
+        <updated>2022-05-02T12:16:27.000Z</updated>
+        <summary type="html"><![CDATA[La fidanzata di Venuti "denuncia" un hater e la Fiorentina prende posizione]]></summary>
+        <author>
+            <name>Gazzetta.it</name>
         </author>
     </entry>
     <entry>
@@ -86,6 +702,16 @@ Primo rossonero in doppia cifra in campionato e miglior marcatore stagionale del
 Le mani rossonere sullo scudetto sono anche quelle di Mike, fra interventi decisivi e... assist. Il confronto con Donnarumma premia il francese (due volte)]]></summary>
         <author>
             <name>Marco Pasotto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dl aiuti, verso un provvedimento da 14 miliardi: bonus di 200 euro per lavoratori e pensionati sotto i 35mila euro]]></title>
+        <id>gnn:lastampa:3176529</id>
+        <link href="https://www.lastampa.it/politica/2022/05/02/news/dl_aiuti_cabina_di_regia_alle_15_30_prima_del_cdm-3176529/"/>
+        <updated>2022-05-02T12:05:29.000Z</updated>
+        <summary type="html"><![CDATA[Il provvedimento a sostegno di imprese e famiglie sarà complessivamente di più di 14 miliardi. E' quanto si apprende da fonti parlamentari durante la cabina di regia che precede il Consiglio dei ministri sul dl aiuti: il decreto&nbs ... [Continua a leggere sul sito.]]]></summary>
+        <author>
+            <name>lastampa.it - Homepage</name>
         </author>
     </entry>
     <entry>
@@ -2590,87 +3216,6 @@ Già capace di debuttare in Serie A e Champions League, Fabio Miretti è un tale
 Il 24enne dei Boston Celtics ha dominato il confronto diretto col due volte campione Nba, prendendosi definitivamente un posto tra i fenomeni]]></summary>
         <author>
             <name>Davide Chinellato</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Covid, l'intervento di Locatelli a Sky TG24]]></title>
-        <id>/Calciomercato/01-05-2022/raiola-che-fine-fara-suo-impero-de-ligt-pogba-star-centro-mercato-440288366512.shtml</id>
-        <link href="/Calciomercato/01-05-2022/raiola-che-fine-fara-suo-impero-de-ligt-pogba-star-centro-mercato-440288366512.shtml"/>
-        <updated>2022-05-01T06:22:57.000Z</updated>
-        <summary type="html"><![CDATA[Covid, l'intervento di Locatelli a Sky TG24]]></summary>
-        <author>
-            <name>Gasport</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Da Soulè  a Miretti: la carica dei "sotto età". La Juve ha trovato  il metodo per bruciare le tappe]]></title>
-        <id>https://www.gazzetta.it/Calcio/Serie-A/Juventus/29-04-2022/juve-metodo-sotto-eta-cosi-giovani-crescono-prima-440252548900.shtml</id>
-        <link href="https://www.gazzetta.it/Calcio/Serie-A/Juventus/29-04-2022/juve-metodo-sotto-eta-cosi-giovani-crescono-prima-440252548900.shtml"/>
-        <updated>2022-05-01T06:22:57.000Z</updated>
-        <summary type="html"><![CDATA[Da Soulè  a Miretti: la carica dei "sotto età". La Juve ha trovato  il metodo per bruciare le tappe
-L'Under 23 in Serie C,  sostanzialmente con un gruppo Under 20, è solo l'ultimo anello di una filiera che mettendo alla prova i talenti nella classe superiore permette di farli maturare più rapidamente e così tagliare i tempi rispetto alla concorrenza]]></summary>
-        <author>
-            <name>Giovanni Albanese</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Il punto di Andrea Margelletti: tutte i problemi dell’esercito russo, nel Donbass le truppe di Putin sono in stallo]]></title>
-        <id>gnn:lastampa:3175873</id>
-        <link href="https://www.lastampa.it/esteri/2022/05/01/news/il_punto_di_andrea_margelletti_tutte_i_problemi_dell_esercito_russo_nel_donbass_le_truppe_di_putin_sono_in_stallo-3175873/"/>
-        <updated>2022-05-01T05:30:40.000Z</updated>
-        <summary type="html"><![CDATA[Nel corso delle ultime ore non si sono verificati particolari cambiamenti in merito alla situazione sul terreno nell’ambito del conflitto tra Russia e Ucraina. Infatti, le forze russe sembrano non riuscire ad avanzare come previsto lungo i vari fr ... [Continua a leggere sul sito.]]]></summary>
-        <author>
-            <name>lastampa.it - Homepage</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Primo Maggio, perché aumentano i poveri in Italia? Salari e inflazione, ma non solo: ecco perché siamo il fanalino di coda nell’Ue]]></title>
-        <id>gnn:lastampa:3175767</id>
-        <link href="https://www.lastampa.it/economia/2022/05/01/news/primo_maggio_salari_e_inflazione_la_crisi_ora_attacca_il_ceto_medio-3175767/"/>
-        <updated>2022-05-01T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Abbiamo imparato il significato di “working poor” vent’anni fa con i film di Ken Loach, venendo a conoscenza di una grande massa di lavoratori che non guadagnano abbastanza da superare la soglia della povertà. Nato come fenomeno anglosassone, effe ... [Continua a leggere sul sito.]]]></summary>
-        <author>
-            <name>lastampa.it - Homepage</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Primo Maggio senza pace. Ora Draghi parli al Paese]]></title>
-        <id>gnn:lastampa:3175839</id>
-        <link href="https://www.lastampa.it/editoriali/l-editoriale-massimo-giannini/2022/05/01/news/primo_maggio_senza_pace_ora_draghi_parli_al_paese-3175839/"/>
-        <updated>2022-05-01T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Per Lorenzo, schiantato da una putrella nel suo ultimo giorno di tirocinio a Udine. Per Luana, mangiata viva da un orditoio tessile a Prato. Per i 1.221 che se ne sono andati l’anno scorso. Per i 218 che sono caduti già quest’anno. Questo Primo Ma ... [Continua a leggere sul sito.]]]></summary>
-        <author>
-            <name>lastampa.it - Homepage</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Landini: “Confindustria ha già avuto, ora salari più alti ai lavoratori”]]></title>
-        <id>gnn:lastampa:3175779</id>
-        <link href="https://www.lastampa.it/economia/2022/05/01/news/landini_confindustria_ha_gia_avuto_ora_salari_piu_alti_ai_lavoratori_-3175779/"/>
-        <updated>2022-05-01T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[«I 6-8 miliardi di nuovi aiuti che il governo sta per stanziare non bastano, serve molto di più», sostiene Maurizio Landini. Di contro spendere più soldi per la armi «non serve a far finire la guerra. Serve la diplomazia ed una conferenza di pace  ... [Continua a leggere sul sito.]]]></summary>
-        <author>
-            <name>lastampa.it - Homepage</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[L’incubo adesso è la stagflazione, patto sociale per il lavoro di qualità]]></title>
-        <id>gnn:lastampa:3175803</id>
-        <link href="https://www.lastampa.it/economia/2022/05/01/news/l_incubo_adesso_e_la_stagflazione_patto_sociale_per_il_lavoro_di_qualita_-3175803/"/>
-        <updated>2022-05-01T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Continua a leggere sul sito.]]]></summary>
-        <author>
-            <name>lastampa.it - Homepage</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gli Usa arsenale della democrazia]]></title>
-        <id>gnn:lastampa:3175823</id>
-        <link href="https://www.lastampa.it/editoriali/lettere-e-idee/2022/05/01/news/gli_usa_arsenale_della_democrazia-3175823/"/>
-        <updated>2022-05-01T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Quando la Russia ha invaso l’Ucraina, l’idea che potesse essere sconfitta sembrava a dir poco forzata. Vladimir Putin pareva avere un esercito potente e moderno, sostenuto da un budget per la difesa di una decina di volte superiore a quello ucrain ... [Continua a leggere sul sito.]]]></summary>
-        <author>
-            <name>lastampa.it - Homepage</name>
         </author>
     </entry>
 </feed>
