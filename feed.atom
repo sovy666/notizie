@@ -2,10 +2,605 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sovy666.github.io/notizie/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-31T12:39:14.392Z</updated>
+    <updated>2022-05-31T18:25:09.938Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sovy666.github.io/notizie/index.html"/>
     <link rel="self" href="https://sovy666.github.io/notizie/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[È di nuovo Nadal-Djokovic. I 5 incontri indimenticabili della loro rivalità]]></title>
+        <id>https://www.gazzetta.it/Tennis/31-05-2022/nadal-djokovic-quarti-roland-garros-440762787613.shtml</id>
+        <link href="https://www.gazzetta.it/Tennis/31-05-2022/nadal-djokovic-quarti-roland-garros-440762787613.shtml"/>
+        <updated>2022-05-31T18:13:51.000Z</updated>
+        <summary type="html"><![CDATA[Nadal-Djokovic di nuovo contro nel Roland Garros. I 5 incontri indimenticabili della loro rivalità
+Il campione di 13 Roland Garros e il n.1 al mondo si affrontano per 59a volta nella loro straordinaria carriera. Ecco gli incroci epici della loro storia]]></summary>
+        <author>
+            <name>Luca Marianantoni</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alcaraz rimandato all'esame Slam: Zverev lo supera 3-1 e si prende la semifinale]]></title>
+        <id>https://www.gazzetta.it/Tennis/ATP/31-05-2022/zverev-batte-alcaraz-semifinale-roland-garros-440779442176.shtml</id>
+        <link href="https://www.gazzetta.it/Tennis/ATP/31-05-2022/zverev-batte-alcaraz-semifinale-roland-garros-440779442176.shtml"/>
+        <updated>2022-05-31T18:12:05.000Z</updated>
+        <summary type="html"><![CDATA[Alcaraz rimandato all'esame Slam: Zverev lo supera 3-1 e si prende la semifinale
+Il teenager spagnolo non riesce a imporre il suo gioco contro il tedesco che chiude in quattro set e aspetta il vincitore del superclasico Nadal-Djokovic]]></summary>
+        <author>
+            <name>Federica Cocchi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lavoro, Letta: "Sì al salario minimo"]]></title>
+        <id>https://www.adnkronos.com/lavoro-letta-si-al-salario-minimo_2lF3cInSRXdQOHRkykgOwZ</id>
+        <link href="https://www.adnkronos.com/lavoro-letta-si-al-salario-minimo_2lF3cInSRXdQOHRkykgOwZ"/>
+        <updated>2022-05-31T18:10:41.000Z</updated>
+        <summary type="html"><![CDATA[(Adnkronos) - "C'è un punto di dignità sotto cui non si può andare"]]></summary>
+        <author>
+            <name>webinfo@adnkronos.com (Web Info)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tebas: "Il rinnovo di Mbappè? Pronti a denunciare il Psg, rovina il calcio"]]></title>
+        <id>https://www.gazzetta.it/Calcio/Liga/31-05-2022/tebas-il-rinnovo-mbappe-pronti-denunciare-psg-rovina-calcio-440778411853.shtml</id>
+        <link href="https://www.gazzetta.it/Calcio/Liga/31-05-2022/tebas-il-rinnovo-mbappe-pronti-denunciare-psg-rovina-calcio-440778411853.shtml"/>
+        <updated>2022-05-31T18:05:27.000Z</updated>
+        <summary type="html"><![CDATA[Tebas: "Il rinnovo di Mbappè? Pronti a denunciare il Psg, rovina il calcio"
+Il presidente della Liga attacca il club parigino: "Nessuno crede che possa avere ricavi maggiori di Real Madrid, Barça o Manchester Utd"]]></summary>
+        <author>
+            <name>Gasport</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Riecco Tamberi! Half shave e 2,30  per il compleanno. Prescod fa 9"93 nei 100]]></title>
+        <id>https://www.gazzetta.it/Atletica/31-05-2022/atletica-ostrava-tamberi-vince-prescod-100-bene-abdelwahed-fontana-440779869810.shtml</id>
+        <link href="https://www.gazzetta.it/Atletica/31-05-2022/atletica-ostrava-tamberi-vince-prescod-100-bene-abdelwahed-fontana-440779869810.shtml"/>
+        <updated>2022-05-31T18:00:49.000Z</updated>
+        <summary type="html"><![CDATA[Riecco Tamberi! Half shave e 2,30  per il compleanno. Prescod fa 9"93 nei 100
+A Ostrava il campione olimpico dell'alto ripropone l'half shave e torna a volare. Bene anche Abdelwahed e Fontana. Grande 100 del britannico con -1.2 di vento contrario]]></summary>
+        <author>
+            <name>Gasport</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[La festa del Monza in serie A: i giocatori dal pullman versano champagne sui tifosi]]></title>
+        <id>gnn:lastampa:5264737</id>
+        <link href="https://www.lastampa.it/sport/calcio/2022/05/31/video/la_festa_del_monza_in_serie_a_i_giocatori_dal_pullman_versano_champagne_sui_tifosi-5264737/"/>
+        <updated>2022-05-31T17:55:07.000Z</updated>
+        <summary type="html"><![CDATA[Grande festa a Monza dopo la vittoria della squadra brianzola della scorsa domenica nella partita con il Pisa che le ha regalato la massima serie per la prima …]]></summary>
+        <author>
+            <name>lastampa.it - Homepage</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[La vittima di stupro? Il giudice (donna): “È troppo mascolina, non poteva provocare”. Violentatori assolti, ma la Cassazione ribalta la sentenza]]></title>
+        <id>gnn:lastampa:5264512</id>
+        <link href="https://www.lastampa.it/cronaca/2022/05/31/news/la_vittima_di_stupro_il_giudice_donna_e_troppo_mascolina_non_poteva_provocare_violentatori_assolti_ma_la_cassazione-5264512/"/>
+        <updated>2022-05-31T17:53:13.000Z</updated>
+        <summary type="html"><![CDATA[ANCONA. Assolti in Appello, anche perché era stata accolta la tesi difensiva per la quale la vittima della violenza sessuale sarebbe stata «troppo mascolina» e quindi «non abbastanza attraente per subire uno stupro», due cittadini peruviani,  ... [Continua a leggere sul sito.]]]></summary>
+        <author>
+            <name>lastampa.it - Homepage</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A gennaio un flop, a giugno alle Finals: ecco come Boston è diventata vincente]]></title>
+        <id>https://www.gazzetta.it/Nba/31-05-2022/nba-finals-boston-celtics-flop-vincenti-440764127582.shtml</id>
+        <link href="https://www.gazzetta.it/Nba/31-05-2022/nba-finals-boston-celtics-flop-vincenti-440764127582.shtml"/>
+        <updated>2022-05-31T17:35:51.000Z</updated>
+        <summary type="html"><![CDATA[A gennaio un flop, a giugno alle Finals: ecco come Boston è diventata vincente
+I Celtics non sono partiti per giocarsi il titolo, ma sono diventati strada facendo la miglior squadra dell’Est. “Qui però non si festeggiano i titoli di conference: siamo pronti per le Finals” dice coach Udoka, uno dei segreti del nuovo successo]]></summary>
+        <author>
+            <name>Davide Chinellato</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Servono gol a centrocampo ma può finire sul mercato: il paradosso McKennie]]></title>
+        <id>https://www.gazzetta.it/Calcio/Serie-A/Juventus/31-05-2022/juve-paradosso-mckennie-servono-gol-centrocampo-ma-puo-andarsene-440774611237.shtml</id>
+        <link href="https://www.gazzetta.it/Calcio/Serie-A/Juventus/31-05-2022/juve-paradosso-mckennie-servono-gol-centrocampo-ma-puo-andarsene-440774611237.shtml"/>
+        <updated>2022-05-31T17:33:37.000Z</updated>
+        <summary type="html"><![CDATA[Servono gol a centrocampo ma può finire sul mercato: il paradosso McKennie
+Per risollevare l’attacco sterile ad Allegri non basta Vlahovic e già da un anno fa cerca produzione anche dagli altri reparti. Eppure il centrocampista più prolifico della scorsa stagione, che prima dell’infortunio si era preso un posto da titolare fisso, potrebbe partire: ecco perché]]></summary>
+        <author>
+            <name>Giuseppe Nigro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Finalissima 2022 Italia-Argentina, Mancini: "C'è emozione, gara conclude un ciclo"]]></title>
+        <id>https://www.adnkronos.com/finalissima-2022-italia-argentina-mancini-ce-emozione-gara-conclude-un-ciclo_1xaHp46vqj37osimQ4YuEZ</id>
+        <link href="https://www.adnkronos.com/finalissima-2022-italia-argentina-mancini-ce-emozione-gara-conclude-un-ciclo_1xaHp46vqj37osimQ4YuEZ"/>
+        <updated>2022-05-31T17:27:58.000Z</updated>
+        <summary type="html"><![CDATA[(Adnkronos) - "E' un grande piacere essere a Wembley. Se i ricordi riescono a mitigare il magone? Mica tanto"]]></summary>
+        <author>
+            <name>webinfo@adnkronos.com (Web Info)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bonucci: "C'è una ferita che brucia ancora...". Insigne: "Presto per dire che lascio"]]></title>
+        <id>https://www.gazzetta.it/Calcio/Nazionale/31-05-2022/bonucci-c-ferita-che-brucia-ancora-insigne-presto-dire-che-lascio-440778410993.shtml</id>
+        <link href="https://www.gazzetta.it/Calcio/Nazionale/31-05-2022/bonucci-c-ferita-che-brucia-ancora-insigne-presto-dire-che-lascio-440778410993.shtml"/>
+        <updated>2022-05-31T17:24:12.000Z</updated>
+        <summary type="html"><![CDATA[Bonucci: "C'è una ferita che brucia ancora...". Insigne: "Presto per dire che lascio"
+Lo juventino che erediterà la fascia di capitano da Chiellini: "Sarò d'esempio, come sempre". L'ex attaccante del Napoli: "Anche dall’altra parte del mondo sarò sempre disponibile". Ma intanto va k.o.]]></summary>
+        <author>
+            <name>Andrea Elefante</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nations League, Italia ko all’esordio con la Turchia]]></title>
+        <id>https://www.gazzetta.it/Volley/31-05-2022/volley-donne-nations-league-italia-ko-all-esordio-la-turchia-440777788649.shtml</id>
+        <link href="https://www.gazzetta.it/Volley/31-05-2022/volley-donne-nations-league-italia-ko-all-esordio-la-turchia-440777788649.shtml"/>
+        <updated>2022-05-31T17:16:24.000Z</updated>
+        <summary type="html"><![CDATA[Nations League, Italia ko all’esordio con la Turchia
+Ad Ankara le azzurre di Mazzanti perdono nettamente contro le padrone di casa. 14 punti per Nwakalor. Giovedì alle 18 c’è il Belgio]]></summary>
+        <author>
+            <name>Valeria Benedetti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mancini: "Contro l'Argentina si chiude un ciclo. Ripartiremo dai giovani"]]></title>
+        <id>https://www.gazzetta.it/Calcio/Nazionale/31-05-2022/italia-argentina-mancini-si-chiude-ciclo-ripartiremo-giovani-440778901443.shtml</id>
+        <link href="https://www.gazzetta.it/Calcio/Nazionale/31-05-2022/italia-argentina-mancini-si-chiude-ciclo-ripartiremo-giovani-440778901443.shtml"/>
+        <updated>2022-05-31T17:14:29.000Z</updated>
+        <summary type="html"><![CDATA[Mancini: "Contro l'Argentina si chiude un ciclo. Ripartiremo dai giovani"
+Il c.t. alla vigilia della Finalissima: "Questa gara onora la squadra campione d’Europa e un capitano valoroso come Chiellini. Ma sia chiaro, giochiamo sempre per vincere"]]></summary>
+        <author>
+            <name>Luigi Garlando</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modena, grave bimbo caduto da 2° piano: fermata babysitter]]></title>
+        <id>https://www.adnkronos.com/modena-grave-bimbo-caduto-da-2-piano-fermata-babysitter_4vbqlAJmlQi7kGnKaw60Op</id>
+        <link href="https://www.adnkronos.com/modena-grave-bimbo-caduto-da-2-piano-fermata-babysitter_4vbqlAJmlQi7kGnKaw60Op"/>
+        <updated>2022-05-31T17:09:09.000Z</updated>
+        <summary type="html"><![CDATA[(Adnkronos) - Il piccolo ha tredici mesi]]></summary>
+        <author>
+            <name>webinfo@adnkronos.com (Web Info)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Qui Francia, timidi segnali da Froome: chiude 11°, vince il compagno Fuglsang]]></title>
+        <id>https://www.gazzetta.it/Ciclismo/31-05-2022/ciclismo-mercan-tour-classic-alpes-maritimes-froome-11-vince-fuglsang-440778940712.shtml</id>
+        <link href="https://www.gazzetta.it/Ciclismo/31-05-2022/ciclismo-mercan-tour-classic-alpes-maritimes-froome-11-vince-fuglsang-440778940712.shtml"/>
+        <updated>2022-05-31T17:08:57.000Z</updated>
+        <summary type="html"><![CDATA[Qui Francia, timidi segnali da Froome: chiude 11°, vince il compagno Fuglsang
+Nella seconda edizione della Mercan’Tour Classic Alpes-Maritimes, il 37enne britannico ottiene il miglior risultato dopo l’incidente del 2019]]></summary>
+        <author>
+            <name>Ciro Scognamiglio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bimbo di un anno e mezzo cade in una vasca biologica nel Ferrarese, è grave]]></title>
+        <id>gnn:lastampa:5260888</id>
+        <link href="https://www.lastampa.it/cronaca/2022/05/31/news/bimbo_cade_in_fossa_biologica_nel_ferrarese_e_grave-5260888/"/>
+        <updated>2022-05-31T17:07:36.000Z</updated>
+        <summary type="html"><![CDATA[Un bambino di un anno e mezzo è caduto accidentalmente in una vasca biologica a Portomaggiore, nel Ferrarese. Il piccolo è ricoverato ospedale di Cona e, da quanto si è appreso, versa in condizioni gravissime, in pericolo di vita.
+Il  ... [Continua a leggere sul sito.]]]></summary>
+        <author>
+            <name>lastampa.it - Homepage</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mezran (Atlantic Council): 'Paesi arabi riallineati con Nato']]></title>
+        <id>https://www.adnkronos.com/mezran-atlantic-council-paesi-arabi-riallineati-con-nato_75VGw3HLXd2g9cQyv6TaGF</id>
+        <link href="https://www.adnkronos.com/mezran-atlantic-council-paesi-arabi-riallineati-con-nato_75VGw3HLXd2g9cQyv6TaGF"/>
+        <updated>2022-05-31T17:06:29.000Z</updated>
+        <summary type="html"><![CDATA[(Adnkronos) - "La chiamata alle armi da parte degli Stati Uniti e dei paesi occidentali nei confronti dei loro alleati arabi ha creato un certo scompiglio. Alcuni paesi arabi inizialmente si erano schierati con una certa freddezza all’idea di andare contro la Russia e a favore dell’Ucraina e ora si stanno riallineando al dettame della Nato e dell’ordine americano e occidentale. Il riavvicinamento della Turchia con l’Egitto e dell’Arabia Saudita con la Turchia sono segni importanti derivati da questo richiamo all’ordine che è scaturito dalla necessità di affrontare la Russia e la sua penetrazione nel Mediterraneo per colpire il fianco sud della Nato. La guerra in Ucraina ha ricompattato gli equilibri e le alleanze che abbiamo visto cambiare in questi ultimi anni”. Lo ha dichiarato Karim Mezran, Resident Senior Fellow per i Middle East Programs presso l’Atlantic Council, a margine dell'evento "Il Medio Oriente nel nuovo disordine geopolitico" promosso e organizzato da Med-Or e Atlantic Council.]]></summary>
+        <author>
+            <name>webinfo@adnkronos.com (Web Info)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["Testarda e sorridente: ecco la mia Martina. All'inferno e ritorno insieme a lei"]]></title>
+        <id>https://www.gazzetta.it/Tennis/31-05-2022/roland-garros-parla-matteo-catarsi-coach-martina-trevisan-440777910043.shtml</id>
+        <link href="https://www.gazzetta.it/Tennis/31-05-2022/roland-garros-parla-matteo-catarsi-coach-martina-trevisan-440777910043.shtml"/>
+        <updated>2022-05-31T17:04:45.000Z</updated>
+        <summary type="html"><![CDATA["Testarda e sorridente: ecco la mia Martina. All'inferno e ritorno insieme a lei" 
+Matteo Catarsi segue la Trevisan da quando aveva 10 anni, con lei ha vissuto l'anoressia, l'addio al tennis,  il ritorno insegnando ai bambini. "I dolori del passato sono alle spalle, ora vogliamo solo goderci queste vittorie"]]></summary>
+        <author>
+            <name>Federica Cocchi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neymar: "Il Psg non capisce il gioco di Messi. Per lui difficile adattarsi"]]></title>
+        <id>https://www.itasportpress.it/calcio-estero/psg-neymar-squadra-non-capisce-il-gioco-di-messi-adattamento-difficile-ma/</id>
+        <link href="https://www.itasportpress.it/calcio-estero/psg-neymar-squadra-non-capisce-il-gioco-di-messi-adattamento-difficile-ma/"/>
+        <updated>2022-05-31T17:04:32.000Z</updated>
+        <summary type="html"><![CDATA[Il brasiliano fa un bilancio della stagione dei parigini ed in particolare dell'amico Messi, al primo anno in Ligue 1]]></summary>
+        <author>
+            <name>Gazzetta.it</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[eFootball 2022: cross-play, editor e Master League in arrivo, c’è la data]]></title>
+        <id>https://esports.gazzetta.it/gaming/novita/31-05-2022/efootball-2022-cross-play-editor-e-master-league-in-arrivo-74410</id>
+        <link href="https://esports.gazzetta.it/gaming/novita/31-05-2022/efootball-2022-cross-play-editor-e-master-league-in-arrivo-74410"/>
+        <updated>2022-05-31T17:00:24.000Z</updated>
+        <summary type="html"><![CDATA[Konami rende pubblica una nuova roadmap che prevede contenuti gratuiti e a pagamento in arrivo da qui al 2023 per eFootball 2022.]]></summary>
+        <author>
+            <name>Gazzetta.it</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[All'asta per beneficenza l’Aston Martin di Sean Connery: è come quella di James Bond]]></title>
+        <id>gnn:lastampa:5260335</id>
+        <link href="https://www.lastampa.it/motori/2022/05/31/news/all_asta_per_beneficenza_l_aston_martin_di_sean_connery_e_come_quella_di_james_bond-5260335/"/>
+        <updated>2022-05-31T17:00:17.000Z</updated>
+        <summary type="html"><![CDATA[Va all'asta la macchina di James Bond. Una Aston Martin DB5 del 1964, appartenuta al defunto attore Sean Connery, che ha interpretato l'agente segreto sette volte sul grande schermo, sarà battuta all'asta il 18 agosto: si prevede che verrà venduta ... [Continua a leggere sul sito.]]]></summary>
+        <author>
+            <name>lastampa.it - Homepage</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gran Turismo 7, l’update 1.15 alza i prezzi delle auto: è di nuovo polemica]]></title>
+        <id>https://esports.gazzetta.it/gaming/novita/31-05-2022/gran-turismo-7-update-alza-prezzi-auto-74392</id>
+        <link href="https://esports.gazzetta.it/gaming/novita/31-05-2022/gran-turismo-7-update-alza-prezzi-auto-74392"/>
+        <updated>2022-05-31T16:58:28.000Z</updated>
+        <summary type="html"><![CDATA[Ancora una volta un ritocco all'economia interna di Gran Turismo 7 viene accolto con amarezza dagli appassionati del titolo PlayStation.]]></summary>
+        <author>
+            <name>Gazzetta.it</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vaiolo delle scimmie, allerta Oms: “Alto rischio trasmissione in festival e party estivi”. In Lombardia i casi salgono a 11]]></title>
+        <id>gnn:lastampa:5260148</id>
+        <link href="https://www.lastampa.it/cronaca/2022/05/31/news/vaiolo_delle_scimmie_allerta_oms_alto_rischio_trasmissione_in_festival_e_party_estivi_sequenziato_il_genoma_al_san_matt-5260148/"/>
+        <updated>2022-05-31T16:57:26.000Z</updated>
+        <summary type="html"><![CDATA[Festival e grandi parti estivi. Gli eventi di aggregazione tipici dell'estate finiscono sotto la lente dell'Organizzazione mondiale della sanità (Oms) per il rischio di una ulteriore diffusione del vaiolo delle scimmie. Proprio l'estate, p ... [Continua a leggere sul sito.]]]></summary>
+        <author>
+            <name>lastampa.it - Homepage</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sanzioni Russia, Zelensky: "Inaccettabili oltre 50 giorni tra quinto e sesto pacchetto"]]></title>
+        <id>https://www.adnkronos.com/sanzioni-russia-zelensky-inaccettabili-oltre-50-giorni-tra-quinto-e-sesto-pacchetto_1MG5sNZSNStaq2O7xlcg3X</id>
+        <link href="https://www.adnkronos.com/sanzioni-russia-zelensky-inaccettabili-oltre-50-giorni-tra-quinto-e-sesto-pacchetto_1MG5sNZSNStaq2O7xlcg3X"/>
+        <updated>2022-05-31T16:56:31.000Z</updated>
+        <summary type="html"><![CDATA[(Adnkronos) - Il presidente ucraino accoglie con una bocciatura della tempistica le nuove misure adottate]]></summary>
+        <author>
+            <name>webinfo@adnkronos.com (Web Info)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Minniti: 'Circondare diplomaticamente Putin con paesi Mediterraneo allargato']]></title>
+        <id>https://www.adnkronos.com/minniti-circondare-diplomaticamente-putin-con-paesi-mediterraneo-allargato_54wFMC4zGN8oaMputIZxoV</id>
+        <link href="https://www.adnkronos.com/minniti-circondare-diplomaticamente-putin-con-paesi-mediterraneo-allargato_54wFMC4zGN8oaMputIZxoV"/>
+        <updated>2022-05-31T16:50:48.000Z</updated>
+        <summary type="html"><![CDATA[(Adnkronos) - "Nei porti dell’Ucraina sono bloccati 22 milioni di tonnellate di grano e quel grano serve a fare il pane in alcuni paesi chiave del Mediterraneo e soprattutto dell’Africa settentrionale. E’ sufficiente capire questo per comprendere quanto sia altissimo il rischio che la crisi alimentare produca tensioni sociali, destabilizzazioni politiche e delle vere e proprie crisi umanitarie". Lo ha affermato Marco Minniti, Presidente della Fondazione Med-Or a margine dell'evento "Il Medio Oriente nel nuovo disordine geopolitico" promosso e organizzato da Med-Or e Atlantic Council.]]></summary>
+        <author>
+            <name>webinfo@adnkronos.com (Web Info)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mancini ha scelto i 23 per la Finalissima con l'Argentina: 7 andranno in tribuna]]></title>
+        <id>https://www.gazzetta.it/Calcio/Nazionale/31-05-2022/italia-argentina-23-convocati-mancini-la-finalissima-ecco-chi-ha-tagliato-440778607811.shtml</id>
+        <link href="https://www.gazzetta.it/Calcio/Nazionale/31-05-2022/italia-argentina-23-convocati-mancini-la-finalissima-ecco-chi-ha-tagliato-440778607811.shtml"/>
+        <updated>2022-05-31T16:49:30.000Z</updated>
+        <summary type="html"><![CDATA[Mancini ha scelto i 23 per la Finalissima con l'Argentina: 7 andranno in tribuna
+Oltre a Sirigu infortunato, a Wembley il c.t. non porterà neanche in panchina Pellegrini, Gollini, Gnonto, Tonali, Frattesi e Lazzari]]></summary>
+        <author>
+            <name>Gasport</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inter, contatto con l'avvocato di Lukaku. Ecco cosa si sono detti]]></title>
+        <id>https://www.gazzetta.it/Calcio/Serie-A/Inter/31-05-2022/calciomercato-inter-lukaku-entro-meta-giugno-agente-parlera-col-chelsea-440778280229.shtml</id>
+        <link href="https://www.gazzetta.it/Calcio/Serie-A/Inter/31-05-2022/calciomercato-inter-lukaku-entro-meta-giugno-agente-parlera-col-chelsea-440778280229.shtml"/>
+        <updated>2022-05-31T16:46:28.000Z</updated>
+        <summary type="html"><![CDATA[Inter, contatto con l'avvocato di Lukaku. Ecco cosa si sono detti
+Ledure vedrà la nuova dirigenza dei Blues per capire se il grande ritorno (in prestito) è possibile. Big Rom pronto a ridursi l’ingaggio, ma per il Decreto crescita bisogna chiudere entro un mese]]></summary>
+        <author>
+            <name>Davide Stoppini</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meloni contro Renzi: "Fa referendum ma ha votato reddito cittadinanza"]]></title>
+        <id>https://www.adnkronos.com/meloni-contro-renzi-fa-referendum-ma-ha-votato-reddito-cittadinanza_15HsdLfBuSRB0hGCM0ymFf</id>
+        <link href="https://www.adnkronos.com/meloni-contro-renzi-fa-referendum-ma-ha-votato-reddito-cittadinanza_15HsdLfBuSRB0hGCM0ymFf"/>
+        <updated>2022-05-31T16:45:39.000Z</updated>
+        <summary type="html"><![CDATA[(Adnkronos) - La leader di Fratelli d'Italia all'attacco in un comizio a Piacenza: "Solo noi ci assumiamo la responsabilità di quello in cui crediamo"]]></summary>
+        <author>
+            <name>webinfo@adnkronos.com (Web Info)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Le azzurre della Petanque pronte all'Europeo dopo il successo di Nizza]]></title>
+        <id>https://www.gazzetta.it/bocce/31-05-2022/bocce-azzurre-petanque-pronte-europeo-il-successo-nizza-440778341137.shtml</id>
+        <link href="https://www.gazzetta.it/bocce/31-05-2022/bocce-azzurre-petanque-pronte-europeo-il-successo-nizza-440778341137.shtml"/>
+        <updated>2022-05-31T16:42:23.000Z</updated>
+        <summary type="html"><![CDATA[Le azzurre della Petanque pronte all'Europeo dopo il successo di Nizza
+Per la competizione continentale a terne e di tiro di precisione il c.t. Capaccioni schiererà Mariangela Arcesto, Valentina Petulicchio, Vanessa Romeo e Monica Scalise]]></summary>
+        <author>
+            <name>Mauro Traverso</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Draghi e il lapsus: "Che ho detto?" - Video]]></title>
+        <id>https://www.adnkronos.com/draghi-e-il-lapsus-che-ho-detto-video_42wJrtUT8mduiswUD5CJ9q</id>
+        <link href="https://www.adnkronos.com/draghi-e-il-lapsus-che-ho-detto-video_42wJrtUT8mduiswUD5CJ9q"/>
+        <updated>2022-05-31T16:38:58.000Z</updated>
+        <summary type="html"><![CDATA[(Adnkronos) - "Ho parlato di embargo del gas, invece era embargo del petrolio...."]]></summary>
+        <author>
+            <name>webinfo@adnkronos.com (Web Info)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Digitale, Lef sceglie l'IoT di Zerynth per innovare le imprese italiane]]></title>
+        <id>https://www.adnkronos.com/digitale-lef-sceglie-liot-di-zerynth-per-innovare-le-imprese-italiane_5qMFLqB5dDdvXPyxzJTs9L</id>
+        <link href="https://www.adnkronos.com/digitale-lef-sceglie-liot-di-zerynth-per-innovare-le-imprese-italiane_5qMFLqB5dDdvXPyxzJTs9L"/>
+        <updated>2022-05-31T16:21:53.000Z</updated>
+        <summary type="html"><![CDATA[(Adnkronos) - Lef-Lean Experience Factory, il più integrato digital innovation hub al mondo che affianca le imprese nella trasformazione digitale, ha scelto le soluzioni IoT di Zerynth per realizzare uno use case di interconnessione dei macchinari industriali. L’obiettivo è mostrare alle aziende manifatturiere italiane come sia possibile uniformare la vista sul proprio parco macchine, indipendentemente dal produttore e dal loro stato tecnologico e innovare il proprio shop floor rendendolo connesso in meno di 3 ore e con un fermo macchina inferiore ai 30 minuti. E l'obiettivo è sfruttare appieno le opportunità del paradigma dell’Industria 4.0.]]></summary>
+        <author>
+            <name>webinfo@adnkronos.com (Web Info)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ex Ilva: la Corte Assise di Taranto respinge la richiesta di dissequestro]]></title>
+        <id>gnn:lastampa:5258054</id>
+        <link href="https://www.lastampa.it/cronaca/2022/05/31/news/ex_ilva_la_corte_assise_di_taranto_respinge_la_richiesta_di_dissequestro-5258054/"/>
+        <updated>2022-05-31T16:20:36.000Z</updated>
+        <summary type="html"><![CDATA[La Corte d'Assise di Taranto ha respinto la richiesta di dissequestro degli impianti dell'area a caldo dello stabilimento Acciaierie d'Italia (ex Ilva) presentata all'inizio di aprile dai legali dei commissari di Ilva in As. Il provvedimento segue ... [Continua a leggere sul sito.]]]></summary>
+        <author>
+            <name>lastampa.it - Homepage</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2 giugno, Roma omaggia le donne cadute nel '43]]></title>
+        <id>https://www.adnkronos.com/2-giugno-roma-omaggia-le-donne-cadute-nel-43_5VJM1OpXuiXOfPlGr0SQFn</id>
+        <link href="https://www.adnkronos.com/2-giugno-roma-omaggia-le-donne-cadute-nel-43_5VJM1OpXuiXOfPlGr0SQFn"/>
+        <updated>2022-05-31T16:20:20.000Z</updated>
+        <summary type="html"><![CDATA[(Adnkronos) - Architetto Esposito: "Spettacolo per la pace all'ex Mattatoio e fiaccolata alla lapide di Porta San Paolo"]]></summary>
+        <author>
+            <name>webinfo@adnkronos.com (Web Info)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Le triangolazioni del calcio, in amore: da Icardi-Wanda-Lopez a Zaccagni-Nasti-Zaniolo]]></title>
+        <id>https://www.gazzetta.it/Calcio/Serie-A/31-05-2022/gamberetto-gate-zaniolo-zaccagni-nasti-ultimo-caso-triangolo-amoroso-calcio-440777282790.shtml</id>
+        <link href="https://www.gazzetta.it/Calcio/Serie-A/31-05-2022/gamberetto-gate-zaniolo-zaccagni-nasti-ultimo-caso-triangolo-amoroso-calcio-440777282790.shtml"/>
+        <updated>2022-05-31T16:19:17.000Z</updated>
+        <summary type="html"><![CDATA[Le triangolazioni del calcio, in amore: da Icardi-Wanda-Lopez a Zaccagni-Nasti-Zaniolo
+Il "gamberetto gate" riaccende i riflettori sugli intrecci tra le vite dei calciatori e le questioni sentimentali. Quando Altafini fece scandalo negli anni Settanta...]]></summary>
+        <author>
+            <name>Furio Zara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Covid Italia, "autunno sarà molto, molto difficile"]]></title>
+        <id>https://www.adnkronos.com/covid-italia-autunno-sara-molto-molto-difficile_4GCKprjgH5HUyFajOvNGhn</id>
+        <link href="https://www.adnkronos.com/covid-italia-autunno-sara-molto-molto-difficile_4GCKprjgH5HUyFajOvNGhn"/>
+        <updated>2022-05-31T16:18:53.000Z</updated>
+        <summary type="html"><![CDATA[(Adnkronos) - Ricciardi: "Prepararsi per ottobre è fondamentale, il tetto va rifatto quando non piove. Nell'altro emisfero ora abbiamo i pronto soccorso in crisi"]]></summary>
+        <author>
+            <name>webinfo@adnkronos.com (Web Info)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nautica, da domani adottati nuovi quiz patente]]></title>
+        <id>https://www.adnkronos.com/nautica-da-domani-adottati-nuovi-quiz-patente_2A2St7JheD4mAU2BInuEZv</id>
+        <link href="https://www.adnkronos.com/nautica-da-domani-adottati-nuovi-quiz-patente_2A2St7JheD4mAU2BInuEZv"/>
+        <updated>2022-05-31T16:18:23.000Z</updated>
+        <summary type="html"><![CDATA[(Adnkronos) - Da domani, 1° giugno, partiranno le prime sessioni di esami che adottano i quiz di teoria e gli esercizi di carteggio frutto della riforma dell’esame per la patente nautica fortemente voluto da Confindustria Nautica insieme alle associazioni delle scuole nautiche. “Il nuovo esame della patente nautica è un’occasione di maggior avvicinamento alla nautica da parte di nuovi diportisti che saranno d’ora in poi esaminati con un approccio più vicino alle reali necessità di conoscenza della navigazione da diporto” – dichiara Saverio Cecchi, Presidente di Confindustria Nautica. “Inoltre, i nuovi quiz consentiranno una preparazione meno nozionistica, ma più incentrata sulla consapevolezza e sull’attenzione alla sicurezza in mare. Ringrazio il DG del ministero delle Infrastrutture, Teresa di Matteo, e il Comandante del Reparto del Comando Generale Capitanerie di porto, Massimo Seno, per l’accoglimento delle nostre richieste e per aver dato il congruo tempo ai candidati per l’entrata in vigore del nuovo esame”.]]></summary>
+        <author>
+            <name>webinfo@adnkronos.com (Web Info)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bimbo di 13 mesi caduto da una finestra nel Modenese, fermata la babysitter: tentato omicidio]]></title>
+        <id>gnn:lastampa:5257833</id>
+        <link href="https://www.lastampa.it/cronaca/2022/05/31/news/bimbo_di_13_mesi_caduto_da_una_finestra_nel_modenese_fermata_la_babysitter_tentato_omicidio-5257833/"/>
+        <updated>2022-05-31T16:16:00.000Z</updated>
+        <summary type="html"><![CDATA[MODENA. È stata fermata la babysitter di 32 anni che questa mattina intorno alle 10 si trovava in casa con un bimbo di tredici mesi, caduto dal secondo piano a Soliera. Dopo un interrogatorio all'interno della caserma dei carabinieri di Soliera, a ... [Continua a leggere sul sito.]]]></summary>
+        <author>
+            <name>lastampa.it - Homepage</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Monza, la festa con i tifosi continua allo U-Power Stadium]]></title>
+        <id>https://video.gazzetta.it/diretta-monza-festa-continua-saluto-tifosi-bus-scoperto/567ea202-e0ee-11ec-8bc5-2d11741a5463</id>
+        <link href="https://video.gazzetta.it/diretta-monza-festa-continua-saluto-tifosi-bus-scoperto/567ea202-e0ee-11ec-8bc5-2d11741a5463"/>
+        <updated>2022-05-31T16:12:08.000Z</updated>
+        <summary type="html"><![CDATA[Monza, la festa con i tifosi continua allo U-Power Stadium
+Proseguono i festeggiamenti per la storica promozione in Serie A del Monza: la squadra ha sfilato in alcuni punti nevralgici della città come il Ponte dei Leoni, l’Arengario e Piazza Trento e Trieste fino ad arrivare allo U-Power Stadium]]></summary>
+        <author>
+            <name>Gasport</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sondaggio tra i tifosi: sorpresa Milan, colpa dell'Inter. Le delusioni? Atalanta e Juventus]]></title>
+        <id>https://www.gazzetta.it/Calcio/Serie-A/31-05-2022/sondaggio-tifosi-sorpresa-milan-colpa-inter-delusioni-atalanta-juventus-440768763040.shtml</id>
+        <link href="https://www.gazzetta.it/Calcio/Serie-A/31-05-2022/sondaggio-tifosi-sorpresa-milan-colpa-inter-delusioni-atalanta-juventus-440768763040.shtml"/>
+        <updated>2022-05-31T16:07:02.000Z</updated>
+        <summary type="html"><![CDATA[Sondaggio tra i tifosi: sorpresa Milan, colpa dell'Inter. Le delusioni? Atalanta e Juventus
+Pioli e Leao si aggiudicano rispettivamente i premi di migliore allenatore e giocatore. Italiano la più grande sorpresa dopo i rossoneri]]></summary>
+        <author>
+            <name>G.B.Olivero</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dalla Norvegia all'Olanda: Soulé, Da Graca e gli altri, i 19 giovani Juve in nazionale]]></title>
+        <id>https://www.gazzetta.it/Calcio/Serie-A/Juventus/storie/31-05-2022/juve-19-giovani-nazionale-soule-graca-chi-sono-440775309988/</id>
+        <link href="https://www.gazzetta.it/Calcio/Serie-A/Juventus/storie/31-05-2022/juve-19-giovani-nazionale-soule-graca-chi-sono-440775309988/"/>
+        <updated>2022-05-31T16:01:54.000Z</updated>
+        <summary type="html"><![CDATA[Dalla Norvegia all'Olanda: Soulé, Da Graca e gli altri, i 19 giovani Juve in nazionale
+Sette bianconeri convocati con l'Italia Under 20. Nelle categorie più giovani occhio a Strijdonck, Nzouango e Solberg]]></summary>
+        <author>
+            <name>Giovanni Albanese</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Evans: “Io, orgoglioso di Hindley. Ha fatto storia come me”]]></title>
+        <id>https://www.gazzetta.it/Giroditalia/31-05-2022/giro-italia-evans-io-orgoglioso-hindley-ha-fatto-storia-come-me-440766666638.shtml</id>
+        <link href="https://www.gazzetta.it/Giroditalia/31-05-2022/giro-italia-evans-io-orgoglioso-hindley-ha-fatto-storia-come-me-440766666638.shtml"/>
+        <updated>2022-05-31T16:01:38.000Z</updated>
+        <summary type="html"><![CDATA[Evans: “Io, orgoglioso di Hindley. Ha fatto storia come me” 
+Il primo australiano re di Tour e Mondiale era a Verona per Jai: “Uomo vero, crescerà ancora”]]></summary>
+        <author>
+            <name>Ciro Scognamiglio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Perisic: "Volevo la Premier dal 2009, un privilegio lavorare con Conte"]]></title>
+        <id>https://video.gazzetta.it/perisic-tottenham-volevo-premier-2009/256fa6ec-e0f9-11ec-8bc5-2d11741a5463</id>
+        <link href="https://video.gazzetta.it/perisic-tottenham-volevo-premier-2009/256fa6ec-e0f9-11ec-8bc5-2d11741a5463"/>
+        <updated>2022-05-31T15:59:49.000Z</updated>
+        <summary type="html"><![CDATA[Perisic: "Volevo la Premier dal 2009, un privilegio lavorare con Conte"
+Il croato, ex Inter, si presenta al Tottenham: ecco le sue prime parole da giocatore dei londinesi.]]></summary>
+        <author>
+            <name>Gasport</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bologna, Sartori ha firmato: sarà direttore dell'area tecnica. Il saluto del club a Bigon]]></title>
+        <id>https://www.gazzetta.it/Calcio/Serie-A/Bologna/31-05-2022/bologna-sartori-ha-firmato-sara-direttore-area-tecnica-440778410304.shtml</id>
+        <link href="https://www.gazzetta.it/Calcio/Serie-A/Bologna/31-05-2022/bologna-sartori-ha-firmato-sara-direttore-area-tecnica-440778410304.shtml"/>
+        <updated>2022-05-31T15:59:00.000Z</updated>
+        <summary type="html"><![CDATA[Bologna, Sartori ha firmato: sarà direttore dell'area tecnica. Il saluto del club a Bigon
+L'a.d. Fenucci: "Riccardo fondamentale negli ultimi sei anni". Il presidente Saputo: "È sempre difficile assumere decisioni del genere, specialmente con professionisti che si sono sempre dedicati con impegno al lavoro"]]></summary>
+        <author>
+            <name>Matteo Dalla Vite</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Juve, Demiral potrebbe tornare dall'Atalanta. Per restare? Gli scenari]]></title>
+        <id>https://www.gazzetta.it/Calcio/Serie-A/Juventus/31-05-2022/calciomercato-juve-cercasi-difensore-demiral-puo-tornare-atalanta-440774611833.shtml</id>
+        <link href="https://www.gazzetta.it/Calcio/Serie-A/Juventus/31-05-2022/calciomercato-juve-cercasi-difensore-demiral-puo-tornare-atalanta-440774611833.shtml"/>
+        <updated>2022-05-31T15:57:35.000Z</updated>
+        <summary type="html"><![CDATA[Juve, Demiral potrebbe tornare dall'Atalanta. Per restare? Gli scenari
+L'Atalanta può riscattarlo fino al 15 giugno ma, senza Champions League, sarebbe per rivenderlo. Così può rientrare in bianconero, dove era arrivato proprio per affrontare quel post-Chiellini che oggi è l'attualità: il rientro del difensore turco non era nei piani, ma potrebbe risolvere un problema ad Allegri]]></summary>
+        <author>
+            <name>Gasport</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lewandowski, il c.t. della Polonia gela il Barça: "Lo vedrei al Liverpool"]]></title>
+        <id>https://www.itasportpress.it/calcio-estero/lewandowski-il-ct-della-polonia-a-sorpresa-vorrei-vederlo-al-liverpool/</id>
+        <link href="https://www.itasportpress.it/calcio-estero/lewandowski-il-ct-della-polonia-a-sorpresa-vorrei-vederlo-al-liverpool/"/>
+        <updated>2022-05-31T15:54:36.000Z</updated>
+        <summary type="html"><![CDATA[Il CT polacco sul futuro del giocatore]]></summary>
+        <author>
+            <name>Gazzetta.it</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[L'accusa dell'ex compagna: "Eto'o è inadempiente, non paga alimenti a nostra figlia"]]></title>
+        <id>https://www.golssip.it/social/etoo-inadempiente-non-paga-alimenti/</id>
+        <link href="https://www.golssip.it/social/etoo-inadempiente-non-paga-alimenti/"/>
+        <updated>2022-05-31T15:53:27.000Z</updated>
+        <summary type="html"><![CDATA[L'ex calciatore dell'Inter continua a non pagare gli alimenti alla figlia riconosciuta grazie ad un processo: le parole della madre]]></summary>
+        <author>
+            <name>Gazzetta.it</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De Bruyne  contro la Nations League: "Amichevoli senza alcuna importanza"]]></title>
+        <id>https://www.itasportpress.it/calcio/de-bruyne-e-la-nations-league-come-amichevoli-senza-alcuna-importanza/</id>
+        <link href="https://www.itasportpress.it/calcio/de-bruyne-e-la-nations-league-come-amichevoli-senza-alcuna-importanza/"/>
+        <updated>2022-05-31T15:52:31.000Z</updated>
+        <summary type="html"><![CDATA[Il fantasista del Belgio non ritiene la competizione importante]]></summary>
+        <author>
+            <name>Gazzetta.it</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Atletico, tifosi staccano targhetta di Courtois al Wanda  e lui: “Hala Madrid”]]></title>
+        <id>https://www.ilposticipo.it/calcio/i-tifosi-dellatletico-staccano-la-targa-di-courtois-dal-wanda-il-portiere-risponde-hala-madrid/</id>
+        <link href="https://www.ilposticipo.it/calcio/i-tifosi-dellatletico-staccano-la-targa-di-courtois-dal-wanda-il-portiere-risponde-hala-madrid/"/>
+        <updated>2022-05-31T15:51:42.000Z</updated>
+        <summary type="html"><![CDATA[La quattordicesima non ha reso esattamente tutti felici a Madrid.]]></summary>
+        <author>
+            <name>Gazzetta.it</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uccise un 35enne a calci, pugni e colpendolo con una stampella: condannato all’ergastolo Guerino Spinelli]]></title>
+        <id>gnn:lastampa:5254699</id>
+        <link href="https://www.lastampa.it/cronaca/2022/05/31/news/uccise_un_35enne_a_calci_pugni_e_colpendolo_con_una_stampella_condannato_all_ergastolo_guerino_spinelli-5254699/"/>
+        <updated>2022-05-31T15:36:50.000Z</updated>
+        <summary type="html"><![CDATA[La Corte d'Assise di Chieti ha condannato all'ergastolo Guerino Spinelli, il 32enne accusato di omicidio volontario premeditato con l'aggravante dei futili motivi per aver ucciso Marco Cervoni, 35 anni, il mattino del primo gennaio del 2020 c ... [Continua a leggere sul sito.]]]></summary>
+        <author>
+            <name>lastampa.it - Homepage</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ritorno al Futuro, 1872 mattoncini per costruire la DeLorean in Lego]]></title>
+        <id>https://www.gazzetta.it/motori/la-mia-auto/31-05-2022/ritorno-futuro-delorean-lego.shtml</id>
+        <link href="https://www.gazzetta.it/motori/la-mia-auto/31-05-2022/ritorno-futuro-delorean-lego.shtml"/>
+        <updated>2022-05-31T15:35:27.000Z</updated>
+        <summary type="html"><![CDATA[La DeLorean Dmc-12 di Ritorno al Futuro è ora disponibile anche in versione Lego: il marchio danese ha messo in commercio il kit tre-in-uno per costruire le macchine del tempo utilizzate da Emmett “Do]]></summary>
+        <author>
+            <name>Gazzetta.it</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[L'influencer Giada Todesco: "Per restare in forma si può mangiare tutto senza sacrifici. Ecco come..."]]></title>
+        <id>https://www.gazzetta.it/alimentazione/31-05-2022/influencer-giada-todesco-restare-forma-mangiando-tutto.shtml</id>
+        <link href="https://www.gazzetta.it/alimentazione/31-05-2022/influencer-giada-todesco-restare-forma-mangiando-tutto.shtml"/>
+        <updated>2022-05-31T15:18:44.000Z</updated>
+        <summary type="html"><![CDATA[L'influencer Giada Todesco ci racconta in questa intervista come funziona la sua app Mycherryapp, che aiuta a restare in forma senza troppi sacrifici a tavola.]]></summary>
+        <author>
+            <name>Gazzetta.it</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hindley: “Al Giro ho fatto qualcosa di speciale. E ora...”]]></title>
+        <id>https://www.gazzetta.it/Ciclismo/31-05-2022/hindley-al-giro-ho-fatto-qualcosa-speciale-ora-440777146034.shtml</id>
+        <link href="https://www.gazzetta.it/Ciclismo/31-05-2022/hindley-al-giro-ho-fatto-qualcosa-speciale-ora-440777146034.shtml"/>
+        <updated>2022-05-31T15:09:40.000Z</updated>
+        <summary type="html"><![CDATA[Hindley: “Al Giro ho fatto qualcosa di speciale. E ora...” 
+Il 26enne australiano della Bora-Hansgrohe: “Se in futuro vincerò il Tour? Perché no?”]]></summary>
+        <author>
+            <name>Ciro Scognamiglio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nel mondo di Gianluca Scamacca tra gol, videogiochi, tatuaggi, padel e la passione per l'enologia]]></title>
+        <id>https://www.gazzetta.it/fitness/storie/31-05-2022/gianluca-scamacca-nazionale-passioni-tatuaggi-vino-padel-1654009341/</id>
+        <link href="https://www.gazzetta.it/fitness/storie/31-05-2022/gianluca-scamacca-nazionale-passioni-tatuaggi-vino-padel-1654009341/"/>
+        <updated>2022-05-31T15:02:33.000Z</updated>
+        <summary type="html"><![CDATA[Tutto su Gianluca Scamacca (Sassuolo), ora impegnato con la Nazionale di Mancini: gli hobby, le passioni, le curiosità tra moda, vino, padel e tatuaggi.]]></summary>
+        <author>
+            <name>Gazzetta.it</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dash cam in auto, ecco cosa dice la legge]]></title>
+        <id>https://www.gazzetta.it/motori/la-mia-auto/31-05-2022/dash-cam-auto-sono-legali-cosa-dice-legge-italia.shtml</id>
+        <link href="https://www.gazzetta.it/motori/la-mia-auto/31-05-2022/dash-cam-auto-sono-legali-cosa-dice-legge-italia.shtml"/>
+        <updated>2022-05-31T14:17:40.000Z</updated>
+        <summary type="html"><![CDATA[I dispositivi di registrazione video all'interno delle auto possono davvero rappresentare una garanzia contro i sinistri? Ecco tutto quello che c'è da sapere per non violare la legge]]></summary>
+        <author>
+            <name>Gazzetta.it</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pato: "Io il grande flop, quanto ho pianto. Berlusconi mi ha aiutato, ma gli infortuni..."]]></title>
+        <id>https://www.calciomercato.com/news/pato-a-cuore-aperto-berlusconi-mi-ha-cambiato-poi-gli-infortuni--91922</id>
+        <link href="https://www.calciomercato.com/news/pato-a-cuore-aperto-berlusconi-mi-ha-cambiato-poi-gli-infortuni--91922"/>
+        <updated>2022-05-31T14:16:45.000Z</updated>
+        <summary type="html"><![CDATA[Alexandre Pato si è raccontato a cuore aperto, per la prima volta, in una lettera scritta di suo pugno al The Players Tribune. L'ex attaccante del Milan]]></summary>
+        <author>
+            <name>Gazzetta.it</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inter, non vendere Bastoni: rappresenta il futuro ed è merce rara]]></title>
+        <id>https://www.gazzetta.it/Calcio/Calciomercato/Inter/31-05-2022/inter-non-vendere-bastoni-rappresenta-futuro-ed-merce-rara-440774979488.shtml</id>
+        <link href="https://www.gazzetta.it/Calcio/Calciomercato/Inter/31-05-2022/inter-non-vendere-bastoni-rappresenta-futuro-ed-merce-rara-440774979488.shtml"/>
+        <updated>2022-05-31T14:05:06.000Z</updated>
+        <summary type="html"><![CDATA[Inter, non vendere Bastoni: rappresenta il futuro ed è merce rara
+Le esigenze di bilancio sono sacrosante, però sul mercato i difensori di livello sono pochi e costano tanto. I nerazzurri hanno in casa una pepita da custodire]]></summary>
+        <author>
+            <name>Alessandro Vocalelli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Draghi: “Accontentati sul tetto ai prezzi del gas. Salvini in Russia? Il governo non cambia posizione. L’impatto più forte delle sanzioni in estate”]]></title>
+        <id>gnn:lastampa:5249237</id>
+        <link href="https://www.lastampa.it/esteri/2022/05/31/news/draghi_putin_non_puo_vincere_questa_guerra_-5249237/"/>
+        <updated>2022-05-31T14:00:28.000Z</updated>
+        <summary type="html"><![CDATA[«E' stato un Consiglio un po' lungo ma dei cui risultati possiamo essere soddisfatti»: così Mario Draghi intervenendo alla conferenza stampa del Consiglio Europeo. Poi, subito, le parole chiave della linea italiana in merito al conflitto  ... [Continua a leggere sul sito.]]]></summary>
+        <author>
+            <name>lastampa.it - Homepage</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I rinnovi di Maldini e Massara, mercato e stadio: la fitta agenda di RedBird]]></title>
         <id>https://www.gazzetta.it/Calcio/Serie-A/Milan/27-05-2022/milan-rinnovi-maldini-massara-mercato-stadio-fitta-agenda-redbird-440711470780.shtml</id>
@@ -15,6 +610,175 @@
 A giorni il "signing" per il preliminare di vendita. Sul tavolo di Cardinale ci sono già diversi nodi da gestire. Soprattutto dopo le parole di Paolo...]]></summary>
         <author>
             <name>Marco Pasotto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ufficiale: Perisic firma per il Tottenham fino al 2024. Poi saluta l'Inter: "Indimenticabile"]]></title>
+        <id>https://www.gazzetta.it/Calcio/Calciomercato/Inter/31-05-2022/calciomercato-inter-perisic-tottenham-saluta-tifosi-instagram-440777332253.shtml</id>
+        <link href="https://www.gazzetta.it/Calcio/Calciomercato/Inter/31-05-2022/calciomercato-inter-perisic-tottenham-saluta-tifosi-instagram-440777332253.shtml"/>
+        <updated>2022-05-31T13:44:33.000Z</updated>
+        <summary type="html"><![CDATA[Ufficiale: Perisic firma per il Tottenham fino al 2024. Poi saluta l'Inter: "Indimenticabile"
+Il croato dice addio ai tifosi nerazzurri su Instagram: "Me ne vado sentendomi onorato di aver fatto parte di questo club" . A stretto giro, arriva l'annuncio della società inglese]]></summary>
+        <author>
+            <name>Gasport</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trevisan nella storia! Grinta e colpi da urlo: il successo su Fernandez in 1 minuto]]></title>
+        <id>https://video.gazzetta.it/video-roland-garros-trevisan-semifinale-successo-fernandez-1-minuto/81d14b2a-e0e5-11ec-8bc5-2d11741a5463</id>
+        <link href="https://video.gazzetta.it/video-roland-garros-trevisan-semifinale-successo-fernandez-1-minuto/81d14b2a-e0e5-11ec-8bc5-2d11741a5463"/>
+        <updated>2022-05-31T13:38:48.000Z</updated>
+        <summary type="html"><![CDATA[Trevisan nella storia! Grinta e colpi da urlo: il successo su Fernandez in 1 minuto
+Una straordinaria Martina Trevisan riporta una tennista italiana alle semifinali del Roland Garros nove anni dopo Sara Errani: la toscana ha superato per 6-2 6-7 6-3 la canadese Leylah Fernandez]]></summary>
+        <author>
+            <name>Antonino Lo Re</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roland Garros, Cilic e Rublev a caccia della prima semifinale. Il russo avanti nei precedenti ma…]]></title>
+        <id>https://www.gazzetta.it/comparazione-quote/31-05-2022/roland-garros-cilic-rublev-caccia-prima-semifinale-russo-avanti-precedenti-comparazione-quote-440777089972.shtml</id>
+        <link href="https://www.gazzetta.it/comparazione-quote/31-05-2022/roland-garros-cilic-rublev-caccia-prima-semifinale-russo-avanti-precedenti-comparazione-quote-440777089972.shtml"/>
+        <updated>2022-05-31T13:36:24.000Z</updated>
+        <summary type="html"><![CDATA[Roland Garros, Cilic e Rublev a caccia della prima semifinale. Il russo avanti nei precedenti ma…
+Il russo ed il croato non sono mai andati oltre i quarti di finale nella capitale francese. Rublev in vantaggio negli scontri diretti ma a Parigi ha trascorso più ore in campo]]></summary>
+        <author>
+            <name>Arianna Nardi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lo sforna talenti: ecco chi è Alberto De Rossi, il tecnico della Roma primavera]]></title>
+        <id>https://www.gazzetta.it/Calcio/Serie-A/Roma/storie/31-05-2022/finale-playoff-primavera-roma-inter-alberto-derossi-allenatore-vivaio-440775488768/</id>
+        <link href="https://www.gazzetta.it/Calcio/Serie-A/Roma/storie/31-05-2022/finale-playoff-primavera-roma-inter-alberto-derossi-allenatore-vivaio-440775488768/"/>
+        <updated>2022-05-31T13:35:40.000Z</updated>
+        <summary type="html"><![CDATA[Da Pellegrini a Frattesi, passando per Florenzi, ecco tutti i talenti di Alberto De Rossi
+Il tecnico della primavera giallorossa ha formato i campioni di oggi della prima squadra, ma anche di mezza Serie A. Su tutti il capitano Pellegrini, ma anche i baby diventati gli 'intoccabili'  di Mourinho Zalewski e Felix]]></summary>
+        <author>
+            <name>Chiara Zucchelli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LIVE Roma-Inter vale lo scudettino: calcio d’inizio alle 20.30]]></title>
+        <id>https://www.gazzetta.it/Calcio/altri-campionati/31-05-2022/roma-inter-live-finale-campionato-primavera-diretta-440762797018.shtml</id>
+        <link href="https://www.gazzetta.it/Calcio/altri-campionati/31-05-2022/roma-inter-live-finale-campionato-primavera-diretta-440762797018.shtml"/>
+        <updated>2022-05-31T13:30:45.000Z</updated>
+        <summary type="html"><![CDATA[Roma-Inter, finale campionato Primavera: calcio d’inizio alle 20.30
+È la sfida più attesa, visto che a Sassuolo si affrontano in quest’atto finale la prima e la seconda della stagione regolare]]></summary>
+        <author>
+            <name>Gasport</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Da Gerry Scotti in versione cardinale alla "libidine" di Gerry Calà: RedBird, social scatenati]]></title>
+        <id>https://video.gazzetta.it/video-milan-redbird-cardinale-ha-firmato-reazioni-social-meme-piu-divertenti/9e665d68-e0e3-11ec-8bc5-2d11741a5463</id>
+        <link href="https://video.gazzetta.it/video-milan-redbird-cardinale-ha-firmato-reazioni-social-meme-piu-divertenti/9e665d68-e0e3-11ec-8bc5-2d11741a5463"/>
+        <updated>2022-05-31T13:18:23.000Z</updated>
+        <summary type="html"><![CDATA[Da Gerry Scotti in versione cardinale alla "libidine" di Gerry Calà: RedBird, social scatenati
+Gerry Cardinale, grande capo di RedBird Capital Partners, ha firmato il contratto di acquisizione del Milan. Il passaggio da Elliott alla nuova proprietà sarà annunciato nelle prossime ore, ma nel frattempo i social si sono già scatenati a suon di meme...]]></summary>
+        <author>
+            <name>Gasport</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roma, obiettivo centrocampista: Douglas Luiz è la prima scelta]]></title>
+        <id>https://www.gazzetta.it/Calcio/Calciomercato/Roma/31-05-2022/roma-obiettivo-centrocampista-douglas-luiz-prima-scelta-440774883591.shtml</id>
+        <link href="https://www.gazzetta.it/Calcio/Calciomercato/Roma/31-05-2022/roma-obiettivo-centrocampista-douglas-luiz-prima-scelta-440774883591.shtml"/>
+        <updated>2022-05-31T13:18:16.000Z</updated>
+        <summary type="html"><![CDATA[Roma, obiettivo centrocampista: Douglas Luiz è la prima scelta 
+Il brasiliano dell’Aston Villa vuole infatti cambiare aria e accettare una sfida diversa: la valutazione del 24enne è di 30-35 milioni. Altri nomi sul taccuino sono Xhaka, Maxime Lopez e Xeka]]></summary>
+        <author>
+            <name>Andrea Pugliese</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maggio, il mese del Milan: quando esplode il Dna rossonero vincente]]></title>
+        <id>https://www.gazzetta.it/Calcio/Serie-A/Milan/31-05-2022/maggio-mese-milan-quando-esplode-dna-rossonero-vincente-440759951279.shtml</id>
+        <link href="https://www.gazzetta.it/Calcio/Serie-A/Milan/31-05-2022/maggio-mese-milan-quando-esplode-dna-rossonero-vincente-440759951279.shtml"/>
+        <updated>2022-05-31T13:18:00.000Z</updated>
+        <summary type="html"><![CDATA[Maggio, il mese del Milan: quando esplode il Dna rossonero vincente
+Dallo scudetto  alla Champions di Ancelotti e alla promozione del Monza di Berlusconi, cronistoria di tutti i trionfi in salsa rossonera]]></summary>
+        <author>
+            <name>Andrea Schianchi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Indy 500 mai così ricca: 3,1 milioni di dollari al vincitore Ericsson]]></title>
+        <id>https://www.gazzetta.it/Auto/31-05-2022/indy.shtml</id>
+        <link href="https://www.gazzetta.it/Auto/31-05-2022/indy.shtml"/>
+        <updated>2022-05-31T13:13:22.000Z</updated>
+        <summary type="html"><![CDATA[La 106esima edizione ha avuto un montepremi di ben 16,2 milioni: battuto il record che resisteva dal 2014]]></summary>
+        <author>
+            <name>Gazzetta.it</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mercedes Classe E Cabrio: alla scoperta dell'eleganza. Ecco come va la diesel da 194 Cv]]></title>
+        <id>https://www.gazzetta.it/motori/la-mia-auto/prove-auto/31-05-2022/mercedes-classe-cabrio-scoperta-eleganza.shtml</id>
+        <link href="https://www.gazzetta.it/motori/la-mia-auto/prove-auto/31-05-2022/mercedes-classe-cabrio-scoperta-eleganza.shtml"/>
+        <updated>2022-05-31T13:09:15.000Z</updated>
+        <summary type="html"><![CDATA[La prova su strada della Mercedes Classe E Cabrio]]></summary>
+        <author>
+            <name>Gazzetta.it</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Caso Salvini a Mosca, il Copasir indagherà su Antonio Capuano e i suoi contatti con l’ambasciata russa]]></title>
+        <id>gnn:lastampa:5245908</id>
+        <link href="https://www.lastampa.it/politica/2022/05/31/news/caso_salvini_a_mosca_il_copasir_indaghera_su_antonio_capuano_e_i_suoi_contatti_con_l_ambasciata_russa-5245908/"/>
+        <updated>2022-05-31T13:04:24.000Z</updated>
+        <summary type="html"><![CDATA[ROMA. Il Copasir «che come consuetudine non esprime mai valutazioni politiche sull'attività dei parlamentari, conferma di aver avviato le usuali procedure informative previste, a norma della legge 124/2007, in merito all'attività che sarebbe stata ... [Continua a leggere sul sito.]]]></summary>
+        <author>
+            <name>lastampa.it - Homepage</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Attenta Italia, i numeri dicono che Argentina e 1° giugno non portano fortuna]]></title>
+        <id>https://www.numericalcio.it/nazionali/positivi-i-precedenti-contro-largentina-ma-litalia-non-vince-da-piu-di-30-anni/1/</id>
+        <link href="https://www.numericalcio.it/nazionali/positivi-i-precedenti-contro-largentina-ma-litalia-non-vince-da-piu-di-30-anni/1/"/>
+        <updated>2022-05-31T13:00:15.000Z</updated>
+        <summary type="html"><![CDATA[Numeri, curiosità e statistiche di Italia-Argentina]]></summary>
+        <author>
+            <name>Gazzetta.it</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Suarez saluta, ma l'Atletico si consola con il figlio: 28 gol e campionato vinto]]></title>
+        <id>https://www.itasportpress.it/calcio-estero/suarez-il-figlio-benjamin-fa-meglio-di-lui-28-gol-e-campionato-vinto-con-latletico/</id>
+        <link href="https://www.itasportpress.it/calcio-estero/suarez-il-figlio-benjamin-fa-meglio-di-lui-28-gol-e-campionato-vinto-con-latletico/"/>
+        <updated>2022-05-31T12:56:16.000Z</updated>
+        <summary type="html"><![CDATA[Di padre in figlio: la dinastia Suarez ricca di bomber]]></summary>
+        <author>
+            <name>Gazzetta.it</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roland Garros: favolosa Trevisan, batte la Fernandez e vola in semifinale!]]></title>
+        <id>https://www.gazzetta.it/Tennis/WTA/31-05-2022/roland-garros-trevisan-semifinale-batte-fernandez-440775893955.shtml</id>
+        <link href="https://www.gazzetta.it/Tennis/WTA/31-05-2022/roland-garros-trevisan-semifinale-batte-fernandez-440775893955.shtml"/>
+        <updated>2022-05-31T12:46:04.000Z</updated>
+        <summary type="html"><![CDATA[Roland Garros: favolosa Trevisan, batte la Fernandez e vola in semifinale!
+È la prima volta di un'italiana in semifinale a Parigi dal 2013 quando la centrò Sara Errani. Martina domina il primo set non finalizza un match point nel secondo, ma nel terzo non sbaglia: finisce 6-2 6-7(3) 6-3. La dedica al padre: "Per te, babbino mio". Troverà Coco Gauff che ha battuto la Stephens]]></summary>
+        <author>
+            <name>Luca Marianantoni</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sergio Perez, momento magico: la Red Bull gli rinnova il contratto per altre due stagioni]]></title>
+        <id>https://www.gazzetta.it/Formula-1/31-05-2022/perez-momento-magico-red-bull-rinnova-contratto-altre-due-stagioni.shtml</id>
+        <link href="https://www.gazzetta.it/Formula-1/31-05-2022/perez-momento-magico-red-bull-rinnova-contratto-altre-due-stagioni.shtml"/>
+        <updated>2022-05-31T12:41:40.000Z</updated>
+        <summary type="html"><![CDATA[Il messicano, vincitore a Montecarlo nel weekend appena passato, correrà col team di Milton Keynes fino alla stagione 2024]]></summary>
+        <author>
+            <name>Gazzetta.it</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tennis a Parigi, impresa Martina Trevisan: è in semifinale del Roland Garros]]></title>
+        <id>gnn:lastampa:5245884</id>
+        <link href="https://www.lastampa.it/sport/tennis/2022/05/31/news/tennis_a_parigi_impresa_martina_trevisan_e_in_semifinale_del_roland_garros-5245884/"/>
+        <updated>2022-05-31T12:36:57.000Z</updated>
+        <summary type="html"><![CDATA[L'azzurra Martina Trevisan si è qualificata per le semifinali del torneo del Roland Garros, battendo nei quarti la canadese Laylah Fernandez, col punteggio di 6-2, 6-7, 6-3. Per conquistare un posto in finale, la fiorentina dovrà affrontare la vin ... [Continua a leggere sul sito.]]]></summary>
+        <author>
+            <name>lastampa.it - Homepage</name>
         </author>
     </entry>
     <entry>
@@ -77,6 +841,17 @@ Poche righe per annunciare una decisione già presa da tempo, ma la sostituzione
         <summary type="html"><![CDATA[(Adnkronos) - Contratto risolto dopo l'incontro col presidente federale Petrucci]]></summary>
         <author>
             <name>webinfo@adnkronos.com (Web Info)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Leggende, matrimoni telecronache: i tifosi dell'Inter votano il "Fan token moment"]]></title>
+        <id>https://www.gazzetta.it/fan-tokens/31-05-2022/inter-fan-token-miglior-momento-stagione-440775638221.shtml</id>
+        <link href="https://www.gazzetta.it/fan-tokens/31-05-2022/inter-fan-token-miglior-momento-stagione-440775638221.shtml"/>
+        <updated>2022-05-31T12:14:42.000Z</updated>
+        <summary type="html"><![CDATA[Leggende, matrimoni telecronache: i tifosi dell'Inter votano il "Fan token moment"
+A stagione calcistica terminata, la piattaforma di gettoni digitali propone agli utenti un sondaggio tra i migliori premi dell'anno nerazzurro]]></summary>
+        <author>
+            <name>Gasport</name>
         </author>
     </entry>
     <entry>
@@ -250,6 +1025,16 @@ La banca d’affari americana Lazard con sede a New York è stata indicata dal t
         <link href="https://www.lastampa.it/sport/calcio/2022/05/31/news/il_milan_e_di_redbird_operazione_da_1_3_miliardi_firmato_il_preliminare-5245408/"/>
         <updated>2022-05-31T10:40:32.000Z</updated>
         <summary type="html"><![CDATA[MILANO. È stato definito il passaggio del Milan da Elliott a Red Bird. La firma all’affare tra i due fondi americani è stato posta nei giorni scorsi a New York. Nei prossimi giorni, probabilmente tra domani o giovedì, arriverà l’annuncio uffi ... [Continua a leggere sul sito.]]]></summary>
+        <author>
+            <name>lastampa.it - Homepage</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Così la guerra in Ucraina ha messo Erdogan al centro dei giochi diplomatici]]></title>
+        <id>gnn:lastampa:5245398</id>
+        <link href="https://www.lastampa.it/esteri/2022/05/31/video/cosi_la_guerra_in_ucraina_ha_messo_erdogan_al_centro_dei_giochi_diplomatici-5245398/"/>
+        <updated>2022-05-31T10:36:25.000Z</updated>
+        <summary type="html"><![CDATA[Il giornalista de La Stampa Giordano Stabile analizza il ruolo di mediatore che la Turchia di Erdogan si è ritagliata durante il confllit…]]></summary>
         <author>
             <name>lastampa.it - Homepage</name>
         </author>
@@ -2973,170 +3758,6 @@ A una settimana dal playout di Serie B che ha visto il Cosenza mantenere la cate
         <link href="https://www.lastampa.it/cronaca/2022/05/30/news/sciopero_della_scuola_cento_pullman_da_tutt_italia_a_roma_e_iniziative_in_ogni_citta_sindacati_e_presidi_divisi-5201499/"/>
         <updated>2022-05-30T06:40:26.000Z</updated>
         <summary type="html"><![CDATA[ROMA. E' sciopero della scuola, oggi, in tutta Italia. A scendere in piazza sono Cgil, Cisl, Uil, Snals, Gilda e Anief. A Roma sono arrivati  un centinaio di pullman da tutti Italia a piazza Santi Apostoli, dove si terrà una manifestazione a  ... [Continua a leggere sul sito.]]]></summary>
-        <author>
-            <name>lastampa.it - Homepage</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Messina, a Merì al via la kermesse artistica internazionale]]></title>
-        <id>https://www.adnkronos.com/messina-a-meri-al-via-la-kermesse-artistica-internazionale_3ECrUjYnOqGrK9fcg5bOHr</id>
-        <link href="https://www.adnkronos.com/messina-a-meri-al-via-la-kermesse-artistica-internazionale_3ECrUjYnOqGrK9fcg5bOHr"/>
-        <updated>2022-05-30T06:22:19.000Z</updated>
-        <summary type="html"><![CDATA[(Adnkronos) - Il piccolo borgo di Merì, in provincia di Messina, che negli scorsi mesi è stato al centro di un clamore mediatico internazionale, diventando per alcune settimane ‘capitale’ dell’Arte, ha deciso di continuare a portare avanti l’innovazione culturale nel territorio, e dopo la pandemia, rilancia un nuovo progetto attraverso nuova linfa vitale con una mostra internazionale al Museo Antiquarium del Comune. Lo scorso anno con l’evento “Timeless Immortal Art”, il borgo era stato conosciuto nel mondo: in quell’occasione sessanta artisti internazionali hanno trasformato la piazza principale e tutte le vie in museo permanente con le loro opere riprodotte su alcuni arredi, dalle panchine ai muri delle strade, che da anonime si sono colorate diventando una pinacoteca all’aperto. Un progetto unico nel suo genere per cambiare il modo di concepire l’Arte all’interno di un contesto urbano, un’opera di rigenerazione del territorio attraverso la Bellezza.]]></summary>
-        <author>
-            <name>webinfo@adnkronos.com (Web Info)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Giro d'Italia, le pagelle: Hindley, un passo da 10. Nibali, emozioni da 7,5]]></title>
-        <id>https://www.gazzetta.it/Giroditalia/30-05-2022/giro-pagelle-gazzetta-hindley-nibali-sobrero-440747897849.shtml</id>
-        <link href="https://www.gazzetta.it/Giroditalia/30-05-2022/giro-pagelle-gazzetta-hindley-nibali-sobrero-440747897849.shtml"/>
-        <updated>2022-05-30T06:21:17.000Z</updated>
-        <summary type="html"><![CDATA[Giro d'Italia, le pagelle: Hindley, un passo da 10. Nibali, emozioni da 7,5
-I nostri giudizi sui protagonisti di questa 105ª edizione. Il capitano del team Bora-hansgrohe è il vincitore, per Nibali invece è stata l’ultima volta alla corsa rosa. Poi il grande successo di Sobrero con la crono di Verona]]></summary>
-        <author>
-            <name>Luca Gialanella</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ucraina, Lavrov: "Liberazione Donbass nostra priorità". Russi a Severodonetsk]]></title>
-        <id>https://www.adnkronos.com/ucraina-lavrov-liberazione-donbass-nostra-priorita-russi-a-severodonetsk_5ECe8doXJpOLGjVOGPiF7</id>
-        <link href="https://www.adnkronos.com/ucraina-lavrov-liberazione-donbass-nostra-priorita-russi-a-severodonetsk_5ECe8doXJpOLGjVOGPiF7"/>
-        <updated>2022-05-30T06:07:14.000Z</updated>
-        <summary type="html"><![CDATA[(Adnkronos) - Governatore Luhansk: "Respinti 14 attacchi russi nella regione". Comando operativo Sud: "Lanciati due razzi nella regione di Odessa"]]></summary>
-        <author>
-            <name>webinfo@adnkronos.com (Web Info)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[La Volvo P1800 rivive con un nuovo motore]]></title>
-        <id>https://www.gazzetta.it/motori/la-mia-auto/30-05-2022/volvo-p1800-cyan-racing-restomod.shtml</id>
-        <link href="https://www.gazzetta.it/motori/la-mia-auto/30-05-2022/volvo-p1800-cyan-racing-restomod.shtml"/>
-        <updated>2022-05-30T06:02:53.000Z</updated>
-        <summary type="html"><![CDATA[La Volvo P1800 Cyan sbarca negli Stati Uniti: si tratta di una versione speciale del celebre modello della casa svedese]]></summary>
-        <author>
-            <name>Gazzetta.it</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Valentino Rossi: “Che figata fare il papà”]]></title>
-        <id>gnn:lastampa:5201117</id>
-        <link href="https://www.lastampa.it/sport/2022/05/30/news/valentino_rossi_che_figata_fare_il_papa_-5201117/"/>
-        <updated>2022-05-30T06:01:37.000Z</updated>
-        <summary type="html"><![CDATA[«Fare il genitore è proprio una figata ... [Continua a leggere sul sito.]]]></summary>
-        <author>
-            <name>lastampa.it - Homepage</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Playoff Nba, Boston Celtics in finale contro Golden State]]></title>
-        <id>https://www.adnkronos.com/playoff-nba-boston-celtics-in-finale-contro-golden-state_70dllm95YXnRVZLXwCZYWh</id>
-        <link href="https://www.adnkronos.com/playoff-nba-boston-celtics-in-finale-contro-golden-state_70dllm95YXnRVZLXwCZYWh"/>
-        <updated>2022-05-30T05:58:33.000Z</updated>
-        <summary type="html"><![CDATA[(Adnkronos) - Hanno vinto 100-96 sul campo dei Miami Heat in gara 7 della finale della Eastern Conference]]></summary>
-        <author>
-            <name>webinfo@adnkronos.com (Web Info)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Le pagelle del GP Monaco: Perez, ribaltone da 9. Strategia Ferrari da 4]]></title>
-        <id>https://www.gazzetta.it/Formula-1/30-05-2022/pagelle-gp-monaco-perez-ferrari.shtml</id>
-        <link href="https://www.gazzetta.it/Formula-1/30-05-2022/pagelle-gp-monaco-perez-ferrari.shtml"/>
-        <updated>2022-05-30T05:56:53.000Z</updated>
-        <summary type="html"><![CDATA[I nostri giudizi sul GP di Monaco vinto dal messicano della Red Bull. Russell d'acciaio regala un altro quinto posto alla Mercedes. Schumacher, altro disastro]]></summary>
-        <author>
-            <name>Gazzetta.it</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cairo: "È stato un Giro spettacolare. Ora un ruolo speciale per Nibali..."]]></title>
-        <id>https://www.gazzetta.it/Giroditalia/30-05-2022/cairo-giro-d-italia-nibali-440753157951.shtml</id>
-        <link href="https://www.gazzetta.it/Giroditalia/30-05-2022/cairo-giro-d-italia-nibali-440753157951.shtml"/>
-        <updated>2022-05-30T05:47:51.000Z</updated>
-        <summary type="html"><![CDATA[Cairo: "È stato un Giro spettacolare. Ora un ruolo speciale per Nibali..."
-Il presidente di Rcs: "Vincenzo può fare l’ambassador del Giro"]]></summary>
-        <author>
-            <name>Luca Gialanella</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ritrovato aereo scomparso in Nepal, recuperati 14 corpi]]></title>
-        <id>https://www.adnkronos.com/ritrovato-aereo-scomparso-in-nepal-recuperati-14-corpi_3281qVcGYKwImbba4I707b</id>
-        <link href="https://www.adnkronos.com/ritrovato-aereo-scomparso-in-nepal-recuperati-14-corpi_3281qVcGYKwImbba4I707b"/>
-        <updated>2022-05-30T05:44:37.000Z</updated>
-        <summary type="html"><![CDATA[(Adnkronos) - A bordo c'erano 22 persone]]></summary>
-        <author>
-            <name>webinfo@adnkronos.com (Web Info)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vaccini, caos terze dosi: la Regione Piemonte chiede chiarimenti a Roma]]></title>
-        <id>gnn:lastampa:5201108</id>
-        <link href="https://www.lastampa.it/torino/2022/05/30/news/vaccini_caos_terze_dosi_la_regione_piemonte_chiede_chiarimenti_a_roma-5201108/"/>
-        <updated>2022-05-30T05:37:41.000Z</updated>
-        <summary type="html"><![CDATA[TORINO. Se anche la Regione non si raccapezza, immaginate i cittadini. La dimostrazione, come minimo, che c’è un problema: questo, nello specifico, riguarda oltre 20 mila persone. 
-Il perimetro è quello del Covid, e dei vaccini, e dei richi ... [Continua a leggere sul sito.]]]></summary>
-        <author>
-            <name>lastampa.it - Homepage</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Miami-Boston, le pagelle della serie: Tatum superstar da 8. Adebayo altalenante: 6]]></title>
-        <id>https://www.gazzetta.it/Nba/30-05-2022/nba-playoff-miami-boston-pagelle-440756116942.shtml</id>
-        <link href="https://www.gazzetta.it/Nba/30-05-2022/nba-playoff-miami-boston-pagelle-440756116942.shtml"/>
-        <updated>2022-05-30T05:36:06.000Z</updated>
-        <summary type="html"><![CDATA[Miami-Boston, le pagelle della serie: Tatum mvp da 8, anche Butler merita un 8 
-La stella dei Celtics  sbaglia solo gara-3, poi sempre decisivo. Il centro degli Heat poteva fare di più...]]></summary>
-        <author>
-            <name>Simone Sandri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ucraina, niente stop a petrolio Russia. Lavrov: "Porte dialogo non chiuse"]]></title>
-        <id>https://www.adnkronos.com/ucraina-niente-stop-a-petrolio-russia-lavrov-porte-dialogo-non-chiuse_5vyQ7vW5S1Csr0RTtnco73</id>
-        <link href="https://www.adnkronos.com/ucraina-niente-stop-a-petrolio-russia-lavrov-porte-dialogo-non-chiuse_5vyQ7vW5S1Csr0RTtnco73"/>
-        <updated>2022-05-30T05:31:30.000Z</updated>
-        <summary type="html"><![CDATA[(Adnkronos) - Nessun accordo dopo una riunione di quattro ore. Il ministro degli Esteri russo: "La Russia, però, giudicherà le intenzioni dell'Europa dalle sue azioni"]]></summary>
-        <author>
-            <name>webinfo@adnkronos.com (Web Info)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Capolavoro Boston: prime Finals dal 2010. Miami si arrende in gara-7]]></title>
-        <id>https://www.gazzetta.it/Nba/30-05-2022/nba-boston-miami-finale-golden-state-440755966552.shtml</id>
-        <link href="https://www.gazzetta.it/Nba/30-05-2022/nba-boston-miami-finale-golden-state-440755966552.shtml"/>
-        <updated>2022-05-30T05:20:29.000Z</updated>
-        <summary type="html"><![CDATA[Capolavoro Boston: prime Finals dal 2010. Miami si arrende in gara-7
-Tatum, eletto mvp della serie, Brown e Smart confezionano l’impresa: i Celtics battono gli Heat 100-96 e sfideranno Golden State per il titolo da giovedì a San Francisco]]></summary>
-        <author>
-            <name>Davide Chinellato</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Minaccia una sparatoria di massa in Usa, arrestato bambino di dieci anni]]></title>
-        <id>gnn:lastampa:5201096</id>
-        <link href="https://www.lastampa.it/esteri/2022/05/30/news/minaccia_una_sparatoria_di_massa_in_usa_arrestato_bambino_di_dieci_anni-5201096/"/>
-        <updated>2022-05-30T05:18:12.000Z</updated>
-        <summary type="html"><![CDATA[Uno studente di quinta elementare è stato arrestato in Florida, negli Stati Uniti, per aver minacciato di organizzare una sparatoria di massa tramite dei messaggi. Lo riporta il New York Post citando fonti della polizia. Il bambino, studente della ... [Continua a leggere sul sito.]]]></summary>
-        <author>
-            <name>lastampa.it - Homepage</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Giro di parole: è tempo di pagelle e bilanci]]></title>
-        <id>gnn:lastampa:5201088</id>
-        <link href="https://www.lastampa.it/audio/serie/2022/05/30/audio/giro_di_parole_e_tempo_di_pagelle_e_bilanci-5201088/"/>
-        <updated>2022-05-30T05:06:02.000Z</updated>
-        <author>
-            <name>lastampa.it - Homepage</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lancia una torta contro la Gioconda al Louvre: l’atto vandalico “per la salvezza del pianeta”]]></title>
-        <id>gnn:lastampa:5201080</id>
-        <link href="https://www.lastampa.it/cultura/2022/05/30/news/lancia_una_torta_contro_la_gioconda_al_louvre_l_atto_vandalico_per_la_salvezza_del_pianeta_-5201080/"/>
-        <updated>2022-05-30T04:57:44.000Z</updated>
-        <summary type="html"><![CDATA[Ha lanciato una torta contro il vetro blindato che protegge la Gioconda, poi è stato espulso dal Louvre un giovane esaltato che inneggiava alla «salvezza del pianeta». L'episodio è avvenuto oggi nel museo parigino del Louvre, che ospita il quadro  ... [Continua a leggere sul sito.]]]></summary>
         <author>
             <name>lastampa.it - Homepage</name>
         </author>
