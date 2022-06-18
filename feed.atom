@@ -2,10 +2,115 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sovy666.github.io/notizie/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-18T01:48:28.663Z</updated>
+    <updated>2022-06-18T06:22:28.823Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sovy666.github.io/notizie/index.html"/>
     <link rel="self" href="https://sovy666.github.io/notizie/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Roma, moto in fiamme dopo scontro con auto sull'Appia: un morto]]></title>
+        <id>https://www.adnkronos.com/roma-moto-in-fiamme-dopo-scontro-con-auto-sullappia-un-morto_5H8fEtaLpzuFQMjYnPbTrN</id>
+        <link href="https://www.adnkronos.com/roma-moto-in-fiamme-dopo-scontro-con-auto-sullappia-un-morto_5H8fEtaLpzuFQMjYnPbTrN"/>
+        <updated>2022-06-18T06:11:27.000Z</updated>
+        <summary type="html"><![CDATA[(Adnkronos) - E un ferito grave]]></summary>
+        <author>
+            <name>webinfo@adnkronos.com (Web Info)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ucraina, Kiev: "Battaglia per Severodonetsk continua"]]></title>
+        <id>https://www.adnkronos.com/ucraina-kiev-battaglia-per-severodonetsk-continua_6heHjCacFtzAahWvrlF2Uf</id>
+        <link href="https://www.adnkronos.com/ucraina-kiev-battaglia-per-severodonetsk-continua_6heHjCacFtzAahWvrlF2Uf"/>
+        <updated>2022-06-18T06:02:04.000Z</updated>
+        <summary type="html"><![CDATA[(Adnkronos) - Attacco russo con missili contro raffineria di Kremenchuk. Contraerea abbatte due missili russi su Odessa]]></summary>
+        <author>
+            <name>webinfo@adnkronos.com (Web Info)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LIVE Calciomercato: Lazio, subito Casale e Ilic. Bologna, la priorità è Cambiaso. Roma, Luiz a centrocampo]]></title>
+        <id>https://www.gazzetta.it/Calciomercato/18-06-2022/notizie-calciomercato-live-inter-juve-milan-seriea-18-giugno-4401036117902.shtml</id>
+        <link href="https://www.gazzetta.it/Calciomercato/18-06-2022/notizie-calciomercato-live-inter-juve-milan-seriea-18-giugno-4401036117902.shtml"/>
+        <updated>2022-06-18T05:51:02.000Z</updated>
+        <summary type="html"><![CDATA[LIVE Calciomercato Lazio, subito Casale e Ilic. Bologna, la priorità è Cambiaso. Roma, Luiz a centrocampo
+Il club di Lotito sborserà 28 milioni per i due giocatori del Verona. Cremonese, Vasquez il primo colpo. Atalanta sull'attaccante Biuk]]></summary>
+        <author>
+            <name>Gasport</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pioli e i ruoli fluidi: da Lang a Sanches, ecco perché il Milan cerca profili multiuso]]></title>
+        <id>https://www.gazzetta.it/Calcio/Calciomercato/Milan/18-06-2022/milan-lang-sanches-pioli-cerca-giocatori-multiuso-mercato-4401029545495.shtml</id>
+        <link href="https://www.gazzetta.it/Calcio/Calciomercato/Milan/18-06-2022/milan-lang-sanches-pioli-cerca-giocatori-multiuso-mercato-4401029545495.shtml"/>
+        <updated>2022-06-18T05:47:11.000Z</updated>
+        <summary type="html"><![CDATA[Pioli e i ruoli fluidi: da Lang a Sanches, ecco perché il Milan cerca profili multiuso
+Il tecnico rossonero ha vinto lo scudetto anche variando la posizione di alcuni elementi della rosa come Kalulu, Kessie e Florenzi. La scelta di Adli s'inserisce in questo filone. E non sarà il solo]]></summary>
+        <author>
+            <name>Stefano Cantalupi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inter, Bremer in pole: il Toro chiede 50 milioni. Occasione Milenkovic]]></title>
+        <id>https://www.gazzetta.it/Calcio/Calciomercato/Inter/18-06-2022/inter-bremer-pole-toro-chiede-50-milioni-occasione-milenkovic-4401035515036.shtml</id>
+        <link href="https://www.gazzetta.it/Calcio/Calciomercato/Inter/18-06-2022/inter-bremer-pole-toro-chiede-50-milioni-occasione-milenkovic-4401035515036.shtml"/>
+        <updated>2022-06-18T05:37:44.000Z</updated>
+        <summary type="html"><![CDATA[Inter, Bremer in pole: il Toro chiede 50 milioni. Occasione Milenkovic
+Il brasiliano è la prima scelta, il serbo costa 15 e alla Viola piace Sensi. Ma occhio ad Acerbi, che si candida...]]></summary>
+        <author>
+            <name>Davide Stoppini</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gas Russia, nuovi tagli a Europa: prezzo in salita]]></title>
+        <id>https://www.adnkronos.com/gas-russia-nuovi-tagli-a-europa-prezzo-in-salita_6jOB2W0fr35M5HA1cpLKDd</id>
+        <link href="https://www.adnkronos.com/gas-russia-nuovi-tagli-a-europa-prezzo-in-salita_6jOB2W0fr35M5HA1cpLKDd"/>
+        <updated>2022-06-18T05:31:52.000Z</updated>
+        <summary type="html"><![CDATA[(Adnkronos) - Gazprom taglia 50% del gas all'Italia]]></summary>
+        <author>
+            <name>webinfo@adnkronos.com (Web Info)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trio da leggenda e giovani talenti: perché i Warriors possono vincere ancora]]></title>
+        <id>https://www.gazzetta.it/Nba/18-06-2022/nba-non-solo-curry-thompson-green-warriors-possono-vincere-ancora-4401038139218.shtml</id>
+        <link href="https://www.gazzetta.it/Nba/18-06-2022/nba-non-solo-curry-thompson-green-warriors-possono-vincere-ancora-4401038139218.shtml"/>
+        <updated>2022-06-18T05:28:21.000Z</updated>
+        <summary type="html"><![CDATA[Trio da leggenda e giovani talenti: perché i Warriors possono vincere ancora 
+Il titolo 2022 non è la fine della corsa per Golden State. Dietro Curry, Thompson e Green c’è una generazione pronta a dare loro una mano e prendere in futuro il loro posto. Dopo aver imparato cosa significa essere campioni]]></summary>
+        <author>
+            <name>Davide Chinellato</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spezia-Agudelo, c'è il riscatto. Ansaldi piace alla Salernitana. Sassuolo, idea Faes]]></title>
+        <id>https://www.gazzetta.it/Calciomercato/storie/18-06-2022/calciomercato-ultime-spezia-riscattato-agudelo-ansaldi-piace-salernitana-4401035817164/</id>
+        <link href="https://www.gazzetta.it/Calciomercato/storie/18-06-2022/calciomercato-ultime-spezia-riscattato-agudelo-ansaldi-piace-salernitana-4401035817164/"/>
+        <updated>2022-06-18T05:21:42.000Z</updated>
+        <summary type="html"><![CDATA[Spezia-Agudelo, c'è il riscatto. Ansaldi piace alla Salernitana. Sassuolo, idea Faes
+L'Empoli riscatta Stojanovic e Cacace, l'Arsenal sull'esterno del Bologna Hickey]]></summary>
+        <author>
+            <name>Gasport</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[La profezia di Ian Bremmer: “Ormai Putin parla come Castro, ma la Russia è in ginocchio”]]></title>
+        <id>gnn:lastampa:5420234</id>
+        <link href="https://www.lastampa.it/esteri/2022/06/18/news/ian_bremmer_ormai_putin_parla_come_castro_ma_la_russia_e_in_ginocchio_-5420234/"/>
+        <updated>2022-06-18T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[NEW YORK. «Lo considero un discorso modello Fidel Castro, rivisitato, ma nulla di più. Quando uno ha poco da dire, parla troppo. È stato un improbabile tour virtuale sullo stato di salute dell’economia e della nazione russa. Così come la reto ... [Continua a leggere sul sito.]]]></summary>
+        <author>
+            <name>lastampa.it - Homepage</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ricciardi: “Troppi anziani senza quarta dose anti-Covid, rischiamo la tempesta perfetta”]]></title>
+        <id>gnn:lastampa:5420232</id>
+        <link href="https://www.lastampa.it/cronaca/2022/06/18/news/ricciardi_troppi_anziani_senza_quarta_dose_anticovid_rischiamo_la_tempesta_perfetta_-5420232/"/>
+        <updated>2022-06-18T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Se continueremo ad abbassare troppo la guardia, in autunno «dovremo affrontare una tempesta perfetta con un forte aumento della mortalità tra gli anziani, tra i quali l’80% non ha fatto la quarta dose». Walter Ricciardi, professore di Igiene alla  ... [Continua a leggere sul sito.]]]></summary>
+        <author>
+            <name>lastampa.it - Homepage</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nations League, l’Italia fa tris e aspetta il Brasile]]></title>
         <id>https://www.gazzetta.it/Volley/17-06-2022/volley-nations-league-l-italia-fa-tris-aspetta-brasile-4401031519892.shtml</id>
@@ -2528,557 +2633,6 @@ Nella prima giornata del torneo in corso a Brookline  è andato bene Rory McIlro
 Le azzurre si aggiudicano il derby con Scampoli-Bianchin e domani affrontano le canadesi Bukovec-Brandie alle 20. Fuori Nicolai- Cottafava e Ranghieri-Lupo]]></summary>
         <author>
             <name>Simone Corbetta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cecchinato brilla a Parma. Grande Zeppieri, è ai quarti: e ora sfida Coric]]></title>
-        <id>https://www.gazzetta.it/Tennis/ATP/16-06-2022/risultati-challenger-parma-vincono-zeppieri-cecchinato-adesso-quarti-finale-4401015714056.shtml</id>
-        <link href="https://www.gazzetta.it/Tennis/ATP/16-06-2022/risultati-challenger-parma-vincono-zeppieri-cecchinato-adesso-quarti-finale-4401015714056.shtml"/>
-        <updated>2022-06-16T18:21:55.000Z</updated>
-        <summary type="html"><![CDATA[Cecchinato brilla a Parma. Grande Zeppieri, è ai quarti: e ora sfida Coric
- Tre italiani tra i migliori otto del Challenger sulla terra, c'è anche Arnaboldi. Un risultato che fa bene anche al ranking]]></summary>
-        <author>
-            <name>Francesco Sessa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Da Dodò a Pinamonti fino alla "stella" Jovic: sarà ribaltone Fiorentina]]></title>
-        <id>https://www.gazzetta.it/Calcio/Calciomercato/Fiorentina/16-06-2022/calciomercato-fiorentina-dodo-pinamonti-jovic-obiettivi-4401005148027.shtml</id>
-        <link href="https://www.gazzetta.it/Calcio/Calciomercato/Fiorentina/16-06-2022/calciomercato-fiorentina-dodo-pinamonti-jovic-obiettivi-4401005148027.shtml"/>
-        <updated>2022-06-16T18:21:54.000Z</updated>
-        <summary type="html"><![CDATA[Da Dodò a Pinamonti fino alla "stella" Jovic: sarà ribaltone Fiorentina
-Prima di tutto però va trovata l’intesa fra il club e Italiano che attende ancora  il rinnovo]]></summary>
-        <author>
-            <name>Giovanni Sardelli</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Italia al primo posto in Europa per il sovraffollamento abitativo]]></title>
-        <id>gnn:lastampa:5419208</id>
-        <link href="https://www.lastampa.it/economia/2022/06/16/news/italia_al_primo_posto_in_europa_per_il_sovraffollamento_abitativo-5419208/"/>
-        <updated>2022-06-16T18:20:58.000Z</updated>
-        <summary type="html"><![CDATA[BRUXELLES. Poco spazio per starsene da soli, poco spazio per potersene stare in pace, poco spazio per lavorare al riparo da rumori e fonti di disturbo. Poco spazio punto e basta. Casa dolce casa? Non in Italia, che registra un problema abitativo c ... [Continua a leggere sul sito.]]]></summary>
-        <author>
-            <name>lastampa.it - Homepage</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inter, l’agenda della trattativa Lukaku: si conta di chiudere a giorni]]></title>
-        <id>https://www.gazzetta.it/Calcio/Calciomercato/Inter/16-06-2022/lukaku-inter-agenda-trattativa-4401013547210.shtml</id>
-        <link href="https://www.gazzetta.it/Calcio/Calciomercato/Inter/16-06-2022/lukaku-inter-agenda-trattativa-4401013547210.shtml"/>
-        <updated>2022-06-16T18:19:55.000Z</updated>
-        <summary type="html"><![CDATA[Inter, l’agenda della trattativa Lukaku: nuovi contatti, si conta di chiudere a giorni
- Previsto un nuovo incontro tra il legale del belga e i vertici dei Blues per limare alcuni dettagli prima del via libera al prestito secco ai nerazzurri. Entro il fine settimana nuovo summit tra le due dirigenze e la possibile chiusura]]></summary>
-        <author>
-            <name>Adriano Seu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Letta: "Storia di Mario ci dice quanto siamo in ritardo, avanti con i diritti"]]></title>
-        <id>https://www.adnkronos.com/letta-storia-di-mario-ci-dice-quanto-siamo-in-ritardo-avanti-con-i-diritti_54Nc0C1KkrxxgFrmUVQLCL</id>
-        <link href="https://www.adnkronos.com/letta-storia-di-mario-ci-dice-quanto-siamo-in-ritardo-avanti-con-i-diritti_54Nc0C1KkrxxgFrmUVQLCL"/>
-        <updated>2022-06-16T18:10:50.000Z</updated>
-        <summary type="html"><![CDATA[(Adnkronos) - Il segretario del Pd: "Qui sta tutta la differenza tra destra e sinistra"]]></summary>
-        <author>
-            <name>webinfo@adnkronos.com (Web Info)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celebrati i funerali di Giuseppe Cairo: tantissime personalità per l'ultimo saluto]]></title>
-        <id>https://video.gazzetta.it/video-torino-funerali-giuseppe-cairo/52f7e9f2-ed9d-11ec-8177-a1d9b60581f7</id>
-        <link href="https://video.gazzetta.it/video-torino-funerali-giuseppe-cairo/52f7e9f2-ed9d-11ec-8177-a1d9b60581f7"/>
-        <updated>2022-06-16T18:09:38.000Z</updated>
-        <summary type="html"><![CDATA[Celebrati i funerali di Giuseppe Cairo: tantissime personalità per l'ultimo saluto
-Sono stati celebrati oggi pomeriggio, presso la parrocchia Regina degli Apostoli ad Abazia di Masio, i funerali di Giuseppe Cairo, padre del presidente del Torino, Urbano venuto a mancare a 90 anni. A dare l'ultimo saluto al vicepresidente del club granata tantissime personalità del mondo del management, dell'editoria, della pubblicità e dello spettacolo: da Diego Della Valle a Marco Tronchetti Provera, da Evelina Christillin a Marco Durante. Presenti, tra gli altri, il giornalista Massimo Giletti e l'attore Massimo Boldi e i direttori di Corriere della Sera e Gazzetta dello Sport, Luciano Fontana e Stefano Barigelli. Nella nutrita delegazione del Torino il difensore della prima squadra Alessandro Buongiorno e molti ragazzi del settore giovanile, oltre alla bandiera granata Claudio Sala e ai tecnici Gian Piero Ventura e Moreno Longo. Alle esequie non era presente l'altra torinese: nessuna delegazione della Juventus ha partecipato]]></summary>
-        <author>
-            <name>Gasport</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dagli Angeli del fango alla lotta al Covid, Mattarella esalta il volontariato]]></title>
-        <id>https://www.adnkronos.com/dagli-angeli-del-fango-alla-lotta-al-covid-mattarella-esalta-il-volontariato_dtpVPH0MreD1AfEFAjEib</id>
-        <link href="https://www.adnkronos.com/dagli-angeli-del-fango-alla-lotta-al-covid-mattarella-esalta-il-volontariato_dtpVPH0MreD1AfEFAjEib"/>
-        <updated>2022-06-16T18:04:05.000Z</updated>
-        <summary type="html"><![CDATA[(Adnkronos) - Il Capo dello Stato interviene all'inaugurazione degli Stati generali della Protezione civile. Una scelta libera e personale che attua i doveri di solidarietà previsti della Costituzione.]]></summary>
-        <author>
-            <name>webinfo@adnkronos.com (Web Info)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inter, ora chi saluta? Bisogna sfoltire per far cassa: Skriniar e... tutti gli indiziati]]></title>
-        <id>https://www.gazzetta.it/Calcio/Calciomercato/Inter/16-06-2022/calciomercato-inter-ci-va-via-skriniar-4401016829334.shtml</id>
-        <link href="https://www.gazzetta.it/Calcio/Calciomercato/Inter/16-06-2022/calciomercato-inter-ci-va-via-skriniar-4401016829334.shtml"/>
-        <updated>2022-06-16T18:03:55.000Z</updated>
-        <summary type="html"><![CDATA[Inter, ora chi saluta? Bisogna sfoltire per far cassa: Skriniar e... tutti gli indiziati
-La richiesta di Steven Zhang è ottenere un saldo positivo dalla compravendita dei calciatori per un totale di almeno 60 milioni di euro. A rischio Dzeko, Dumfries, Correa, anche Pinamonti e Sensi non rientrano nei piani futuri]]></summary>
-        <author>
-            <name>Salvatore Malfitano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sul parquet del TD Garden: Curry lavora, ma sugli spalti…]]></title>
-        <id>https://video.gazzetta.it/video-nba-finals-gara-6-preview-boston-gazzetta/0376b69e-ed9b-11ec-8177-a1d9b60581f7</id>
-        <link href="https://video.gazzetta.it/video-nba-finals-gara-6-preview-boston-gazzetta/0376b69e-ed9b-11ec-8177-a1d9b60581f7"/>
-        <updated>2022-06-16T18:03:04.000Z</updated>
-        <summary type="html"><![CDATA[Video Nba Finals, gara-6: la preview da Boston della Gazzetta
-Alla rifinitura di Golden State, 8 ore prima della palla a due di gara-6 delle Nba Finals, quella in cui i Warriors, avanti 3-2 su Boston, potrebbero conquistare l’anello]]></summary>
-        <author>
-            <name>Davide Chinellato</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Guerra Russia-Ucraina, cos'è successo oggi 16 giugno 2022: Draghi, Macron e Scholz a Kiev: missione per la pace]]></title>
-        <id>gnn:lastampa:5419196</id>
-        <link href="https://www.lastampa.it/audio/serie/2022/06/16/audio/guerra_russiaucraina_cose_successo_oggi_16_giugno_2022_draghi_macron_e_scholz_a_kiev_missione_per_la_pace-5419196/"/>
-        <updated>2022-06-16T17:52:50.000Z</updated>
-        <author>
-            <name>lastampa.it - Homepage</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bardelli: ‘Next offre esperienza semplice e sicura ai nostri clienti’]]></title>
-        <id>https://www.adnkronos.com/bardelli-next-offre-esperienza-semplice-e-sicura-ai-nostri-clienti_1swfAaHeB1XXu3TMSAkKF9</id>
-        <link href="https://www.adnkronos.com/bardelli-next-offre-esperienza-semplice-e-sicura-ai-nostri-clienti_1swfAaHeB1XXu3TMSAkKF9"/>
-        <updated>2022-06-16T17:48:16.000Z</updated>
-        <summary type="html"><![CDATA[(Adnkronos) - “Next mira ad offrire un’esperienza sempre più semplice e sicura ai nostri clienti, racchiudendo in un solo dispositivo oltre 30 servizi. La semplicità di utilizzo è la prima caratteristica distintiva di Next: il dispositivo permette di accedere a tantissimi servizi, offerti da Generali e da Telepass, tramite un comodissimo ed intuitivo comando vocale. Mentre la sicurezza è data dai servizi di assistenza alla guida, come il Real time coaching, che valuta lo stile di guida dell’automobilista ed, eventualmente, lo invita ad una guida più sicura”.]]></summary>
-        <author>
-            <name>webinfo@adnkronos.com (Web Info)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[La 1000 Miglia verso Roma]]></title>
-        <id>https://www.adnkronos.com/la-1000-miglia-verso-roma_1lYdkvDR0Q7KaidvnBgAyj</id>
-        <link href="https://www.adnkronos.com/la-1000-miglia-verso-roma_1lYdkvDR0Q7KaidvnBgAyj"/>
-        <updated>2022-06-16T17:25:37.000Z</updated>
-        <summary type="html"><![CDATA[(Adnkronos) - Dopo le prove della mattinata le auto hanno raggiunto Passignano sul Trasimeno per la pausa pranzo vista lago. Il lunch break a base di specialità tipiche del territorio umbro ha rigenerato i piloti al termine di una sessione impegnativa, resa ancor più ardua dalle temperature estive che stanno accompagnando la 1000 Miglia 2022.]]></summary>
-        <author>
-            <name>webinfo@adnkronos.com (Web Info)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kevin Spacey processato a piede libero in Gb per violenza sessuale]]></title>
-        <id>https://www.adnkronos.com/kevin-spacey-processato-a-piede-libero-in-gb-per-violenza-sessuale_4UC6BfaVziYZxzbOEUvHIP</id>
-        <link href="https://www.adnkronos.com/kevin-spacey-processato-a-piede-libero-in-gb-per-violenza-sessuale_4UC6BfaVziYZxzbOEUvHIP"/>
-        <updated>2022-06-16T17:25:05.000Z</updated>
-        <summary type="html"><![CDATA[(Adnkronos) - Nella udienza preliminare gli è stata concessa una cauzione senza condizioni]]></summary>
-        <author>
-            <name>webinfo@adnkronos.com (Web Info)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bimba uccisa, parla il papà della piccola Elena: “La madre è un mostro. Altro che pazzia, la odiava”]]></title>
-        <id>gnn:lastampa:5419183</id>
-        <link href="https://www.lastampa.it/cronaca/2022/06/16/news/bimba_uccisa_il_papa_della_piccola_elena_la_madre_e_un_mostro_la_odiava_-5419183/"/>
-        <updated>2022-06-16T17:24:42.000Z</updated>
-        <summary type="html"><![CDATA[«Non avevo nessuna intenzione di rilasciare un intervista perch sono troppo addolorato da ciò che è successo, ma lo reputo giusto nei confronti di mia figlia» è l'incipit di una breve riflessione di Alessandro Del Pozzo, p ... [Continua a leggere sul sito.]]]></summary>
-        <author>
-            <name>lastampa.it - Homepage</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[L’Uci assegna all’Italia il primo Mondiale  bici gravel. Ma coincide col Lombardia!]]></title>
-        <id>https://www.gazzetta.it/Ciclismo/16-06-2022/ciclismo-uci-gravel-mondiale-veneto-pozzato-lombardia-4401016149515.shtml</id>
-        <link href="https://www.gazzetta.it/Ciclismo/16-06-2022/ciclismo-uci-gravel-mondiale-veneto-pozzato-lombardia-4401016149515.shtml"/>
-        <updated>2022-06-16T17:15:50.000Z</updated>
-        <summary type="html"><![CDATA[L’Uci assegna all’Italia il primo Mondiale  bici gravel. Ma coincide con il Lombardia!
-Appuntamento in Veneto sabato 8 e domenica 9 ottobre: organizza la struttura di Filippo Pozzato, che nel 2021 aveva lanciato la Serenissima Gravel, vinta da Lutsenko. Ma l’8 ottobre si corre il Giro di Lombardia, quinto e ultimo Monumento della stagione: perché questa sovrapposizione? Serviva maggior rispetto]]></summary>
-        <author>
-            <name>Luca Gialanella</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Monacelli (Generali): ‘Partnership con Telepass unisce competenze e affidabilità di eccellenze‘]]></title>
-        <id>https://www.adnkronos.com/monacelli-generali-partnership-con-telepass-unisce-competenze-e-affidabilita-di-eccellenze_4Mkpah3BdQyOmfIS2itKbR</id>
-        <link href="https://www.adnkronos.com/monacelli-generali-partnership-con-telepass-unisce-competenze-e-affidabilita-di-eccellenze_4Mkpah3BdQyOmfIS2itKbR"/>
-        <updated>2022-06-16T17:09:31.000Z</updated>
-        <summary type="html"><![CDATA[(Adnkronos) - “La partnership strategica tra Generali e Telepass è per noi molto importante ed ha reso possibile la creazione di un’unica porta d’ingresso ai servizi assicurativi di Generali ed ai servizi di Telepass. Si tratta di un passo avanti decisivo nel nostro percorso di trasformazione, che unisce le competenze e l’affidabilità di due grandi eccellenze nell’ambito della mobilità, nei rispettivi campi, per offrire al cliente un’esperienza sempre più semplice e sicura”.]]></summary>
-        <author>
-            <name>webinfo@adnkronos.com (Web Info)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Guerra in Ucraina: i Paesi che hanno inviato più armi a Kiev. Gli Usa, poi la Polonia più di Germania e Italia]]></title>
-        <id>gnn:lastampa:5419155</id>
-        <link href="https://www.lastampa.it/esteri/2022/06/16/news/guerra_in_ucraina_i_paesi_che_hanno_inviato_piu_armi_a_kiev_gli_usa_poi_la_polonia_piu_di_germania_e_italia-5419155/"/>
-        <updated>2022-06-16T17:09:02.000Z</updated>
-        <summary type="html"><![CDATA[Con l’offensiva concentrata in Dobass è venuta fuori la disparità tra i due eserciti. Spinti dall’artiglieria pesante, i russi avanzano, seppur lentamente. Gran parte dei loro colpi martellano un ultimo lembo della provincia di Luhansk controllato ... [Continua a leggere sul sito.]]]></summary>
-        <author>
-            <name>lastampa.it - Homepage</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gas, Draghi: "Dalla Russia bugie e uso politico delle forniture"]]></title>
-        <id>https://www.adnkronos.com/gas-draghi-dalla-russia-bugie-e-uso-politico-delle-forniture_3Oja3cvtgqNH9LGcFvC8q3</id>
-        <link href="https://www.adnkronos.com/gas-draghi-dalla-russia-bugie-e-uso-politico-delle-forniture_3Oja3cvtgqNH9LGcFvC8q3"/>
-        <updated>2022-06-16T17:04:53.000Z</updated>
-        <summary type="html"><![CDATA[(Adnkronos) - Il premier rassicura sugli stoccaggi: "Siamo al 52% e abbastanza tranquilli per l'inverno"]]></summary>
-        <author>
-            <name>webinfo@adnkronos.com (Web Info)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Berrettini ritrova Paul dopo il ritiro ad Acapulco. Che differenza sull’erba!]]></title>
-        <id>https://www.gazzetta.it/comparazione-quote/16-06-2022/tennis-queen-s-berrettini-ritrova-paul-il-ritiro-ad-acapulc-4401015275379.shtml</id>
-        <link href="https://www.gazzetta.it/comparazione-quote/16-06-2022/tennis-queen-s-berrettini-ritrova-paul-il-ritiro-ad-acapulc-4401015275379.shtml"/>
-        <updated>2022-06-16T16:58:36.000Z</updated>
-        <summary type="html"><![CDATA[Berrettini ritrova Paul dopo il ritiro ad Acapulco. Che differenza sull’erba!
-Solo un precedente tra i due, in un match che Matteo ha abbandonato al secondo set per il problema agli addominali. Su questa superficie, lo statunitense ha vinto solo le due partite di questo Queen’s]]></summary>
-        <author>
-            <name>Francesco Sessa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Giro under 23, a Peveragno vince Gelders, 2° il lombardo Meris. Hayter in rosa]]></title>
-        <id>https://www.gazzetta.it/ciclismo/altre-corse-tappe/16-06-2022/giro-d-italia-under-23-quinta-tappa-vince-gelders-hayter-maglia-rosa-4401015809252.shtml</id>
-        <link href="https://www.gazzetta.it/ciclismo/altre-corse-tappe/16-06-2022/giro-d-italia-under-23-quinta-tappa-vince-gelders-hayter-maglia-rosa-4401015809252.shtml"/>
-        <updated>2022-06-16T16:56:45.000Z</updated>
-        <summary type="html"><![CDATA[Giro under 23, a Peveragno vince Gelders, 2° il lombardo Meris. Hayter in rosa
-A Peveragno arrivo in volata con il successo del belga della Bingoal-WB Development. Domani il Colle Fauniera]]></summary>
-        <author>
-            <name>Gasport</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Leao, voglia di Milan sui social: risponde a Calabria e punta nuovi trofei]]></title>
-        <id>https://www.gazzetta.it/Calcio/Serie-A/Milan/16-06-2022/leao-voglia-milan-social-calabria-risponde-cosi-4401014749927.shtml</id>
-        <link href="https://www.gazzetta.it/Calcio/Serie-A/Milan/16-06-2022/leao-voglia-milan-social-calabria-risponde-cosi-4401014749927.shtml"/>
-        <updated>2022-06-16T16:56:22.000Z</updated>
-        <summary type="html"><![CDATA[Leao, voglia di Milan sui social: risponde a Calabria e punta nuovi trofei
-Il terzino  posta una foto dello scudetto, Rafa commenta rilanciando. Due giorni fa aveva "invitato" Sanches a vestire rossonero: in attesa del rinnovo, la volontà del giocatore è inequivocabile]]></summary>
-        <author>
-            <name>Gasport</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Passera: 'Quotare un'impresa in borsa? Necessaria chiarezza obiettivi perseguiti']]></title>
-        <id>https://www.adnkronos.com/passera-quotare-unimpresa-in-borsa-necessaria-chiarezza-obiettivi-perseguiti_4q5JYpnAn8kLobRyI5bcGX</id>
-        <link href="https://www.adnkronos.com/passera-quotare-unimpresa-in-borsa-necessaria-chiarezza-obiettivi-perseguiti_4q5JYpnAn8kLobRyI5bcGX"/>
-        <updated>2022-06-16T16:51:17.000Z</updated>
-        <summary type="html"><![CDATA[(Adnkronos) - “Agli imprenditori che pensano di quotare le proprie aziende in Borsa, consiglio di partire dalla chiarezza. Bisogna spiegare bene al mercato il perché ci si quota e cosa si vuole raggiungere con i proventi della quotazione. Essere quotati comporta un impegno verso gli azionisti. È necessario, però, che la trasparenza riguardi non solo gli obiettivi o i risultati economico-finanziari e patrimoniali, ma anche riguardo al tema della sostenibilità che non è solo una moda”. Queste le parole di Corrado Passera, Fondatore e Amministratore Delegato di Illimity, durante il convegno “La Vita Agile” in corso a Lamezia Terme.]]></summary>
-        <author>
-            <name>webinfo@adnkronos.com (Web Info)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Europei Under 19, i club bloccano Scalvini e Gnonto. Otto convocati tra Juve, Inter e Milan]]></title>
-        <id>https://www.gazzetta.it/Calcio/nazionali/16-06-2022/europei-under-19-italia-senza-scalvini-gnonto-4401015274666.shtml</id>
-        <link href="https://www.gazzetta.it/Calcio/nazionali/16-06-2022/europei-under-19-italia-senza-scalvini-gnonto-4401015274666.shtml"/>
-        <updated>2022-06-16T16:50:01.000Z</updated>
-        <summary type="html"><![CDATA[Europei Under 19, i club bloccano Scalvini e Gnonto. Otto convocati tra Juve, Inter e Milan
-Nella lista dei 20 convocati che da sabato saranno impegnati in Slovacchia, non ci sono i due giocatori già lanciati da Mancini in Nazionale A. Nunziata: “Giocheremo comunque per vincere”. Il leader sarà Miretti]]></summary>
-        <author>
-            <name>Marco Calabresi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Le cripto come il betting, Berrettini meglio di un influencer, le donne: così cambia lo sponsor]]></title>
-        <id>https://www.gazzetta.it/Sport-Vari/16-06-2022/sponsorizzazioni-cripto-come-betting-berrettini-meglio-un-influencer-4401012321590.shtml</id>
-        <link href="https://www.gazzetta.it/Sport-Vari/16-06-2022/sponsorizzazioni-cripto-come-betting-berrettini-meglio-un-influencer-4401012321590.shtml"/>
-        <updated>2022-06-16T16:46:49.000Z</updated>
-        <summary type="html"><![CDATA[Le cripto come il betting, Berrettini meglio di un influencer, le donne: così cambia lo sponsor
-Nielsen ha individuato i trend negli investimenti sportivi: +1100% di nuovi accordi col settore critpovalute negli ultimi 2 anni. E il tennista ha un tasso d'interazione quattro volte superiore alla media]]></summary>
-        <author>
-            <name>Marco Iaria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Il sindaco di Scarperia replica a Ezpeleta: "Poco pubblico da noi? Parole poco eleganti"]]></title>
-        <id>https://www.gazzetta.it/Moto/moto-GP/16-06-2022/sindaco-scarperia-replica-ezpeleta-poco-pubblico-parole-poco-eleganti.shtml</id>
-        <link href="https://www.gazzetta.it/Moto/moto-GP/16-06-2022/sindaco-scarperia-replica-ezpeleta-poco-pubblico-parole-poco-eleganti.shtml"/>
-        <updated>2022-06-16T16:44:44.000Z</updated>
-        <summary type="html"><![CDATA[Il primo cittadino del comune che ospita il GP del Mugello risponde al Ceo di Dorna che ha paventato di togliere un GP all'Italia dopo il flop di presenze in Toscana: "L'assenza di Rossi ha pesato, ma c'era l'impossibilità di vendere biglietti per la pandemia. E altre gare hanno poco pubblico, come Qatar e Malesia"]]></summary>
-        <author>
-            <name>Gazzetta.it</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Goldstein, mister Nba: "Amo Giannis come amavo Wilkins. Ma ora LeBron è freddo con me"]]></title>
-        <id>https://www.gazzetta.it/Nba/16-06-2022/nba-finals-jimmy-goldstein-io-lebron-lakers-4401015599341.shtml</id>
-        <link href="https://www.gazzetta.it/Nba/16-06-2022/nba-finals-jimmy-goldstein-io-lebron-lakers-4401015599341.shtml"/>
-        <updated>2022-06-16T16:42:46.000Z</updated>
-        <summary type="html"><![CDATA[Goldstein, mister Nba: "Amo Giannis come amavo Wilkins. Ma ora LeBron è freddo con me"
-Da 70 anni gira tutte le arene, è sempre a bordocampo vestito da cowboy. Jimmy è una star della Lega proprio come i giocatori, e si racconta alla Gazzetta: “Quando dissi a Olajuwon come battere Robinson...”]]></summary>
-        <author>
-            <name>Davide Chinellato</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Caso Donnarumma, Paola Ferrari attacca: "È recidivo, 4 anni fa mi ha querelato per..."]]></title>
-        <id>https://www.golssip.it/social/paola-ferrari-donnarumma-recidivo/</id>
-        <link href="https://www.golssip.it/social/paola-ferrari-donnarumma-recidivo/"/>
-        <updated>2022-06-16T16:40:10.000Z</updated>
-        <summary type="html"><![CDATA[La giornalista sportiva si è espressa in merito al recente atteggiamento del portiere del Psg]]></summary>
-        <author>
-            <name>Gazzetta.it</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elena Del Pozzo, domani l’udienza di convalida per Martina Patti]]></title>
-        <id>https://www.adnkronos.com/elena-del-pozzo-domani-ludienza-di-convalida-per-martina-patti_dM4f4gOQPteMWxdLckPGn</id>
-        <link href="https://www.adnkronos.com/elena-del-pozzo-domani-ludienza-di-convalida-per-martina-patti_dM4f4gOQPteMWxdLckPGn"/>
-        <updated>2022-06-16T16:34:06.000Z</updated>
-        <summary type="html"><![CDATA[(Adnkronos) - La madre 23enne della piccola è accusata di omicidio premeditato pluriaggravato e occultamento di cadavere]]></summary>
-        <author>
-            <name>webinfo@adnkronos.com (Web Info)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Atp Queen's, Berrettini batte Kudla e va ai quarti]]></title>
-        <id>https://www.adnkronos.com/atp-queens-berrettini-batte-kudla-e-va-ai-quarti_74vVgyLFpOLyOXS26EXTwb</id>
-        <link href="https://www.adnkronos.com/atp-queens-berrettini-batte-kudla-e-va-ai-quarti_74vVgyLFpOLyOXS26EXTwb"/>
-        <updated>2022-06-16T16:33:44.000Z</updated>
-        <summary type="html"><![CDATA[(Adnkronos) - L'azzurro supera lo statunitense in 3 set]]></summary>
-        <author>
-            <name>webinfo@adnkronos.com (Web Info)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Covid oggi Lazio, 4.636 casi e 3 decessi. A Roma 2.822 nuovi positivi]]></title>
-        <id>https://www.adnkronos.com/covid-oggi-lazio-4636-casi-e-3-decessi-a-roma-2822-nuovi-positivi_6XvIAeCbfpdoqENJZ71w07</id>
-        <link href="https://www.adnkronos.com/covid-oggi-lazio-4636-casi-e-3-decessi-a-roma-2822-nuovi-positivi_6XvIAeCbfpdoqENJZ71w07"/>
-        <updated>2022-06-16T16:31:50.000Z</updated>
-        <summary type="html"><![CDATA[(Adnkronos) - Bollettino 16 giugno]]></summary>
-        <author>
-            <name>webinfo@adnkronos.com (Web Info)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ucraina, Tafuro Ambrosetti (Ispi): "Stretta di mano tra Draghi e Zelensky ha sorpreso"]]></title>
-        <id>https://www.adnkronos.com/ucraina-tafuro-ambrosetti-ispi-stretta-di-mano-tra-draghi-e-zelensky-ha-sorpreso_1C3ghE0WJ0pwwmADVUmuSj</id>
-        <link href="https://www.adnkronos.com/ucraina-tafuro-ambrosetti-ispi-stretta-di-mano-tra-draghi-e-zelensky-ha-sorpreso_1C3ghE0WJ0pwwmADVUmuSj"/>
-        <updated>2022-06-16T16:31:19.000Z</updated>
-        <summary type="html"><![CDATA[(Adnkronos) - "Più rilassata ed empatica rispetto a quella presidente ucraino con Macron"]]></summary>
-        <author>
-            <name>webinfo@adnkronos.com (Web Info)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Berrettini: "Ho dovuto affrontare qualche demone interno..."]]></title>
-        <id>https://video.gazzetta.it/video-atp-queen-s-berrettini-quarti-ho-dovuto-affrontare-qualche-demone-interno/1b9532c4-ed90-11ec-8177-a1d9b60581f7</id>
-        <link href="https://video.gazzetta.it/video-atp-queen-s-berrettini-quarti-ho-dovuto-affrontare-qualche-demone-interno/1b9532c4-ed90-11ec-8177-a1d9b60581f7"/>
-        <updated>2022-06-16T16:25:01.000Z</updated>
-        <summary type="html"><![CDATA[Video Atp Queen's, Berrettini ai quarti: "Ho dovuto affrontare qualche demone interno..."
-Matteo Berrettini si qualifica per i quarti del torneo di tennis Atp del Queen's, dove affronterà Paul. Guarda il video della sua intervista]]></summary>
-        <author>
-            <name>Gasport</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rapper Simba La Rue accoltellato, il 'rivale' Baby Touché: "Faccio musica, non faccio la guerra"]]></title>
-        <id>gnn:lastampa:5419127</id>
-        <link href="https://www.lastampa.it/cronaca/2022/06/16/video/rapper_simba_la_rue_accoltellato_il_rivale_baby_touche_faccio_musica_non_faccio_la_guerra-5419127/"/>
-        <updated>2022-06-16T16:21:45.000Z</updated>
-        <summary type="html"><![CDATA[Baby Touché, rapper che è stato picchiato nei giorni scorsi, si chiama fuori da quanto accaduto la notte scorsa a Treviolo nel Bergamasco dove Simba La Rue è s…]]></summary>
-        <author>
-            <name>lastampa.it - Homepage</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bagnaia tra oggi e domani: "Credo nella rimonta. Il mio futuro compagno non crei nervosismo in Ducati"]]></title>
-        <id>https://www.gazzetta.it/Moto/moto-GP/16-06-2022/bagnaia-credo-rimonta-mio-futuro-compagno-non-crei-nervosismo.shtml</id>
-        <link href="https://www.gazzetta.it/Moto/moto-GP/16-06-2022/bagnaia-credo-rimonta-mio-futuro-compagno-non-crei-nervosismo.shtml"/>
-        <updated>2022-06-16T16:16:43.000Z</updated>
-        <summary type="html"><![CDATA[Pecco ha cancellato lo zero del Montmelò: "Ho 66 punti da Quartararo con 11 gare, possiamo farcela. Miller? Mi spiace vada via, chi prenderà il suo posto dovrà capire il nostro modo di lavorare, è la cosa più importante"]]></summary>
-        <author>
-            <name>Gazzetta.it</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Perde il primo, poi recupera e vince in rimonta: guarda il successo di Matteo]]></title>
-        <id>https://video.gazzetta.it/video-atp-queen-s-berrettini-batte-kudla-3-6-7-6-6-4-highlights/910af6a8-ed8e-11ec-8177-a1d9b60581f7</id>
-        <link href="https://video.gazzetta.it/video-atp-queen-s-berrettini-batte-kudla-3-6-7-6-6-4-highlights/910af6a8-ed8e-11ec-8177-a1d9b60581f7"/>
-        <updated>2022-06-16T16:11:31.000Z</updated>
-        <summary type="html"><![CDATA[Video Atp Queen's, Berrettini batte Kudla 3-6, 7-6, 6-4: gli highlights
-Nella gara del torneo di tennis Atp del Queen's, Berrettini supera per 3-6, 7-6, 6-4 Kudla e si qualifica per i quarti. Guarda gli highlights del match]]></summary>
-        <author>
-            <name>Gasport</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quartararo: "Austin la svolta della mia stagione". Espargaro: "Spagna dura da scordare"]]></title>
-        <id>https://www.gazzetta.it/Moto/moto-GP/16-06-2022/quartararo-austin-svolta-mia-stagione-espargaro-spagna-dura-scordare.shtml</id>
-        <link href="https://www.gazzetta.it/Moto/moto-GP/16-06-2022/quartararo-austin-svolta-mia-stagione-espargaro-spagna-dura-scordare.shtml"/>
-        <updated>2022-06-16T16:06:35.000Z</updated>
-        <summary type="html"><![CDATA[Il francese della Yamaha racconta come ha dato gas al 2022: "Pensavo alla velocità di punta che non c'era e allora mi sono detto che dovevo fare con quello che avevo. Da lì solo bei risultati"]]></summary>
-        <author>
-            <name>Gazzetta.it</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stadio Maradona:  lo scontro De Laurentiis-Comune e il punto sui lavori. E Napoli aspetta...]]></title>
-        <id>https://www.gazzetta.it/Calcio/Serie-A/Napoli/16-06-2022/stadio-maradona-scontro-de-laurentis-comune-4401012757458.shtml</id>
-        <link href="https://www.gazzetta.it/Calcio/Serie-A/Napoli/16-06-2022/stadio-maradona-scontro-de-laurentis-comune-4401012757458.shtml"/>
-        <updated>2022-06-16T15:59:53.000Z</updated>
-        <summary type="html"><![CDATA[Stadio Maradona:  lo scontro De Laurentiis-Comune e il punto sui lavori. E Napoli aspetta...
-Dai canoni non pagati e richiesti dall'amministrazione ai fondi negati per la ristrutturazione: così il duello sta paralizzando il rinnovamento del San Paolo]]></summary>
-        <author>
-            <name>Gianluca Monti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lady Lautaro in bikini, la moglie di D'Ambrosio: "Con te al mare non ci vengo..."]]></title>
-        <id>https://www.golssip.it/social/agustina-enza-de-cristoforo-non-vengo-al-mare/</id>
-        <link href="https://www.golssip.it/social/agustina-enza-de-cristoforo-non-vengo-al-mare/"/>
-        <updated>2022-06-16T15:50:32.000Z</updated>
-        <summary type="html"><![CDATA[Lo scambio tra le due wags nerazzurre]]></summary>
-        <author>
-            <name>Gazzetta.it</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amber Heard confessa dopo il processo: “Amo ancora Johnny Depp”]]></title>
-        <id>gnn:lastampa:5419105</id>
-        <link href="https://www.lastampa.it/spettacoli/2022/06/16/news/amber_heard_confessa_dopo_il_processo_amo_ancora_johnny_depp_-5419105/"/>
-        <updated>2022-06-16T15:42:59.000Z</updated>
-        <summary type="html"><![CDATA[«Lo amo, assolutamente. L'ho amato con tutto il cuore». Per la prima volta dopo il processo-evento che l'ha contrapposta all'ex marito Johnny Depp parla Amber Heard. Lo fa in un'intervista all'Nbc, che verrà mostrata per intero venerdì n ... [Continua a leggere sul sito.]]]></summary>
-        <author>
-            <name>lastampa.it - Homepage</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Berrettini, che battaglia con Kudla! È ai quarti al Queen's: "Non volevo perdere"]]></title>
-        <id>https://www.gazzetta.it/Tennis/ATP/16-06-2022/berrettini-batte-kudla-quarti-queens-4401013275095.shtml</id>
-        <link href="https://www.gazzetta.it/Tennis/ATP/16-06-2022/berrettini-batte-kudla-quarti-queens-4401013275095.shtml"/>
-        <updated>2022-06-16T15:36:36.000Z</updated>
-        <summary type="html"><![CDATA[Berrettini, che battaglia con Kudla! È ai quarti al Queen's: "Non volevo perdere"
-Continua la difesa del titolo da parte del numero 1 italiano che resta in campo quasi 3 ore: "Ho lottato". Sulla strada per la semifinale c'è Paul]]></summary>
-        <author>
-            <name>Federica Cocchi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Venuti: "Torreira? Morto un papa se ne fa un altro..."]]></title>
-        <id>https://www.violanews.com/news-viola/vn-venuti-categorico-torreira-morto-un-papa-se-ne-fa-un-altro/</id>
-        <link href="https://www.violanews.com/news-viola/vn-venuti-categorico-torreira-morto-un-papa-se-ne-fa-un-altro/"/>
-        <updated>2022-06-16T15:29:04.000Z</updated>
-        <summary type="html"><![CDATA[Lo spogliatoio ha accolto in modo sereno questa separazione?]]></summary>
-        <author>
-            <name>Gazzetta.it</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Berrettini ai quarti al Queen’s, battuto Kudla in tre set]]></title>
-        <id>gnn:lastampa:5419094</id>
-        <link href="https://www.lastampa.it/sport/tennis/2022/06/16/news/berrettini_ai_quarti_al_queen_s_battuto_kudla_in_tre_set-5419094/"/>
-        <updated>2022-06-16T15:27:02.000Z</updated>
-        <summary type="html"><![CDATA[Continua l'avventura di Matteo Berrettini nel torneo sull'erba del Queen's. Il romano n.10 al mondo avanza ai quarti dell'ATP 500 di Londra, superando, anche se con difficoltà, in tre set lo statunitense Denis Kudla (n.82), che martedì scorso avev ... [Continua a leggere sul sito.]]]></summary>
-        <author>
-            <name>lastampa.it - Homepage</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anche l’agente spinge Deulofeu al Napoli: "Vuole giocare la Champions lì"]]></title>
-        <id>https://www.calcionapoli1926.it/calciomercato-napoli/deulofeu-agente-dichiarazioni-napoli-trasferimento-calciomercato/</id>
-        <link href="https://www.calcionapoli1926.it/calciomercato-napoli/deulofeu-agente-dichiarazioni-napoli-trasferimento-calciomercato/"/>
-        <updated>2022-06-16T15:26:54.000Z</updated>
-        <summary type="html"><![CDATA[Quest'oggi, Alberto Botines, agente di Gerard Deulofeu, è intervenuto ai microfoni di Radio Kiss Kiss per rivelare il futuro del suo assistito, obiettivo di mercato del Napoli]]></summary>
-        <author>
-            <name>Gazzetta.it</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Il Real blinda Vinicius: pronto il rinnovo e clausola rescissoria da un miliardo]]></title>
-        <id>https://www.itasportpress.it/calcio-estero/il-real-madrid-blinda-vinicius-pronto-rinnovo-con-clausola-da-1-miliardo/</id>
-        <link href="https://www.itasportpress.it/calcio-estero/il-real-madrid-blinda-vinicius-pronto-rinnovo-con-clausola-da-1-miliardo/"/>
-        <updated>2022-06-16T15:26:10.000Z</updated>
-        <summary type="html"><![CDATA[L'attaccante resterà ancora in camiseta blanca]]></summary>
-        <author>
-            <name>Gazzetta.it</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gioco, sviluppo dei giovani, infortuni: Allegri, così cambia lo staff]]></title>
-        <id>https://www.gazzetta.it/Calcio/Serie-A/Juventus/16-06-2022/juve-tutti-cambi-staff-allegri-bianco-brambilla-ragioni-440995569788.shtml</id>
-        <link href="https://www.gazzetta.it/Calcio/Serie-A/Juventus/16-06-2022/juve-tutti-cambi-staff-allegri-bianco-brambilla-ragioni-440995569788.shtml"/>
-        <updated>2022-06-16T15:14:44.000Z</updated>
-        <summary type="html"><![CDATA[Gioco, sviluppo dei giovani, infortuni: Allegri, così cambia lo staff
-I nomi nuovi tratteggiano le linee guida: l’inserimento tra i tecnici della prima squadra di Paolo Bianco, già collaboratore di De Zerbi; Massimo Brambilla porta all’Under 23 l’esperienza tattica e tecnica dei successi con l’Atalanta. Riflettori sullo staff fisico e atletico]]></summary>
-        <author>
-            <name>Giovanni Albanese</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Di Canio: "È una Premier sempre più spettacolare: ecco perché"]]></title>
-        <id>https://video.gazzetta.it/video-canio-premier-league-sempre-piu-spettacolare-ecco-perche/4423fb32-ed75-11ec-8177-a1d9b60581f7</id>
-        <link href="https://video.gazzetta.it/video-canio-premier-league-sempre-piu-spettacolare-ecco-perche/4423fb32-ed75-11ec-8177-a1d9b60581f7"/>
-        <updated>2022-06-16T15:02:07.000Z</updated>
-        <summary type="html"><![CDATA[Video, Di Canio: "Premier League sempre più spettacolare: ecco perché"
-Ufficiale il calendario della Premier League 2022-23. Paolo Di Canio, opinionista Sky racconta perché sarà un campionato imperdibile. Guarda il video]]></summary>
-        <author>
-            <name>Gasport</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Agostini: "Manca solo la telefonata della regina Elisabetta"]]></title>
-        <id>https://www.gazzetta.it/Moto/16-06-2022/agostini-80-anni-bello-tutto-questo-affetto-manca-solo-telefonata-regina-elisabetta.shtml</id>
-        <link href="https://www.gazzetta.it/Moto/16-06-2022/agostini-80-anni-bello-tutto-questo-affetto-manca-solo-telefonata-regina-elisabetta.shtml"/>
-        <updated>2022-06-16T14:59:25.000Z</updated>
-        <summary type="html"><![CDATA[Il Mito capace di vincere 15 Mondiali e 122 gare oggi festeggia: "E' dal mattino che il telefono squilla]]></summary>
-        <author>
-            <name>Gazzetta.it</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zhang, meeting a Interello con dipendenti e dirigenti per "fare gruppo"]]></title>
-        <id>https://www.gazzetta.it/Calcio/Serie-A/Inter/16-06-2022/inter-meeting-zhang-interello-dipendenti-dirigenti-4401014520912.shtml</id>
-        <link href="https://www.gazzetta.it/Calcio/Serie-A/Inter/16-06-2022/inter-meeting-zhang-interello-dipendenti-dirigenti-4401014520912.shtml"/>
-        <updated>2022-06-16T14:59:22.000Z</updated>
-        <summary type="html"><![CDATA[Zhang, meeting a Interello con dipendenti e dirigenti per "fare gruppo"
-Il presidente è tornato in città dopo alcune settimane di assenza e ha presieduto un incontro con vari membri della società]]></summary>
-        <author>
-            <name>Salvatore Malfitano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[La strategia di Erdoğan contro i curdi]]></title>
-        <id>https://www.internazionale.it/opinione/francesca-gnetti/2022/06/16/erdogan-curdi</id>
-        <link href="https://www.internazionale.it/opinione/francesca-gnetti/2022/06/16/erdogan-curdi"/>
-        <updated>2022-06-16T14:50:39.000Z</updated>
-        <summary type="html"><![CDATA[Mentre gli Stati Uniti e la Russia sono distratti, il presidente turco Recep Tayyip Erdoğan vuole approfittare della guerra in Ucraina per perseguire la sua ossessione: cancellare qualsiasi possibilità che i curdi possano avere una terra. Leggi]]></summary>
-        <author>
-            <name>Internazionale</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wolff: "Hamilton in declino? No, resta un genio"]]></title>
-        <id>https://www.gazzetta.it/Formula-1/16-06-2022/f1-mercedes-wolff-hamilton-declino.shtml</id>
-        <link href="https://www.gazzetta.it/Formula-1/16-06-2022/f1-mercedes-wolff-hamilton-declino.shtml"/>
-        <updated>2022-06-16T14:23:07.000Z</updated>
-        <summary type="html"><![CDATA[F1, Mercedes, Wolff, Hamilton, declino, genio]]></summary>
-        <author>
-            <name>Gazzetta.it</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coronavirus, il bollettino del 16 giugno: 36.573 casi e 64 morti, la positività sale al 18,8%]]></title>
-        <id>gnn:lastampa:5419022</id>
-        <link href="https://www.lastampa.it/cronaca/2022/06/16/news/coronavirus_il_bollettino_del_16_giugno_36_573_casi_e_64_morti_la_positivita_sale_al_18_8_-5419022/"/>
-        <updated>2022-06-16T14:08:46.000Z</updated>
-        <summary type="html"><![CDATA[ROMA. Salgono da 31.885 a 36.573 i contagi rilevati oggi in Italia, ma quello che più conta è che sono ben 13mila in più rispetto a quelli conteggiati giusto una settimana fa. I morti da 48 risalgono a 64 mentre il tasso di positività fa un b ... [Continua a leggere sul sito.]]]></summary>
-        <author>
-            <name>lastampa.it - Homepage</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Origi e Sanches, ci siamo. Poi all-in su De Ketelaere: il punto]]></title>
-        <id>https://video.gazzetta.it/de-ketelaere-lang-botman-milan-punto-calciomercato/74f542be-ed7c-11ec-8177-a1d9b60581f7</id>
-        <link href="https://video.gazzetta.it/de-ketelaere-lang-botman-milan-punto-calciomercato/74f542be-ed7c-11ec-8177-a1d9b60581f7"/>
-        <updated>2022-06-16T14:04:46.000Z</updated>
-        <summary type="html"><![CDATA[De Ketelaere, Lang, Botman: il punto sul mercato del Milan
-In attesa del rinnovo di Maldini e Massara, i rossoneri lavorano sul mercato seguendo le strategie impostate nei mesi scorsi. Il punto di Marco Pasotto]]></summary>
-        <author>
-            <name>Marco Pasotto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zhang in sede, dal rinnovo di Inzaghi ai nuovi arrivi: le ultime sulle trattative]]></title>
-        <id>https://video.gazzetta.it/video-inter-zhang-atteso-sede-ultime-trattative-mercato/0c5c7aaa-ed78-11ec-8177-a1d9b60581f7</id>
-        <link href="https://video.gazzetta.it/video-inter-zhang-atteso-sede-ultime-trattative-mercato/0c5c7aaa-ed78-11ec-8177-a1d9b60581f7"/>
-        <updated>2022-06-16T13:48:23.000Z</updated>
-        <summary type="html"><![CDATA[Zhang in sede, dal rinnovo di Inzaghi ai nuovi arrivi: le ultime sulle trattative
-Un'altra giornata di lavori intensi nella sede dell'Inter, dove oggi è arrivato il presidente Steven Zhang per formalizzare alcune trattative di mercato. Il punto a cura di Salvatore Malfitano]]></summary>
-        <author>
-            <name>Salvatore Malfitano</name>
         </author>
     </entry>
 </feed>
