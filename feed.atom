@@ -2,10 +2,465 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sovy666.github.io/notizie/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-19T18:21:23.611Z</updated>
+    <updated>2022-06-20T01:52:02.537Z</updated>
     <generator>osmosfeed 1.15.0</generator>
     <link rel="alternate" href="https://sovy666.github.io/notizie/index.html"/>
     <link rel="self" href="https://sovy666.github.io/notizie/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[La vita spericolata di Ketama: “Mi sono ispirato a Vasco”]]></title>
+        <id>gnn:lastampa:5420853</id>
+        <link href="https://www.lastampa.it/spettacoli/musica/2022/06/20/news/la_vita_spericolata_di_ketama_mi_sono_ispirato_a_vasco_-5420853/"/>
+        <updated>2022-06-20T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ogni giorno potrebbe essere l’ultimo. In questi tempi incerti per Ketama non c’è motto migliore. Per questo il suo nuovo disco non poteva che intitolarsi Armageddon: chiaramente non nel senso biblico, ma piuttosto come stato mentale. Vive ... [Continua a leggere sul sito.]]]></summary>
+        <author>
+            <name>lastampa.it - Homepage</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guerra Russia-Ucraina, i comandanti del reggimento Azov in carcere a Mosca. Medvedev: “L’Ue potrebbe sparire prima che entri Kiev”. La Germania sostituisce il gas russo con il carbone]]></title>
+        <id>gnn:lastampa:5421162</id>
+        <link href="https://www.lastampa.it/esteri/2022/06/20/news/guerra_russiaucraina_i_comandanti_del_reggimento_azov_in_carcere_a_mosca_medvedev_l_ue_potrebbe_sparire_prima_che_entri-5421162/"/>
+        <updated>2022-06-19T23:18:01.000Z</updated>
+        <summary type="html"><![CDATA[La guerra in Ucraina è giunta al giorno numero 117, dalla Russia giunge la notizia che i comandanti del reggimento Azov catturati a Mariupol sono detenuti nel carcere di massima sicurezza di Lefortovo a Mosca. A un mese dalla definitiva  ... [Continua a leggere sul sito.]]]></summary>
+        <author>
+            <name>lastampa.it - Homepage</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coppa del Mondo, azzurri no stop: dopo gli Europei c'è Parigi. Torna Frangilli]]></title>
+        <id>https://www.gazzetta.it/arco/17-06-2022/arco-coppa-mondo-azzurri-no-stop-parigi-torna-frangilli-4401029864826.shtml</id>
+        <link href="https://www.gazzetta.it/arco/17-06-2022/arco-coppa-mondo-azzurri-no-stop-parigi-torna-frangilli-4401029864826.shtml"/>
+        <updated>2022-06-19T23:09:38.000Z</updated>
+        <summary type="html"><![CDATA[Coppa del Mondo, azzurri no stop: dopo gli Europei c'è Parigi. Torna Frangilli
+Le frecce azzurre tornano in trasferta per la terza tappa internazionale. Sono 16 in totale i convocati. Confermata la campionessa paralimpica Elisabetta Mijno]]></summary>
+        <author>
+            <name>Guido Lo Giudice</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Leggenda Fitzpatrick: vince lo Us Open allo sprint e fa doppietta]]></title>
+        <id>https://www.gazzetta.it/Golf/20-06-2022/golf-us-open-vince-fitzpatrick-scheffler-zalatoris-4401065645455.shtml</id>
+        <link href="https://www.gazzetta.it/Golf/20-06-2022/golf-us-open-vince-fitzpatrick-scheffler-zalatoris-4401065645455.shtml"/>
+        <updated>2022-06-19T23:06:05.000Z</updated>
+        <summary type="html"><![CDATA[Leggenda Fitzpatrick: vince lo Us Open allo sprint e fa doppietta
+Il 27enne inglese si è imposto con un colpo di vantaggio su Scheffler e Zalatoris. Solo in 13 erano riusciti a vincere sia tra i dilettanti che tra i professionisti]]></summary>
+        <author>
+            <name>Gasport</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Processo a Di Maio]]></title>
+        <id>gnn:lastampa:5421147</id>
+        <link href="https://www.lastampa.it/politica/2022/06/20/news/processo_a_di_maio-5421147/"/>
+        <updated>2022-06-19T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[La notte delle stelle cadenti. È iniziato il processo a Luigi Di Maio: ieri sera l’ex capo politico è ufficialmente finito sul banco degli imputati per le sue «accuse strumentali» al Movimento 5 stelle. La resa dei conti si consuma col buio, fin d ... [Continua a leggere sul sito.]]]></summary>
+        <author>
+            <name>lastampa.it - Homepage</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grillo preoccupato per lo strappo: “Ma Conte non vuole ricucire”]]></title>
+        <id>gnn:lastampa:5421134</id>
+        <link href="https://www.lastampa.it/politica/2022/06/20/news/grillo_preoccupato_per_lo_strappo_ma_conte_non_vuole_ricucire_-5421134/"/>
+        <updated>2022-06-19T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ROMA. Beppe Grillo osserva le convulsioni interne alla sua creatura e inizia a provare un certo fastidio. Gli attacchi violenti mossi contro Luigi Di Maio dai vertici del Movimento negli ultimi giorni non gli sono piaciuti. E lo lascia perplesso l ... [Continua a leggere sul sito.]]]></summary>
+        <author>
+            <name>lastampa.it - Homepage</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cosa succede alla maggioranza?]]></title>
+        <id>gnn:lastampa:5421130</id>
+        <link href="https://www.lastampa.it/politica/2022/06/20/news/cosa_succede_alla_maggioranza_-5421130/"/>
+        <updated>2022-06-19T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ROMA. La priorità, adesso, è evitare che il big bang M5s finisca per travolgere il governo. Sia a Palazzo Chigi sia nella maggioranza si lavora per limitare i danni dello scontro finale tra Luigi Di Maio e Giuseppe Conte, perché è chiaro a tutti c ... [Continua a leggere sul sito.]]]></summary>
+        <author>
+            <name>lastampa.it - Homepage</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Il piano di Bruxelles: “Ulteriore sostegno militare all’Ucraina”]]></title>
+        <id>gnn:lastampa:5421108</id>
+        <link href="https://www.lastampa.it/esteri/2022/06/20/news/il_piano_di_bruxelles_ulteriore_sostegno_militare_all_ucraina_-5421108/"/>
+        <updated>2022-06-19T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[DALL’INVIATO A BRUXELLES. «L’Unione europea resta fermamente impegnata a fornire ulteriore sostegno militare per aiutare l’Ucraina»: è questo l’impegno che i 27 leader Ue saranno chiamati a sottoscrivere al Consiglio europeo che inizia gioved ... [Continua a leggere sul sito.]]]></summary>
+        <author>
+            <name>lastampa.it - Homepage</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Il piano dell’Italia per l’emergenza energetica]]></title>
+        <id>gnn:lastampa:5421072</id>
+        <link href="https://www.lastampa.it/economia/2022/06/20/news/il_piano_dell_italia_per_l_emergenza-5421072/"/>
+        <updated>2022-06-19T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sul tavolo del governo il protocollo in caso di crisi: tra le soluzioni aria condizionata limitata in abitazioni e uffici, grandi aziende costrette a ridurre la produzione. Ecco le diverse misure:
+
+I CONSUMI – Tagli ... [Continua a leggere sul sito.]]]></summary>
+        <author>
+            <name>lastampa.it - Homepage</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Governo, sulla politica estera l’ultimatum di Draghi]]></title>
+        <id>gnn:lastampa:5421110</id>
+        <link href="https://www.lastampa.it/politica/2022/06/20/news/governo_sulla_politica_estera_l_ultimatum_di_draghi_-5421110/"/>
+        <updated>2022-06-19T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ROMA. La fonte anonima impegnata nella trattativa sul testo della risoluzione di maggioranza lo dice esplicitamente: «I problemi interni ai partiti non possono condizionare le scelte di politica estera del governo». Da giovedì Mario Draghi è  ... [Continua a leggere sul sito.]]]></summary>
+        <author>
+            <name>lastampa.it - Homepage</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Acqua salata, la minerale verso rincari del 10% per gli aumenti record della plastica]]></title>
+        <id>gnn:lastampa:5421093</id>
+        <link href="https://www.lastampa.it/economia/2022/06/20/news/acqua_salata_la_minerale_verso_rincari_del_10_per_gli_aumenti_record_della_plastica-5421093/"/>
+        <updated>2022-06-19T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Continua a leggere sul sito.]]]></summary>
+        <author>
+            <name>lastampa.it - Homepage</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Un presidente azzoppato, ostaggio degli estremisti]]></title>
+        <id>gnn:lastampa:5421121</id>
+        <link href="https://www.lastampa.it/editoriali/lettere-e-idee/2022/06/20/news/un_presidente_azzoppato_ostaggio_degli_estremisti-5421121/"/>
+        <updated>2022-06-19T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Emmanuel Macron vince le elezioni legi ... [Continua a leggere sul sito.]]]></summary>
+        <author>
+            <name>lastampa.it - Homepage</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Piemonte, la vita senz’acqua]]></title>
+        <id>gnn:lastampa:5421077</id>
+        <link href="https://www.lastampa.it/cronaca/2022/06/20/news/piemonte_la_vita_senz_acqua-5421077/"/>
+        <updated>2022-06-19T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Dall’uso razionato di giorno ai rubinetti chiusi la notte sono 170 i Comuni piemontesi che hanno firmato ordinanze. In settimana riunione di governo per analizzare la situazione e valutare gli interventi
+
+BIELLA – C ... [Continua a leggere sul sito.]]]></summary>
+        <author>
+            <name>lastampa.it - Homepage</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Viola e Adele, il ballo dei diritti]]></title>
+        <id>gnn:lastampa:5421089</id>
+        <link href="https://www.lastampa.it/cronaca/2022/06/20/news/viola_e_adele_il_ballo_dei_diritti-5421089/"/>
+        <updated>2022-06-19T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Dall’inviata a Prato. Sono quasi le nove quando Viola Righini e Adele Landolfi scendono la scalinata d’onore del Convitto Cicognini di Prato. Una cascata di fiori lungo i lati, una morbida e romantica musica ad accompagnarle, giacca e pantalo ... [Continua a leggere sul sito.]]]></summary>
+        <author>
+            <name>lastampa.it - Homepage</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arisa: “Le fiabe con il principe azzurro una rovina. Con la comunità Queer mi sento a casa”]]></title>
+        <id>gnn:lastampa:5421083</id>
+        <link href="https://www.lastampa.it/spettacoli/musica/2022/06/20/news/arisa_le_fiabe_con_il_principe_azzurro_una_rovina_con_la_comunita_queer_mi_sento_a_casa_-5421083/"/>
+        <updated>2022-06-19T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Arisa è sempre nuova, diversa, mascherata. Più si traveste e più si scopre; più si trucca e più si svela. Quando è entrata nelle nostre vite, 13 anni fa, cantava Sincerità intabarrata in una tenuta da educanda, gonnellone, golfino, occhia ... [Continua a leggere sul sito.]]]></summary>
+        <author>
+            <name>lastampa.it - Homepage</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guido Harari: “I miei primi cinquant’anni da fotografo)”]]></title>
+        <id>gnn:lastampa:5421081</id>
+        <link href="https://www.lastampa.it/cultura/2022/06/20/news/guido_harari_i_miei_primi_cinquant_anni_da_fotografo_-5421081/"/>
+        <updated>2022-06-19T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Cinquant’anni da fotografo. Ho sempre voluto credere di essere un bluetooth umano, capace di sintonizzarsi con la musica che la gente ha dentro; una cartina di tornasole che assume di volta in volta il colore dell’esperienza e degli incontri che v ... [Continua a leggere sul sito.]]]></summary>
+        <author>
+            <name>lastampa.it - Homepage</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Liverpool con Paul McCartney, il bambino di Penny Lane ha compiuto 80 anni]]></title>
+        <id>gnn:lastampa:5421113</id>
+        <link href="https://www.lastampa.it/viaggi/mondo/2022/06/20/news/a_liverpool_con_paul_mccartney_il_bambino_di_penny_lane_ha_compiuto_80_anni-5421113/"/>
+        <updated>2022-06-19T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Il 18 giugno ha compiuto 80 anni Paul McCartney, il bello dei Beatles che fece impazzire le ragazzine yé yé degli anni Sessanta. Il cantante. bassista e paroliere dei Fab Four nacque ... [Continua a leggere sul sito.]]]></summary>
+        <author>
+            <name>lastampa.it - Homepage</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Milan, se salta Sanches serve un piano B: tre nomi sul taccuino]]></title>
+        <id>https://www.gazzetta.it/Calcio/Calciomercato/Milan/20-06-2022/milan-senza-renato-sanches-serve-piano-b-idea-veretout-fernandez-piu-difficile-4401059128401.shtml</id>
+        <link href="https://www.gazzetta.it/Calcio/Calciomercato/Milan/20-06-2022/milan-senza-renato-sanches-serve-piano-b-idea-veretout-fernandez-piu-difficile-4401059128401.shtml"/>
+        <updated>2022-06-19T22:34:04.000Z</updated>
+        <summary type="html"><![CDATA[Milan, se salta Sanches serve un piano B: tre nomi sul taccuino
+L'accelerata del Psg per il centrocampista portoghese rende ancora più complicato sostituire Kessie. Idee Veretout e Cristante, Fernandez più difficile]]></summary>
+        <author>
+            <name>Stefano Cantalupi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[M5S, Conte: "Forte rammarico per parole Di Maio"]]></title>
+        <id>https://www.adnkronos.com/m5s-conte-forte-rammarico-per-parole-di-maio_5iSC3i9341qAfRBpD4uGlx</id>
+        <link href="https://www.adnkronos.com/m5s-conte-forte-rammarico-per-parole-di-maio_5iSC3i9341qAfRBpD4uGlx"/>
+        <updated>2022-06-19T22:13:00.000Z</updated>
+        <summary type="html"><![CDATA[(Adnkronos) - Per ora, nessun provvedimento nei confronti del ministro degli Esteri]]></summary>
+        <author>
+            <name>webinfo@adnkronos.com (Web Info)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inter-Lukaku: ci siamo quasi. Ecco cosa manca per il sì]]></title>
+        <id>https://www.gazzetta.it/Calcio/Calciomercato/Inter/20-06-2022/inter-lukaku-ci-siamo-quasi-ecco-cosa-manca-il-si-4401064123516.shtml</id>
+        <link href="https://www.gazzetta.it/Calcio/Calciomercato/Inter/20-06-2022/inter-lukaku-ci-siamo-quasi-ecco-cosa-manca-il-si-4401064123516.shtml"/>
+        <updated>2022-06-19T22:08:37.000Z</updated>
+        <summary type="html"><![CDATA[Inter-Lukaku: ci siamo quasi. Ecco cosa manca per il sì
+Serve solo l’ok di Zhang. Il Chelsea propone un prestito da dieci milioni più bonus. I nerazzurri cercano l’ultimo sconto]]></summary>
+        <author>
+            <name>F. Conticello-D. Stoppini</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elezioni Francia 2022, premier Borne: "Paese rischia"]]></title>
+        <id>https://www.adnkronos.com/elezioni-francia-2022-premier-borne-paese-rischia_24xPe0khwPhHnNUqzp9lX9</id>
+        <link href="https://www.adnkronos.com/elezioni-francia-2022-premier-borne-paese-rischia_24xPe0khwPhHnNUqzp9lX9"/>
+        <updated>2022-06-19T21:59:54.000Z</updated>
+        <summary type="html"><![CDATA[(Adnkronos) - "Una situazione senza precedenti"]]></summary>
+        <author>
+            <name>webinfo@adnkronos.com (Web Info)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elezioni Andalusia, vincono i conservatori]]></title>
+        <id>https://www.adnkronos.com/elezioni-andalusia-vincono-i-conservatori_1xjYN88VqGGPsJ6ZZXGNlR</id>
+        <link href="https://www.adnkronos.com/elezioni-andalusia-vincono-i-conservatori_1xjYN88VqGGPsJ6ZZXGNlR"/>
+        <updated>2022-06-19T21:48:51.000Z</updated>
+        <summary type="html"><![CDATA[(Adnkronos) - Popolari davanti a tutti, Vox conquista 17 deputati]]></summary>
+        <author>
+            <name>webinfo@adnkronos.com (Web Info)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Milan: Ibra partecipa alla rovesciata challenge di Castillejo]]></title>
+        <id>https://www.pianetamilan.it/rubriche/milan-sui-social/ibrahimovic-challenge-castillejo-19-06-2022/</id>
+        <link href="https://www.pianetamilan.it/rubriche/milan-sui-social/ibrahimovic-challenge-castillejo-19-06-2022/"/>
+        <updated>2022-06-19T21:23:00.000Z</updated>
+        <summary type="html"><![CDATA[Anche Zlatan Ibrahimovic ha partecipato, a modo suo, alla challenge lanciata sui social dal suo compagno di squadra Samu Castillejo]]></summary>
+        <author>
+            <name>Gazzetta.it</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manchester United: il Ceo coi tifosi al pub per discutere sui problemi del club]]></title>
+        <id>https://www.ilposticipo.it/calcio/united-il-ceo-arnold-al-pub-con-i-tifosi-ho-odiato-ogni-minuto-di-questa-foa-stagione-un-incubo/</id>
+        <link href="https://www.ilposticipo.it/calcio/united-il-ceo-arnold-al-pub-con-i-tifosi-ho-odiato-ogni-minuto-di-questa-foa-stagione-un-incubo/"/>
+        <updated>2022-06-19T21:16:11.000Z</updated>
+        <summary type="html"><![CDATA[Il Red Devils, nel suo nuovo corso, ha deciso di ridurre le distanze dai tifosi e ascoltare le loro istanze. E il CEO Richard Arnold ha immediatamente applicato il protocollo.]]></summary>
+        <author>
+            <name>Gazzetta.it</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Le pagelle a Montreal: Verstappen spaziale, Sainz leone, Leclerc spettacolare]]></title>
+        <id>https://www.gazzetta.it/Formula-1/19-06-2022/f1-gp-canada-pagelle-verstappen-sainz-leclerc-hamilton.shtml</id>
+        <link href="https://www.gazzetta.it/Formula-1/19-06-2022/f1-gp-canada-pagelle-verstappen-sainz-leclerc-hamilton.shtml"/>
+        <updated>2022-06-19T20:50:00.000Z</updated>
+        <summary type="html"><![CDATA[F1 GP Canada, pagelle ai piloti dopo la gara. Verstappen si conferma il migliore, Sainz ha lottato fino in fondo, Leclerc ha regalato spettacolo. Prove maiuscole anche per Hamilton, Russell e Alonso]]></summary>
+        <author>
+            <name>Gazzetta.it</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mondiale, Roma incorona Duda-Ana Patricia e Mol-Sorum]]></title>
+        <id>https://www.gazzetta.it/Volley/19-06-2022/beach-volley-mondiale-roma-incorona-duda-ana-patricia-mol-sorum-4401059154158.shtml</id>
+        <link href="https://www.gazzetta.it/Volley/19-06-2022/beach-volley-mondiale-roma-incorona-duda-ana-patricia-mol-sorum-4401059154158.shtml"/>
+        <updated>2022-06-19T20:37:04.000Z</updated>
+        <summary type="html"><![CDATA[Mondiale, Roma incorona Duda-Ana Patricia e Mol-Sorum 
+Le brasiliane e i norvegesi nuovi campioni mondiali. Entrambe le coppie alla prima vittoria]]></summary>
+        <author>
+            <name>Simone Corbetta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GP Canada, magistrale Verstappen! Sainz lotta ma è 2°. Leclerc rimonta: è 5°]]></title>
+        <id>https://www.gazzetta.it/Formula-1/19-06-2022/f1-canada-magistrale-verstappen-battuta-ferrari-sainz-leclerc-rimonta-5.shtml</id>
+        <link href="https://www.gazzetta.it/Formula-1/19-06-2022/f1-canada-magistrale-verstappen-battuta-ferrari-sainz-leclerc-rimonta-5.shtml"/>
+        <updated>2022-06-19T20:28:29.000Z</updated>
+        <summary type="html"><![CDATA[A Montreal grande prestazione dell'olandese della Red Bull che precede lo spagnolo e la Mercedes di Hamilton. Poi Russell e il monegasco]]></summary>
+        <author>
+            <name>Gazzetta.it</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ucraina, Zelensky: "Russia aumenterà ostilità, anche contro Europa"]]></title>
+        <id>https://www.adnkronos.com/ucraina-zelensky-russia-aumentera-ostilita-anche-contro-europa_1Oau1ZxL30oEXnDAwZqD83</id>
+        <link href="https://www.adnkronos.com/ucraina-zelensky-russia-aumentera-ostilita-anche-contro-europa_1Oau1ZxL30oEXnDAwZqD83"/>
+        <updated>2022-06-19T20:18:05.000Z</updated>
+        <summary type="html"><![CDATA[(Adnkronos) - Il presidente ucraino: "Da domani settimana storica, avremo risposta da Ue"]]></summary>
+        <author>
+            <name>webinfo@adnkronos.com (Web Info)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[M5S-Di Maio, Salvini: "Problema per governo"]]></title>
+        <id>https://www.adnkronos.com/m5s-di-maio-salvini-problema-per-governo_6DAkzQPZm6nm5UUhXCV02r</id>
+        <link href="https://www.adnkronos.com/m5s-di-maio-salvini-problema-per-governo_6DAkzQPZm6nm5UUhXCV02r"/>
+        <updated>2022-06-19T20:16:28.000Z</updated>
+        <summary type="html"><![CDATA[(Adnkronos) - Il leader della Lega: "Non metto becco in casa altrui"]]></summary>
+        <author>
+            <name>webinfo@adnkronos.com (Web Info)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Verstappen: "Carlos andava forte ma ho spinto anch'io". Sainz: "Le ho provate tutte"]]></title>
+        <id>https://www.gazzetta.it/Formula-1/19-06-2022/f1-gp-canada-piloti-dopo-gara-verstappen-ferrari-forte.shtml</id>
+        <link href="https://www.gazzetta.it/Formula-1/19-06-2022/f1-gp-canada-piloti-dopo-gara-verstappen-ferrari-forte.shtml"/>
+        <updated>2022-06-19T20:09:54.000Z</updated>
+        <summary type="html"><![CDATA[Al termine di una gara concitata in cui la safety car ha rimescolato le carte, ECC ECC]]></summary>
+        <author>
+            <name>Gazzetta.it</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ucraina, stop a libri russi]]></title>
+        <id>https://www.adnkronos.com/ucraina-stop-a-libri-russi_tfB1e331WQQzU1GQunVev</id>
+        <link href="https://www.adnkronos.com/ucraina-stop-a-libri-russi_tfB1e331WQQzU1GQunVev"/>
+        <updated>2022-06-19T20:03:51.000Z</updated>
+        <summary type="html"><![CDATA[(Adnkronos) - Bandita inoltre la riproduzione di musica russa]]></summary>
+        <author>
+            <name>webinfo@adnkronos.com (Web Info)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inter: Sanchez posta sui social il Monumental, i tifosi del River sognano]]></title>
+        <id>https://www.fcinter1908.it/calciomercato/sanchez-tifosi-river/</id>
+        <link href="https://www.fcinter1908.it/calciomercato/sanchez-tifosi-river/"/>
+        <updated>2022-06-19T19:57:48.000Z</updated>
+        <summary type="html"><![CDATA[E' bastata una storia su Instagram per scatenare la speranza dei tifosi del River, che sognano di poter rivedere Sanchez con la loro maglia]]></summary>
+        <author>
+            <name>Gazzetta.it</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dalla Spagna: Lazio, per la porta chiesto Neto al Barcellona]]></title>
+        <id>https://www.cittaceleste.it/calciomercato/lazio/lazio-dalla-occhi-su-neto/</id>
+        <link href="https://www.cittaceleste.it/calciomercato/lazio/lazio-dalla-occhi-su-neto/"/>
+        <updated>2022-06-19T19:57:22.000Z</updated>
+        <summary type="html"><![CDATA[Il capitolo portieri sta tenendo banco in maniera insistente in casa biancoceleste, l'ultimo nome per il ruolo di "ponte" è Neto del Barça]]></summary>
+        <author>
+            <name>Gazzetta.it</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Milano, Hines rinnova. Messina: "Ora la terza stella". Altra frecciata alla Virtus]]></title>
+        <id>https://www.gazzetta.it/Basket/SerieA/19-06-2022/olimpia-milano-hines-rinnova-messina-ora-terza-stella-virtus-bologna-altra-frecciata-4401060953547.shtml</id>
+        <link href="https://www.gazzetta.it/Basket/SerieA/19-06-2022/olimpia-milano-hines-rinnova-messina-ora-terza-stella-virtus-bologna-altra-frecciata-4401060953547.shtml"/>
+        <updated>2022-06-19T19:50:45.000Z</updated>
+        <summary type="html"><![CDATA[Milano, Hines rinnova. Messina: "Ora la terza stella". Altra frecciata alla Virtus 
+Per l'Olimpia è il giorno della parata. Il coach rivela: "Avevo pensato di smettere". Melli: "Più bello vincere in Italia". E Rodriguez rimanda la decisione: "Milano casa mia"]]></summary>
+        <author>
+            <name>Claudio Lenzi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[F1 Gp Canada 2022, Verstappen vince davanti a Sainz e Hamilton]]></title>
+        <id>https://www.adnkronos.com/f1-gp-canada-2022-verstappen-vince-davanti-a-sainz-e-hamilton_osLFiAJgtPc2QbqxdPfQz</id>
+        <link href="https://www.adnkronos.com/f1-gp-canada-2022-verstappen-vince-davanti-a-sainz-e-hamilton_osLFiAJgtPc2QbqxdPfQz"/>
+        <updated>2022-06-19T19:48:55.000Z</updated>
+        <summary type="html"><![CDATA[(Adnkronos) - L'olandese della Red Bull precede la Ferrari dello spagnolo e la Mercedes del britannico]]></summary>
+        <author>
+            <name>webinfo@adnkronos.com (Web Info)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Juve, news mercato: Demiral all'Atalanta, le cifre]]></title>
+        <id>https://www.adnkronos.com/juve-news-mercato-demiral-allatalanta-le-cifre_1dG5T9ankpRvY3gm8Yvdzp</id>
+        <link href="https://www.adnkronos.com/juve-news-mercato-demiral-allatalanta-le-cifre_1dG5T9ankpRvY3gm8Yvdzp"/>
+        <updated>2022-06-19T19:26:34.000Z</updated>
+        <summary type="html"><![CDATA[(Adnkronos) - I nerazzurri riscattano il difensore turco]]></summary>
+        <author>
+            <name>webinfo@adnkronos.com (Web Info)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Europei, la Gregorio è argento nella sciabola. È la nona medaglia per l'Italia]]></title>
+        <id>https://www.gazzetta.it/Sport-Vari/19-06-2022/scherma-europei-antalya-rossella-gregorio-argento-4401061968450.shtml</id>
+        <link href="https://www.gazzetta.it/Sport-Vari/19-06-2022/scherma-europei-antalya-rossella-gregorio-argento-4401061968450.shtml"/>
+        <updated>2022-06-19T19:22:10.000Z</updated>
+        <summary type="html"><![CDATA[Europei Antalya, Rossella Gregorio strappa l'argento nella sciabola. È la nona medaglia per l'Italia 
+Per la salernitana dei Carabinieri questo è il quarto podio europeo in carriera. "Tra qualche ora dirò che sono contenta, ora  prevale il rammarico per la vittoria sfumata", racconta. Domani inizieranno le gare a squadre con il fioretto femminile e la sciabola maschile]]></summary>
+        <author>
+            <name>Gasport</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elezioni Francia 2022, Le Pen: "Macron presidente minoranza"]]></title>
+        <id>https://www.adnkronos.com/elezioni-francia-le-pen-macron-presidente-minoranza_lAyWPQUD2654e0hGxzmEf</id>
+        <link href="https://www.adnkronos.com/elezioni-francia-le-pen-macron-presidente-minoranza_lAyWPQUD2654e0hGxzmEf"/>
+        <updated>2022-06-19T19:22:00.000Z</updated>
+        <summary type="html"><![CDATA[(Adnkronos) - Secondo gli exit poll Rassemblement national ha ottenuto il più alto numero di deputati di sempre]]></summary>
+        <author>
+            <name>webinfo@adnkronos.com (Web Info)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[La gioia di Nicolò: "Finalmente mi sono espresso al 100%"]]></title>
+        <id>https://video.gazzetta.it/video-mondiali-nuoto-martinenghi-oro-100-rana-finalmente-mi-sono-espresso-100percento/8ffaeafa-f001-11ec-aa50-05db9f75fb73</id>
+        <link href="https://video.gazzetta.it/video-mondiali-nuoto-martinenghi-oro-100-rana-finalmente-mi-sono-espresso-100percento/8ffaeafa-f001-11ec-aa50-05db9f75fb73"/>
+        <updated>2022-06-19T19:14:58.000Z</updated>
+        <summary type="html"><![CDATA[Martinenghi: "Finalmente mi sono espresso al 100%"
+Nicolò Martinenghi vince la medaglia d'oro nei 100 metri rana ai Mondiali di nuoto di Budapest. La sua intervista con l'inviato della Gazzetta, Stefano Arcobelli]]></summary>
+        <author>
+            <name>Stefano Arcobelli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lazetic subito in gol all'Europeo U19. Ed esulta "surfando" come Leao]]></title>
+        <id>https://www.gazzetta.it/Calcio/Serie-A/Milan/19-06-2022/lazetic-subito-gol-europeo-u19-ed-esulta-surfando-come-leao-4401059357419.shtml</id>
+        <link href="https://www.gazzetta.it/Calcio/Serie-A/Milan/19-06-2022/lazetic-subito-gol-europeo-u19-ed-esulta-surfando-come-leao-4401059357419.shtml"/>
+        <updated>2022-06-19T19:08:20.000Z</updated>
+        <summary type="html"><![CDATA[Lazetic subito in gol all'Europeo U19. Ed esulta "surfando" come Leao
+Il serbo ha segnato il gol del vantaggio contro Israele, in un match poi finito 2-2. Per lui si parla di prestito nella prossima stagione, ma i rossoneri non hanno ancora deciso]]></summary>
+        <author>
+            <name>Francesco Pietrella</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Di Maria, cresce l'attesa. Ecco perché il suo arrivo può dare il via al mercato della Juve]]></title>
+        <id>https://www.gazzetta.it/Calcio/Calciomercato/Juventus/19-06-2022/di-maria-juve-cresce-attesa-suo-arrivo-puo-dare-via-mercato-4401058142340.shtml</id>
+        <link href="https://www.gazzetta.it/Calcio/Calciomercato/Juventus/19-06-2022/di-maria-juve-cresce-attesa-suo-arrivo-puo-dare-via-mercato-4401058142340.shtml"/>
+        <updated>2022-06-19T19:06:36.000Z</updated>
+        <summary type="html"><![CDATA[Di Maria, cresce l'attesa. Ecco perché il suo arrivo può dare il via al mercato della Juve
+La sua risposta innescherà un effetto domino da cui partiranno le prossime mosse bianconere, a partire dall'acquisto di Kostic. Senza dimenticare il pallino Zaniolo]]></summary>
+        <author>
+            <name>Livia Taglioli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Incendio Malagrotta, a Fiumicino materne e nidi chiusi fino a martedì]]></title>
+        <id>https://www.adnkronos.com/incendio-malagrotta-a-fiumicino-materne-e-nidi-chiusi-fino-a-martedi_2QDHuIMfcRLUnbsDKdUY0f</id>
+        <link href="https://www.adnkronos.com/incendio-malagrotta-a-fiumicino-materne-e-nidi-chiusi-fino-a-martedi_2QDHuIMfcRLUnbsDKdUY0f"/>
+        <updated>2022-06-19T19:00:56.000Z</updated>
+        <summary type="html"><![CDATA[(Adnkronos) - Ordinanza Gualtieri: "Divieti alimenti vegetali e misure animali da cortile"]]></summary>
+        <author>
+            <name>webinfo@adnkronos.com (Web Info)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nuoto, nasce 'categoria aperta' per atleti transgender]]></title>
+        <id>https://www.adnkronos.com/nuoto-nasce-categoria-aperta-per-atleti-transgender_3xsPdV1L6dtVFPqPtlXoBx</id>
+        <link href="https://www.adnkronos.com/nuoto-nasce-categoria-aperta-per-atleti-transgender_3xsPdV1L6dtVFPqPtlXoBx"/>
+        <updated>2022-06-19T18:41:23.000Z</updated>
+        <summary type="html"><![CDATA[(Adnkronos) - La nuova politica di inclusione di genere dello sport approvata da oltre il 70% delle federazioni affiliate in un congresso straordinario durante i Campionati del Mondo in corso a Budapest]]></summary>
+        <author>
+            <name>webinfo@adnkronos.com (Web Info)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Budapest non solo Martinenghi: la Pilato vola in  finale, rimpianto Ceccon]]></title>
+        <id>https://www.gazzetta.it/Nuoto/19-06-2022/mondiali-nuoto-pilato-vola-finale-rimpianto-ceccon-4401059759149.shtml</id>
+        <link href="https://www.gazzetta.it/Nuoto/19-06-2022/mondiali-nuoto-pilato-vola-finale-rimpianto-ceccon-4401059759149.shtml"/>
+        <updated>2022-06-19T18:25:36.000Z</updated>
+        <summary type="html"><![CDATA[A Budapest non solo Martinenghi: la Pilato vola in  finale, rimpianto Ceccon
+Una seconda giornata di finali dominata dagli Usa, che non vincono l'oro solo nella specialità in cui ha trionfato Nicolò. Ecco come è andata per gli azzurri]]></summary>
+        <author>
+            <name>Stefano Arcobelli</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Covid oggi Italia, 4.807 contagi: a Roma 3.109 casi]]></title>
         <id>https://www.adnkronos.com/covid-oggi-italia-4807-contagi-a-roma-3109-casi_pLsdLRDyeUjpEniqnxT8r</id>
@@ -14,6 +469,48 @@
         <summary type="html"><![CDATA[(Adnkronos) - I dati della regione]]></summary>
         <author>
             <name>webinfo@adnkronos.com (Web Info)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Canalis: "Questo sport mi ha cambiato la vita", il post per celebrare la vittoria]]></title>
+        <id>https://www.golssip.it/social/canalis-ring-sogno-esperienza/</id>
+        <link href="https://www.golssip.it/social/canalis-ring-sogno-esperienza/"/>
+        <updated>2022-06-19T18:12:36.000Z</updated>
+        <summary type="html"><![CDATA[Tutta la gioia e la soddisfazione dell'ex velina per la sua prima volta sul ring]]></summary>
+        <author>
+            <name>Gazzetta.it</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Martinenghi tra allenamento, Inter, la fidanzata, il mental coach e quel cocktail in suo onore]]></title>
+        <id>https://www.gazzetta.it/fitness/storie/19-06-2022/nicolo-martinenghi-100-rana-campione-curiosita-segreti-1655662223/</id>
+        <link href="https://www.gazzetta.it/fitness/storie/19-06-2022/nicolo-martinenghi-100-rana-campione-curiosita-segreti-1655662223/"/>
+        <updated>2022-06-19T18:10:38.000Z</updated>
+        <summary type="html"><![CDATA[Sbirciamo nel mondo di Nicolò Martinenghi, oro ai mondiali]]></summary>
+        <author>
+            <name>Gazzetta.it</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coric rinasce a Parma: primo titolo dopo quattro anni]]></title>
+        <id>https://www.gazzetta.it/Tennis/ATP/19-06-2022/challenger-parma-coric-rinasce-primo-titolo-quattro-anni-4401060652784.shtml</id>
+        <link href="https://www.gazzetta.it/Tennis/ATP/19-06-2022/challenger-parma-coric-rinasce-primo-titolo-quattro-anni-4401060652784.shtml"/>
+        <updated>2022-06-19T18:02:12.000Z</updated>
+        <summary type="html"><![CDATA[Coric rinasce nel Challenger di Parma: primo titolo dopo quattro anni
+ Il croato, ex numero 12 al mondo, torna al successo dopo un periodo complicato per l’infortunio alla spalla: battuto Elias Ymer in finale]]></summary>
+        <author>
+            <name>Francesco Sessa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Finale Nhl: Colorado sette bellezze, 2-0 e  Stanley Cup più vicina. Tampa Bay k.o.]]></title>
+        <id>https://www.gazzetta.it/Sport-Usa/19-06-2022/finale-nhl-colorado-sette-bellezze-2-0-stanley-cup-piu-vicina-tampa-bay-ko-4401058232646.shtml</id>
+        <link href="https://www.gazzetta.it/Sport-Usa/19-06-2022/finale-nhl-colorado-sette-bellezze-2-0-stanley-cup-piu-vicina-tampa-bay-ko-4401058232646.shtml"/>
+        <updated>2022-06-19T17:54:11.000Z</updated>
+        <summary type="html"><![CDATA[Finale Nhl: Colorado sette bellezze, 2-0 e  Stanley Cup più vicina. Tampa Bay k.o. 
+Gli Avalanche, in casa, vincono anche gara-2 con un netto 7-0 (doppiette di Nichushkin e  Makar) e allungano. Nella notte italiana di lunedì, in Florida, c’è gara-3]]></summary>
+        <author>
+            <name>Andrea Buongiovanni</name>
         </author>
     </entry>
     <entry>
@@ -772,6 +1269,17 @@ Decolla dalla sua Rosario per proseguire le vacanze alla Baleari: Angel Di Maria
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Fan token: i tifosi regalano a Zhou una divisa dei Lakers autografata. E lui si qualifica al Q3]]></title>
+        <id>https://www.gazzetta.it/fan-tokens/19-06-2022/formula1-fan-token-gp-azerbaigian-regalo-zhou-4401054811429.shtml</id>
+        <link href="https://www.gazzetta.it/fan-tokens/19-06-2022/formula1-fan-token-gp-azerbaigian-regalo-zhou-4401054811429.shtml"/>
+        <updated>2022-06-19T10:41:25.000Z</updated>
+        <summary type="html"><![CDATA[Fan token: i tifosi regalano a Zhou una divisa dei Lakers autografata. E lui si qualifica al Q3
+Il pilota dell'Alfa Romeo F1 Team Orlen ha ricevuto per il compleanno una canotta Nba di Carmelo Anthony e poi ha sorpreso tutti in Azerbaigian]]></summary>
+        <author>
+            <name>Gasport</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Castiglioni: "Da Varese a Caserta, come è cambiata la mia vita"]]></title>
         <id>https://video.gazzetta.it/arianna-castiglioni-da-varese-caserta-cambiata-mia-vita/9c67110c-efba-11ec-aa50-05db9f75fb73</id>
         <link href="https://video.gazzetta.it/arianna-castiglioni-da-varese-caserta-cambiata-mia-vita/9c67110c-efba-11ec-aa50-05db9f75fb73"/>
@@ -967,6 +1475,16 @@ Quattro tecnici in tre stagioni, i 23 giorni di Gattuso, esoneri, liti, accuse: 
         <summary type="html"><![CDATA[(Adnkronos) - La decisione annunciata con una lettera inviata a Roberto Fico in cui rende pubbliche le sue ragioni]]></summary>
         <author>
             <name>webinfo@adnkronos.com (Web Info)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Un caccia Harrier II fa "l'inchino" al pubblico di Gaeta, la manovra di precisione del pilota è spettacolare]]></title>
+        <id>gnn:lastampa:5420855</id>
+        <link href="https://www.lastampa.it/cronaca/2022/06/19/video/un_caccia_harrier_ii_fa_linchino_al_pubblico_di_gaeta_la_manovra_di_precisione_del_pilota_e_spettacolare-5420855/"/>
+        <updated>2022-06-19T09:41:23.000Z</updated>
+        <summary type="html"><![CDATA[In questo video girato durante la Festa della Marina Militare a Gaeta lo scorso 10 giugno, un pilota grazie alle capacità del suo Harrier…]]></summary>
+        <author>
+            <name>lastampa.it - Homepage</name>
         </author>
     </entry>
     <entry>
@@ -2351,6 +2869,17 @@ Nella semifinale del torneo di tennis del Queen's, Berrettini supera per 6-4, 6-
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Foto, autografi  e gol leggendari: che premio per quattro tifosi inglesi]]></title>
+        <id>https://www.gazzetta.it/fan-tokens/18-06-2022/aston-villa-fan-token-premio-incontro-giocatori-4401041173881.shtml</id>
+        <link href="https://www.gazzetta.it/fan-tokens/18-06-2022/aston-villa-fan-token-premio-incontro-giocatori-4401041173881.shtml"/>
+        <updated>2022-06-18T14:55:12.000Z</updated>
+        <summary type="html"><![CDATA[Foto, autografi  e gol leggendari: che premio per quattro tifosi inglesi
+Matt, John, Scott e Ray hanno vinto una speciale giornata con i calciatori della propria squadra del cuore grazie ai fan token: le ore a Bodymoor Heath raccontate in un video]]></summary>
+        <author>
+            <name>Gasport</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA["Tornare a vincere": guarda il documentario dell'Italrugby sul Sei Nazioni 2022]]></title>
         <id>https://video.gazzetta.it/italrugby-documentario-tornare-vincere-sei-nazioni-2022/9c7e7b5c-ef11-11ec-b6dd-b596f8ccc2de</id>
         <link href="https://video.gazzetta.it/italrugby-documentario-tornare-vincere-sei-nazioni-2022/9c7e7b5c-ef11-11ec-b6dd-b596f8ccc2de"/>
@@ -2441,927 +2970,6 @@ Allegri vuole due ali in grado di supportare al meglio Vlahovic garantendogli ri
         <link href="https://www.gazzetta.it/Moto/moto-GP/18-06-2022/bagnaia-ducati-coppia-perfetta-pole-sachsenring-quartararo-zarco.shtml"/>
         <updated>2022-06-18T14:02:41.000Z</updated>
         <summary type="html"><![CDATA[Pecco è l'unico a scendere sotto il muro dell'1'20": 3a pole dell'anno, per la Rossa sono 7 in 10 gare. "Era una pista difficile per la Ducati, sono felicissimo". Espargarò 4° con l'Aprilia, delusione Bastianini, solo 17°]]></summary>
-        <author>
-            <name>Gazzetta.it</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pogba-bis: giocare bene non basta. Faccia come Platini o Zidane]]></title>
-        <id>https://www.gazzetta.it/Calcio/Calciomercato/Juventus/18-06-2022/pogba-juve-analisi-zidane-o-platini-oiivero-4401042266732.shtml</id>
-        <link href="https://www.gazzetta.it/Calcio/Calciomercato/Juventus/18-06-2022/pogba-juve-analisi-zidane-o-platini-oiivero-4401042266732.shtml"/>
-        <updated>2022-06-18T13:22:11.000Z</updated>
-        <summary type="html"><![CDATA[Pogba leader della nuova Juve? Faccia come Platini o Zidane
-Paul a Manchester ha offerto un rendimento deludente, ora torna in un contesto in cui può diventare leader e far rinascere se stesso e la Juve. Ma deve tirare fuori tutto...]]></summary>
-        <author>
-            <name>G.B. Olivero</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GP Canada LIVE: in corso le FP3 sul bagnato. Leclerc, quarto motore: parte dietro]]></title>
-        <id>https://www.gazzetta.it/Formula-1/18-06-2022/f1-gp-canada-live-22-00-italiane-qualifiche.shtml</id>
-        <link href="https://www.gazzetta.it/Formula-1/18-06-2022/f1-gp-canada-live-22-00-italiane-qualifiche.shtml"/>
-        <updated>2022-06-18T13:10:10.000Z</updated>
-        <summary type="html"><![CDATA[Si disputa sulla pista canadese la nona qualifica della stagione. Gli aggiornamenti in tempo reale]]></summary>
-        <author>
-            <name>Gazzetta.it</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morata, Messias, Piatek e...Tempo scaduto per i riscatti: cosa succede ora?]]></title>
-        <id>https://www.gazzetta.it/Calciomercato/storie/18-06-2022/calciomercato-serie-a-giocatori-riscattati-quelli-rientrati-base-4401041759945/</id>
-        <link href="https://www.gazzetta.it/Calciomercato/storie/18-06-2022/calciomercato-serie-a-giocatori-riscattati-quelli-rientrati-base-4401041759945/"/>
-        <updated>2022-06-18T13:06:40.000Z</updated>
-        <summary type="html"><![CDATA[Morata, Messias, Piatek e...Tempo scaduto per i riscatti: cosa succede ora?
-La giornata di venerdì 17 giugno era l'ultima a disposizione dei club italiani per esercitare il diritto d'acquisto sui giocatori in prestito. Il colpo Demiral il più inatteso]]></summary>
-        <author>
-            <name>Francesco Calvi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Giampaolo Morelli: "Su quella Vespa verde in giro per Napoli"]]></title>
-        <id>https://www.gazzetta.it/motori/la-mia-moto/18-06-2022/autovelox-giampaolo-morelli-quella-vespa-verde-giro-napoli.shtml</id>
-        <link href="https://www.gazzetta.it/motori/la-mia-moto/18-06-2022/autovelox-giampaolo-morelli-quella-vespa-verde-giro-napoli.shtml"/>
-        <updated>2022-06-18T13:01:19.000Z</updated>
-        <summary type="html"><![CDATA[Il protagonista dell'ispettore Coliandro e di altri film dei Manetti Bros. si è fatto le ossa sulle strade della sua città con lo storico scooter Piagio. Poi è passat]]></summary>
-        <author>
-            <name>Gazzetta.it</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fabregas lascia il Monaco, arriva l'annuncio ufficiale del club]]></title>
-        <id>https://www.calciomercato.com/news/monaco-ufficiale-fabregas-saluta-64837</id>
-        <link href="https://www.calciomercato.com/news/monaco-ufficiale-fabregas-saluta-64837"/>
-        <updated>2022-06-18T12:35:13.000Z</updated>
-        <summary type="html"><![CDATA[Cesc Fabregas saluta il Monaco dopo tre anni e mezzo, come annunciato dalla società monegasca.
-
- 
-
-Merci @cesc4official !
-
-Le milieu de terrain aux]]></summary>
-        <author>
-            <name>Gazzetta.it</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Il Newcastle beffa il Psg: in chiusura per Ekitike. Piaceva anche al Milan]]></title>
-        <id>https://www.calciomercato.com/news/psg-beffato-dal-newcastle-su-un-giovane-attaccante-11714</id>
-        <link href="https://www.calciomercato.com/news/psg-beffato-dal-newcastle-su-un-giovane-attaccante-11714"/>
-        <updated>2022-06-18T12:33:15.000Z</updated>
-        <summary type="html"><![CDATA[Hugo Ekitike in ballo tra Premier League e Ligue 1. Secondo Sky Sports, l'attaccante del Reims è vicino all'accordo con il Newcastle e potrebbe volare]]></summary>
-        <author>
-            <name>Gazzetta.it</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Caro-gasolio: in un anno +50%, a rischio stop camion, pullman, taxi e Ncc]]></title>
-        <id>https://www.gazzetta.it/motori/la-mia-auto/18-06-2022/caro-gasolio-rischio-stop-camion-pullman-taxi-ncc.shtml</id>
-        <link href="https://www.gazzetta.it/motori/la-mia-auto/18-06-2022/caro-gasolio-rischio-stop-camion-pullman-taxi-ncc.shtml"/>
-        <updated>2022-06-18T12:32:42.000Z</updated>
-        <summary type="html"><![CDATA[Il caro-carburanti rischia di determinare lo stop a molte imprese di trasporti, pubblici e priva]]></summary>
-        <author>
-            <name>Gazzetta.it</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Friedkin, non solo Roma. Anche i ricavi del gruppo volano. E i tifosi sognano...]]></title>
-        <id>https://www.gazzetta.it/Calcio/Serie-A/Roma/18-06-2022/friedkin-non-solo-roma-anche-ricavi-gruppo-volano-4401039547942.shtml</id>
-        <link href="https://www.gazzetta.it/Calcio/Serie-A/Roma/18-06-2022/friedkin-non-solo-roma-anche-ricavi-gruppo-volano-4401039547942.shtml"/>
-        <updated>2022-06-18T12:26:54.000Z</updated>
-        <summary type="html"><![CDATA[Friedkin, non solo Roma. Anche i ricavi del gruppo volano. E i tifosi sognano...
-The Friedkin Group    è arrivato a fatturare 10,7 miliardi di dollari, soglia che lo porta in vetta alla classifica delle migliori aziende private. E nella Capitale ora sperano nei colpi mercato]]></summary>
-        <author>
-            <name>Andrea Pugliese</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Covid oggi Calabria, 942 nuovi contagi e 1 morto: bollettino 18 giugno]]></title>
-        <id>https://www.adnkronos.com/covid-oggi-calabria-942-nuovi-contagi-e-1-morto-bollettino-18-giugno_41DG04VRTTlTrSfQehCOYv</id>
-        <link href="https://www.adnkronos.com/covid-oggi-calabria-942-nuovi-contagi-e-1-morto-bollettino-18-giugno_41DG04VRTTlTrSfQehCOYv"/>
-        <updated>2022-06-18T12:20:20.000Z</updated>
-        <summary type="html"><![CDATA[(Adnkronos) - I dati della Regione]]></summary>
-        <author>
-            <name>webinfo@adnkronos.com (Web Info)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mezza Europa in fila per Simeone. Ma ci sono anche tre (prestigiose) piste italiane]]></title>
-        <id>https://www.gazzetta.it/Calcio/Calciomercato/Verona/18-06-2022/simeone-mercato-cholito-conteso-club-europei-serie-4401042121503.shtml</id>
-        <link href="https://www.gazzetta.it/Calcio/Calciomercato/Verona/18-06-2022/simeone-mercato-cholito-conteso-club-europei-serie-4401042121503.shtml"/>
-        <updated>2022-06-18T12:20:07.000Z</updated>
-        <summary type="html"><![CDATA[Mezza Europa in fila per Simeone. Ma ci sono anche tre (prestigiose) piste italiane 
-Il Verona vuole far cassa con l'attaccante riscattato dal Cagliari: dalla Premier e dalla Liga offerte di prestigio. Eppure restano aperte le strade che portano a club di primo piano in A]]></summary>
-        <author>
-            <name>Salvatore Malfitano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Suicidio assistito, don Mignani: "Farei come 'Mario' se vita non più dignitosa"]]></title>
-        <id>https://www.adnkronos.com/suicidio-assistito-don-mignani-farei-come-mario-se-vita-non-piu-dignitosa_5snpfS4xwgMsBDUCF4JPFt</id>
-        <link href="https://www.adnkronos.com/suicidio-assistito-don-mignani-farei-come-mario-se-vita-non-piu-dignitosa_5snpfS4xwgMsBDUCF4JPFt"/>
-        <updated>2022-06-18T12:18:33.000Z</updated>
-        <summary type="html"><![CDATA[(Adnkronos) - Il sacerdote a favore: "Importante si faccia la legge". E invia un dossier al Papa]]></summary>
-        <author>
-            <name>webinfo@adnkronos.com (Web Info)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Si intrecciano i loro paracadute, 2 morti a Reggio Emilia. Vittime entrambe istruttori]]></title>
-        <id>gnn:lastampa:5420414</id>
-        <link href="https://www.lastampa.it/cronaca/2022/06/18/news/si_intrecciano_i_loro_paracadute_2_morti_a_reggio_emilia_-5420414/"/>
-        <updated>2022-06-18T12:13:37.000Z</updated>
-        <summary type="html"><![CDATA[BOLOGNA. La loro esperienza, con migliaia di lanci all'attivo, gare ed evoluzioni in aria, non gli è bastata per scongiurare il peggio. È finito in tragedia, questa mattina, al Campovolo di Reggio Emilia, il lancio di due paracadutisti che stavano ... [Continua a leggere sul sito.]]]></summary>
-        <author>
-            <name>lastampa.it - Homepage</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lo sfogo dell'ex GF Roberta Beta: "Da un anno non lavoro, autostima sotto i piedi"]]></title>
-        <id>https://www.adnkronos.com/lo-sfogo-dellex-gf-roberta-beta-da-un-anno-non-lavoro-autostima-sotto-i-piedi_6gGsZ4C2ceJhzpqZCFQuK3</id>
-        <link href="https://www.adnkronos.com/lo-sfogo-dellex-gf-roberta-beta-da-un-anno-non-lavoro-autostima-sotto-i-piedi_6gGsZ4C2ceJhzpqZCFQuK3"/>
-        <updated>2022-06-18T12:13:03.000Z</updated>
-        <summary type="html"><![CDATA[(Adnkronos) - Sui social il video in cui confessa la delusione: "È inutile far finta di niente"]]></summary>
-        <author>
-            <name>webinfo@adnkronos.com (Web Info)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ucraina, Di Maio: "Italia non è un Paese neutrale"]]></title>
-        <id>https://www.adnkronos.com/ucraina-di-maio-italia-non-e-un-paese-neutrale_4mKIT0witoQs9GdIEE3HXN</id>
-        <link href="https://www.adnkronos.com/ucraina-di-maio-italia-non-e-un-paese-neutrale_4mKIT0witoQs9GdIEE3HXN"/>
-        <updated>2022-06-18T12:08:58.000Z</updated>
-        <summary type="html"><![CDATA[(Adnkronos) - Il ministro degli Esteri: "Politica estera sia fuori da strumentalizzazioni"]]></summary>
-        <author>
-            <name>webinfo@adnkronos.com (Web Info)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ucraina, Pd: "Lavoriamo tutti per pace, nessuna fuga in avanti"]]></title>
-        <id>https://www.adnkronos.com/ucraina-pd-lavoriamo-tutti-per-pace-nessuna-fuga-in-avanti_3roJ5gz1mGOrefXbLGI6T5</id>
-        <link href="https://www.adnkronos.com/ucraina-pd-lavoriamo-tutti-per-pace-nessuna-fuga-in-avanti_3roJ5gz1mGOrefXbLGI6T5"/>
-        <updated>2022-06-18T12:05:08.000Z</updated>
-        <summary type="html"><![CDATA[(Adnkronos) - "Principale obiettivo è la costruzione di un percorso condiviso per il raggiungimento del cessate il fuoco e del rilancio dei negoziati"]]></summary>
-        <author>
-            <name>webinfo@adnkronos.com (Web Info)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manca personale a Gardaland: chiusura anticipata per 13 giostre]]></title>
-        <id>gnn:lastampa:5420409</id>
-        <link href="https://www.lastampa.it/cronaca/2022/06/18/news/manca_personale_a_gardaland_chiusura_anticipata_per_13_giostre-5420409/"/>
-        <updated>2022-06-18T12:03:24.000Z</updated>
-        <summary type="html"><![CDATA[Chiusura anticipata per alcune attrazioni a Gardaland, a causa della difficoltà nel reperire personale. La mancanza di lavoratori stagionali ha costretto la direzione del più grande parco divertimenti d'Italia a decidere la chiusura di tredici att ... [Continua a leggere sul sito.]]]></summary>
-        <author>
-            <name>lastampa.it - Homepage</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chi è Cahill, l'uomo che crea numeri uno. E ora ci riprova con Sinner]]></title>
-        <id>https://www.gazzetta.it/Tennis/ATP/18-06-2022/sinner-cahill-nuovo-super-coach-4401039565363.shtml</id>
-        <link href="https://www.gazzetta.it/Tennis/ATP/18-06-2022/sinner-cahill-nuovo-super-coach-4401039565363.shtml"/>
-        <updated>2022-06-18T11:56:55.000Z</updated>
-        <summary type="html"><![CDATA[Chi è Cahill, l'uomo che crea numeri uno. E ora ci riprova con Sinner
-Ha portato alla vetta Hewitt e Agassi, e più di recente anche Simona Halep con cui ha vinto Wimbledon e Roland Garros. Ecco come lavorerà con Jannik]]></summary>
-        <author>
-            <name>Federica Cocchi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Icarus, il nuovo modulo che trasforma il pick-up in camper]]></title>
-        <id>https://www.gazzetta.it/Motori/18-06-2022/icarus-nuovo-modulo-trasforma-pick-up-camper.shtml</id>
-        <link href="https://www.gazzetta.it/Motori/18-06-2022/icarus-nuovo-modulo-trasforma-pick-up-camper.shtml"/>
-        <updated>2022-06-18T11:53:28.000Z</updated>
-        <summary type="html"><![CDATA[Una soluzione della start up canadese Loki Basecamp che assicura il massimo comfort partendo da]]></summary>
-        <author>
-            <name>Gazzetta.it</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Koulibaly alla Juve? Napoli teme il tradimento "alla Higuain"]]></title>
-        <id>https://www.gazzetta.it/Calcio/Calciomercato/Napoli/18-06-2022/koulibaly-juve-reazioni-napoli-4401041773458.shtml</id>
-        <link href="https://www.gazzetta.it/Calcio/Calciomercato/Napoli/18-06-2022/koulibaly-juve-reazioni-napoli-4401041773458.shtml"/>
-        <updated>2022-06-18T11:44:19.000Z</updated>
-        <summary type="html"><![CDATA[Koulibaly alla Juve?  Napoli teme il tradimento "alla Higuain"
-Il difensore è l'ultima bandiera azzurra: Kalidou ha promesso che se andrà via lo farà "in pace". Ma in città cresce la paura di una nuova beffa ad opera dei bianconeri]]></summary>
-        <author>
-            <name>Gianluca Monti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chelsea su Milinkovic: ecco le contropartite gradite a Sarri]]></title>
-        <id>https://www.gazzetta.it/Calcio/Calciomercato/Lazio/18-06-2022/lazio-chelsea-milinkovic-sarri-4401041299078.shtml</id>
-        <link href="https://www.gazzetta.it/Calcio/Calciomercato/Lazio/18-06-2022/lazio-chelsea-milinkovic-sarri-4401041299078.shtml"/>
-        <updated>2022-06-18T11:41:30.000Z</updated>
-        <summary type="html"><![CDATA[Chelsea su Milinkovic: ecco le contropartite gradite a Sarri
-Nessuna cifra offerta si avvicina alla richiesta di 80 milioni dei biancocelesti. Ma con i Blues si può parlare di varie contropartite]]></summary>
-        <author>
-            <name>Stefano Cieri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sardegna, neonata morta in casa: indagati madre, zia e nonni]]></title>
-        <id>https://www.adnkronos.com/sardegna-neonata-morta-in-casa-indagati-madre-zia-e-nonni_5tHBif1OkfIX9WMTwkMw4n</id>
-        <link href="https://www.adnkronos.com/sardegna-neonata-morta-in-casa-indagati-madre-zia-e-nonni_5tHBif1OkfIX9WMTwkMw4n"/>
-        <updated>2022-06-18T11:38:36.000Z</updated>
-        <summary type="html"><![CDATA[(Adnkronos) - Il decesso della piccola di appena 5 giorni sarebbe arrivato in un contesto di degrado con una gravidanza nascosta al piccolo paese di Burgos]]></summary>
-        <author>
-            <name>webinfo@adnkronos.com (Web Info)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manchester City, Maresca in pole come vice Guardiola]]></title>
-        <id>https://www.gazzetta.it/Calcio/Premier-League/18-06-2022/enzo-maresca-city-l-esonero-parma-guardiola-punta-di-lui-4401041410394.shtml</id>
-        <link href="https://www.gazzetta.it/Calcio/Premier-League/18-06-2022/enzo-maresca-city-l-esonero-parma-guardiola-punta-di-lui-4401041410394.shtml"/>
-        <updated>2022-06-18T11:38:32.000Z</updated>
-        <summary type="html"><![CDATA[Manchester City, Maresca in pole come vice Guardiola
-L'ex tecnico del Parma ha già guidato alla vittoria l'Under 23 dei Citizens, conquistando la fiducia di Pep che ora lo vorrebbe al suo fianco]]></summary>
-        <author>
-            <name>Gasport</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ballottaggio a Lucca, Vito: "Se Fi con Casapound lascio partito"]]></title>
-        <id>https://www.adnkronos.com/lucca-vito-se-fi-con-casapound-lascio-partito_7kSPRSVYgndKZ10l8SEdXN</id>
-        <link href="https://www.adnkronos.com/lucca-vito-se-fi-con-casapound-lascio-partito_7kSPRSVYgndKZ10l8SEdXN"/>
-        <updated>2022-06-18T11:34:50.000Z</updated>
-        <summary type="html"><![CDATA[(Adnkronos) - Su Twitter: "L'ho comunicato a Berlusconi"]]></summary>
-        <author>
-            <name>webinfo@adnkronos.com (Web Info)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pole di Guevara al Sachsenring, ma Foggia è secondo e lo incalza]]></title>
-        <id>https://www.gazzetta.it/Moto/moto-3/18-06-2022/moto3-pole-guevara-sachsenring-foggia-secondo-incalza.shtml</id>
-        <link href="https://www.gazzetta.it/Moto/moto-3/18-06-2022/moto3-pole-guevara-sachsenring-foggia-secondo-incalza.shtml"/>
-        <updated>2022-06-18T11:33:09.000Z</updated>
-        <summary type="html"><![CDATA[In qualifica vola lo spagnolo della GasGas che precede l'italiano della Leopard e Holgado. Il leader del mondiale, Garcia, è ottavo davanti a Matteo Bertelle. 12° Migno]]></summary>
-        <author>
-            <name>Gazzetta.it</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trasporti, Castelli: "Su marebonus spero voci tagli infondate, risorse utili contro CO2"]]></title>
-        <id>https://www.adnkronos.com/trasporti-castelli-su-marebonus-spero-voci-tagli-infondate-risorse-utili-contro-co2_79jmpRq4jyuqv4TjzrQqVn</id>
-        <link href="https://www.adnkronos.com/trasporti-castelli-su-marebonus-spero-voci-tagli-infondate-risorse-utili-contro-co2_79jmpRq4jyuqv4TjzrQqVn"/>
-        <updated>2022-06-18T11:32:05.000Z</updated>
-        <summary type="html"><![CDATA[(Adnkronos) - "Abbiamo lavorato su norme nazionali come il marebonus e mi auguro che le dichiarazioni sui tagli siano infondate, perché invece quelle risorse hanno permesso di fare moltissima riduzione di CO2 e stanno funzionando bene". Lo ha detto Laura Castelli, viceministro dell'Economia, nel corso del 'Blue Forum'.]]></summary>
-        <author>
-            <name>webinfo@adnkronos.com (Web Info)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ucraina, gen. Tricarico: "Stop alibi su esercito e difesa Ue"]]></title>
-        <id>https://www.adnkronos.com/ucraina-gen-tricarico-stop-alibi-su-esercito-e-difesa-ue_3QPxm6omvMvdJxsLoRLVHF</id>
-        <link href="https://www.adnkronos.com/ucraina-gen-tricarico-stop-alibi-su-esercito-e-difesa-ue_3QPxm6omvMvdJxsLoRLVHF"/>
-        <updated>2022-06-18T11:19:15.000Z</updated>
-        <summary type="html"><![CDATA[(Adnkronos) - "Serve risoluzione Onu che nessuno sta proponendo con una inerzia incomprensibile"]]></summary>
-        <author>
-            <name>webinfo@adnkronos.com (Web Info)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sachsenring: troppo dolore al polso, Rins non correrà]]></title>
-        <id>https://www.gazzetta.it/Motori/18-06-2022/sachsenring-troppo-dolore-polso-rins-correra.shtml</id>
-        <link href="https://www.gazzetta.it/Motori/18-06-2022/sachsenring-troppo-dolore-polso-rins-correra.shtml"/>
-        <updated>2022-06-18T11:18:14.000Z</updated>
-        <summary type="html"><![CDATA[Il pilota della Suzuki questa mattina ha sofferto ancora più di ieri e ha deciso di dare forfeit: "La speranza è di poter essere pronto per il prossimo weekend ad Assen, una pista che mi piace molto". Il team non lo sostituirà]]></summary>
-        <author>
-            <name>Gazzetta.it</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ibra, la riabilitazione dopo l'intervento]]></title>
-        <id>https://video.gazzetta.it/video-ibrahimovic-riabilitazione-l-intervento-ginocchio/f137eb44-eef1-11ec-b6dd-b596f8ccc2de</id>
-        <link href="https://video.gazzetta.it/video-ibrahimovic-riabilitazione-l-intervento-ginocchio/f137eb44-eef1-11ec-b6dd-b596f8ccc2de"/>
-        <updated>2022-06-18T11:13:31.000Z</updated>
-        <summary type="html"><![CDATA[Ibrahimovic, il video della riabilitazione dopo l'intervento alla gamba
-Zlatan Ibrahimovic condivide con i follower alcuni momenti della sua riabilitazione dopo l'intervento chirurgico al ginocchio sinistro a cui si è sottoposto al termine della stagione. (Instagram @iamzlatanibrahimovic)]]></summary>
-        <author>
-            <name>Gasport</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pnrr, Patuanelli: "Difficile per le imprese programmare investimenti, effetto leva in discussione"]]></title>
-        <id>https://www.adnkronos.com/pnrr-patuanelli-difficile-per-le-imprese-programmare-investimenti-effetto-leva-in-discussione_sXpaNzcyo8vYipi3Zk8X3</id>
-        <link href="https://www.adnkronos.com/pnrr-patuanelli-difficile-per-le-imprese-programmare-investimenti-effetto-leva-in-discussione_sXpaNzcyo8vYipi3Zk8X3"/>
-        <updated>2022-06-18T11:12:33.000Z</updated>
-        <summary type="html"><![CDATA[(Adnkronos) - “Il ministero delle politiche agricole ha stanziato 20milioni di euro per aiutare i nostri pescatori contro il caro gasolio”]]></summary>
-        <author>
-            <name>webinfo@adnkronos.com (Web Info)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Todde: "Italia è Paese con 8mila km di costa ma che non ha espresso sue potenzialita"]]></title>
-        <id>https://www.adnkronos.com/todde-italia-e-paese-con-8mila-km-di-costa-ma-che-non-ha-espresso-sue-potenzialita_3OmvIh5q8SOy9YrtzYTTch</id>
-        <link href="https://www.adnkronos.com/todde-italia-e-paese-con-8mila-km-di-costa-ma-che-non-ha-espresso-sue-potenzialita_3OmvIh5q8SOy9YrtzYTTch"/>
-        <updated>2022-06-18T11:08:04.000Z</updated>
-        <summary type="html"><![CDATA[(Adnkronos) - Regolamentare mercato europeo che importa da Paesi che non danno attenzione a Co2” commenta il viceministro allo sviluppo economico]]></summary>
-        <author>
-            <name>webinfo@adnkronos.com (Web Info)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mondiali, staffetta veloce e De Tullio  in finale, Ceccon da record nei 50 farfalla]]></title>
-        <id>https://www.gazzetta.it/Nuoto/18-06-2022/mondiali-nuoto-staffetta-veloce-de-tullio-finale-ceccon-record-50-farfalla-4401040951222.shtml</id>
-        <link href="https://www.gazzetta.it/Nuoto/18-06-2022/mondiali-nuoto-staffetta-veloce-de-tullio-finale-ceccon-record-50-farfalla-4401040951222.shtml"/>
-        <updated>2022-06-18T11:06:34.000Z</updated>
-        <summary type="html"><![CDATA[Mondiali, staffetta veloce e De Tullio  all'assalto in finale, Ceccon da record nei 50 farfalla
-La 4X100 s.l. (Miressi, Ceccon, Zazzeri e Frigo) centrano la finalissima  col sesto tempo in 3'13"13, ma stasera serve accelerare per salire sul podio. Ma ecco tutti i risultati]]></summary>
-        <author>
-            <name>Stefano Arcobelli</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maldini e Massara, perché non c’è ancora la firma. E il mercato è fermo]]></title>
-        <id>https://www.gazzetta.it/Calcio/Calciomercato/Milan/18-06-2022/milan-maldini-massara-firma-mercato-4401039823779.shtml</id>
-        <link href="https://www.gazzetta.it/Calcio/Calciomercato/Milan/18-06-2022/milan-maldini-massara-firma-mercato-4401039823779.shtml"/>
-        <updated>2022-06-18T11:04:18.000Z</updated>
-        <summary type="html"><![CDATA[Maldini e Massara, perché non c’è ancora la firma. E il mercato è fermo
-I contratti del d.t. e del d.s. stanno per scadere e questo non aiuta la definizione di alcune trattative ben avviate (come quelle per Botman e Lang). L'intesa di massima con RedBird c'è, ma...]]></summary>
-        <author>
-            <name>Stefano Cantalupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LeBron scalda i motori: allenamento con Kevin Love]]></title>
-        <id>https://video.gazzetta.it/video-lebron-james-scalda-motori-allenamento-kevin-love/6349f89c-eeea-11ec-b6dd-b596f8ccc2de</id>
-        <link href="https://video.gazzetta.it/video-lebron-james-scalda-motori-allenamento-kevin-love/6349f89c-eeea-11ec-b6dd-b596f8ccc2de"/>
-        <updated>2022-06-18T10:59:39.000Z</updated>
-        <summary type="html"><![CDATA[LeBron James scalda i motori: allenamento con Kevin Love
-La stagione Nba si è appena conclusa con la vittoria dei Golden State Warriors. Per LeBron e i Lakers un anno difficile, con tanti infortuni e senza playoff: "King James" sembra non vedere l'ora di iniziare, come testimonia questo allenamento a New York con Kevin Love, suo ex compagno a Cleveland. (Instagram @cbrickley603)]]></summary>
-        <author>
-            <name>Gasport</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elena Del Pozzo, "più di 11 le coltellate: morte non immediata"]]></title>
-        <id>https://www.adnkronos.com/elena-del-pozzo-piu-di-11-le-coltellate-morte-non-immediata_1eRedclQx7SdezLPEA2CBh</id>
-        <link href="https://www.adnkronos.com/elena-del-pozzo-piu-di-11-le-coltellate-morte-non-immediata_1eRedclQx7SdezLPEA2CBh"/>
-        <updated>2022-06-18T10:58:39.000Z</updated>
-        <summary type="html"><![CDATA[(Adnkronos) - Lo si apprende da fonti della Procura di Catania dopo l’autopsia: un solo colpo è stato letale]]></summary>
-        <author>
-            <name>webinfo@adnkronos.com (Web Info)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LIVE Berrettini-Van de Zanschulp: piove al Queen's. Semifinali in sospeso]]></title>
-        <id>https://www.gazzetta.it/Tennis/ATP/18-06-2022/berrettini-van-de-zandschulp-live-semifinale-queen-s-diretta-4401040486462.shtml</id>
-        <link href="https://www.gazzetta.it/Tennis/ATP/18-06-2022/berrettini-van-de-zandschulp-live-semifinale-queen-s-diretta-4401040486462.shtml"/>
-        <updated>2022-06-18T10:56:08.000Z</updated>
-        <summary type="html"><![CDATA[LIVE Berrettini-Van de Zanschulp: in palio c'è la finale del Queen's
-Matteo difende il titolo del 2021 e affronta l'olandese per la seconda volta in carriera. Nell'altra semifinale Cilic-Krajinovic]]></summary>
-        <author>
-            <name>Gasport</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Il presente e il futuro di Toyota con Luigi Luca']]></title>
-        <id>https://video.gazzetta.it/il-presente-e-il-futuro-di-toyota-con-luigi-luca-/a0a01c0c-afe9-4464-bae5-6ccb4d9bexlk</id>
-        <link href="https://video.gazzetta.it/il-presente-e-il-futuro-di-toyota-con-luigi-luca-/a0a01c0c-afe9-4464-bae5-6ccb4d9bexlk"/>
-        <updated>2022-06-18T10:51:25.000Z</updated>
-        <summary type="html"><![CDATA[Toyota rimane concentrata sull’elettrificazione con un’attenzione particolare ai sistemi ibridi, vera caratteristica del marchio giapponese. S’inserisce in questa strategia la <a href="https://www.gazzetta.it/motori/la-mia-auto/prove-auto/07-10-2021/nuova-lexus-nx-suv-ibrido-ibrido-plug-in-prova-prezzi-uscita-consumi-4201677853968.shtml" target="_blank">nuova NX</a>, disponibile con tutte le proposte di ibridizzazione oggi disponili incluso un innovativo ed efficiente modulo plug in. Una strategia che inevitabilmente andrà a coinvolgere anche Lexus, con prodotti più esclusivi ma sempre in linea con le caratteristiche di sostenibilità e risparmio]]></summary>
-        <author>
-            <name>Gazzetta.it</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Roma, la scommessa si chiama Reinier. Ma prima bisogna sfoltire la rosa]]></title>
-        <id>https://www.gazzetta.it/Calcio/Calciomercato/Roma/18-06-2022/roma-obiettivo-reinier-ma-prima-bisogna-vendere-4401040936868.shtml</id>
-        <link href="https://www.gazzetta.it/Calcio/Calciomercato/Roma/18-06-2022/roma-obiettivo-reinier-ma-prima-bisogna-vendere-4401040936868.shtml"/>
-        <updated>2022-06-18T10:45:40.000Z</updated>
-        <summary type="html"><![CDATA[Roma, la scommessa si chiama Reinier. Ma prima bisogna sfoltire la rosa
-Il club giallorosso ha messo gli occhi sul 20enne brasiliano del Real Madrid, centrocampista offensivo appena rientrato dal prestito - non facile - al Borussia Dortmund. Per avviare la trattativa dovrà prima cedere uno tra El Shaarawy e Carles Perez]]></summary>
-        <author>
-            <name>Chiara Zucchelli</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rischio Bagnaia, la Ducati si impenna]]></title>
-        <id>https://video.gazzetta.it/video-bagnaia-ducati-si-impenna-prove-partenza/62f40684-eef0-11ec-b6dd-b596f8ccc2de</id>
-        <link href="https://video.gazzetta.it/video-bagnaia-ducati-si-impenna-prove-partenza/62f40684-eef0-11ec-b6dd-b596f8ccc2de"/>
-        <updated>2022-06-18T10:38:59.000Z</updated>
-        <summary type="html"><![CDATA[Bagnaia, la Ducati si impenna nelle prove di partenza
-Ottime prove libere per Pecco Bagnaia al Sachsenring: unica incertezza questa impennata nella prova di partenza al termine della Libere 3]]></summary>
-        <author>
-            <name>Gasport</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bimba uccisa, l’autopsia: inferte più di undici coltellate, non è morta subito]]></title>
-        <id>gnn:lastampa:5420389</id>
-        <link href="https://www.lastampa.it/cronaca/2022/06/18/news/bimba_uccisa_l_autopsia_inferte_piu_di_undici_coltellate-5420389/"/>
-        <updated>2022-06-18T10:38:14.000Z</updated>
-        <summary type="html"><![CDATA[I colpi alla piccola Elena sono stati inferti con un'arma compatibile con un coltello da cucina, che non è ancora stato trovato. Dalle anticipazioni del medico autoptico si può dire sin d'ora che «i colpi sono più di undici». L ... [Continua a leggere sul sito.]]]></summary>
-        <author>
-            <name>lastampa.it - Homepage</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Draghi ancora pressato dal M5S, nella risoluzione grillina c’è il no all'invio di altre armi in Ucraina. Ma Di Maio: così si mette a rischio la sicurezza nazionale italiana]]></title>
-        <id>gnn:lastampa:5420387</id>
-        <link href="https://www.lastampa.it/economia/2022/06/18/news/draghi_ancora_pressato_dal_m5s_nella_risoluzione_grillina_il_no_all_invio_di_altre_armi-5420387/"/>
-        <updated>2022-06-18T10:32:40.000Z</updated>
-        <summary type="html"><![CDATA[ROMA. Braccio di ferro nella maggioranza sull’invio di armi all’Ucraina. I 5 stelle alzano un muro provocando una frattura nell’esecutivo mentre il premier Mario Draghi è impegnato in prima persona con gli altri leader europei Emmanuel Macron ... [Continua a leggere sul sito.]]]></summary>
-        <author>
-            <name>lastampa.it - Homepage</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Giovanni Allevi: “Ho un mieloma e devo curarmi. Starò lontano dal palco”]]></title>
-        <id>gnn:lastampa:5420384</id>
-        <link href="https://www.lastampa.it/spettacoli/musica/2022/06/18/news/giovanni_allevi_ho_un_mieloma_devo_curarmi_e_dovro_stare_lontano_dal_palco_-5420384/"/>
-        <updated>2022-06-18T10:26:28.000Z</updated>
-        <summary type="html"><![CDATA[Il pianista e compositore Giovanni Allevi ha rilevato di avere un mieloma e di doversi curare «lontano dal palco». «Non ci girerò intorno: ho scoperto di avere una neoplasia dal suono dolce: mieloma, ma non per questo meno insidiosa», ha scritto l ... [Continua a leggere sul sito.]]]></summary>
-        <author>
-            <name>lastampa.it - Homepage</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inter, Gosens è già al lavoro: così Robin si sta preparando per Inzaghi]]></title>
-        <id>https://www.gazzetta.it/Calcio/Serie-A/Inter/18-06-2022/inter-gosens-gia-pronto-nuova-stagione-inzaghi-4401026812153.shtml</id>
-        <link href="https://www.gazzetta.it/Calcio/Serie-A/Inter/18-06-2022/inter-gosens-gia-pronto-nuova-stagione-inzaghi-4401026812153.shtml"/>
-        <updated>2022-06-18T10:24:22.000Z</updated>
-        <summary type="html"><![CDATA[Inter, Gosens è già al lavoro: così Robin si sta preparando per Inzaghi
-L'esterno tedesco si allena anche lontano da Appiano Gentile, con l'obiettivo di presentarsi a luglio già pronto per un ruolo da protagonista in nerazzurro]]></summary>
-        <author>
-            <name>Matteo Nava</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Raffaeli, sogni di gloria. Dagli Europei di ritmica alla maturità]]></title>
-        <id>https://www.gazzetta.it/Tennis/18-06-2022/raffaeli-sogni-gloria-europei-ritmica-maturita-4401033599077.shtml</id>
-        <link href="https://www.gazzetta.it/Tennis/18-06-2022/raffaeli-sogni-gloria-europei-ritmica-maturita-4401033599077.shtml"/>
-        <updated>2022-06-18T10:19:14.000Z</updated>
-        <summary type="html"><![CDATA[Raffaeli, sogni di gloria. Dagli Europei di ritmica alla maturità
-La marchigiana cerca  un titolo individuale mai vinto dall’Italia: "Amo questo sport perché mi permette di raccontare una storia"]]></summary>
-        <author>
-            <name>Simone Battaggia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bremer, Milenkovic o Acerbi? I tre difensori a confronto]]></title>
-        <id>https://video.gazzetta.it/calciomercato-inter-bremer-milenkovic-o-acerbi-confronto/f9a3d52c-eeec-11ec-b6dd-b596f8ccc2de</id>
-        <link href="https://video.gazzetta.it/calciomercato-inter-bremer-milenkovic-o-acerbi-confronto/f9a3d52c-eeec-11ec-b6dd-b596f8ccc2de"/>
-        <updated>2022-06-18T10:17:11.000Z</updated>
-        <summary type="html"><![CDATA[Bremer, Milenkovic o Acerbi? I tre difensori a confronto
-Il Paris Saint-Germain fa sul serio per Skriniar. Se il difensore lasciasse l'Inter, sono tre i nomi più caldi per sostituirlo: Bremer, Milenkovic e Acerbi.]]></summary>
-        <author>
-            <name>Antonino Lo Re</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In Argentina sono sicuri: Vidal vuole il Boca Juniors]]></title>
-        <id>https://www.gazzetta.it/Calcio/Calciomercato/Inter/18-06-2022/calciomercato-inter-vidal-boca-juniors-4401039809411.shtml</id>
-        <link href="https://www.gazzetta.it/Calcio/Calciomercato/Inter/18-06-2022/calciomercato-inter-vidal-boca-juniors-4401039809411.shtml"/>
-        <updated>2022-06-18T10:14:35.000Z</updated>
-        <summary type="html"><![CDATA[In Argentina sono sicuri: Vidal vuole il Boca Juniors
-Il cileno, a Miami per una partita benefica, avrebbe confidato di voler vestire la maglia gialloblù il prossimo anno: il nodo è l'ingaggio]]></summary>
-        <author>
-            <name>Gasport</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ballottaggio Verona, l’ex sindaco Tosi: “Voterò Sboarina, prima mi confronterò con Forza Italia”]]></title>
-        <id>gnn:lastampa:5420375</id>
-        <link href="https://www.lastampa.it/politica/2022/06/18/news/ballottaggio_verona_l_ex_sindaco_tosi_votero_sboarina_prima_mi_confrontero_con_forza_italia_-5420375/"/>
-        <updated>2022-06-18T10:14:09.000Z</updated>
-        <summary type="html"><![CDATA[Il 26 giugno «non andrò a votare per Tommasi, non per la persona ma perché non ha la capacità amministrativa che serve. Immagino che andrò a votare Sboarina ma prima mi confronterò con Forza Italia per decidere quale linea tenere e cosa dire al no ... [Continua a leggere sul sito.]]]></summary>
-        <author>
-            <name>lastampa.it - Homepage</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tagliando auto: elettrica contro ibrida e Gpl, come cambia la manutenzione?]]></title>
-        <id>https://www.sicurauto.it/ricambi-e-accessori/tecnica-e-manutenzione/tagliandi-auto-fiat-500-gpl-vs-fiat-500-hybrid-vs-fiat-500-elettrica/</id>
-        <link href="https://www.sicurauto.it/ricambi-e-accessori/tecnica-e-manutenzione/tagliandi-auto-fiat-500-gpl-vs-fiat-500-hybrid-vs-fiat-500-elettrica/"/>
-        <updated>2022-06-18T10:00:25.000Z</updated>
-        <summary type="html"><![CDATA[Ecco come cambiano la manutenzione e i tagliandi auto se si passa dalla Fiat 500 GPL alla Fiat 500 Hybrid o alla Fiat 500 Elettrica]]></summary>
-        <author>
-            <name>Gazzetta.it</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ahn, 20 anni dopo quel dannato gol: "La mia Corea meritava. E agli italiani dico: non odiatemi più"]]></title>
-        <id>https://www.gazzetta.it/Calcio/Nazionale/18-06-2022/corea-italia-2002-ahn-italia-moreno-gaucci-4401040075817.shtml</id>
-        <link href="https://www.gazzetta.it/Calcio/Nazionale/18-06-2022/corea-italia-2002-ahn-italia-moreno-gaucci-4401040075817.shtml"/>
-        <updated>2022-06-18T09:55:06.000Z</updated>
-        <summary type="html"><![CDATA[Ahn, 20 anni dopo quel dannato gol: "La mia Corea meritava. E agli italiani dico: non odiatemi più" 
-Il 18 giugno 2002 gli azzurri venivano eliminati dal Mondiale grazie al colpo di testa dell'attaccante del Perugia: "Gaucci mi cacciò, disse che avevo rovinato il calcio italiano. Ma per me la Serie A fu un’esperienza fantastica. Moreno? Può aver sbagliato, però..."]]></summary>
-        <author>
-            <name>Oscar Maresca</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bremer tra basket, boxe, churrasco, fede e... Brehme: tutto sul Toro]]></title>
-        <id>https://www.gazzetta.it/fitness/allenamento/storie/14-03-2022/gleison-bremer-torino-allenamenti-fede-brehme-curiosita-1647250376/</id>
-        <link href="https://www.gazzetta.it/fitness/allenamento/storie/14-03-2022/gleison-bremer-torino-allenamenti-fede-brehme-curiosita-1647250376/"/>
-        <updated>2022-06-18T09:45:19.000Z</updated>
-        <summary type="html"><![CDATA[Nel mondo del difensore Gleison Bremer del Torino, spesso associato nel mercato a Juve, Milan e Inter. Tutto su di lui e il legame con Andreas Brehme.]]></summary>
-        <author>
-            <name>Gazzetta.it</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bremer: "Voglio giocare in Champions League". E apre anche all'azzurro...]]></title>
-        <id>https://www.gazzetta.it/Calcio/Calciomercato/Torino/18-06-2022/bremer-voglio-giocare-champions-league-4401040487669.shtml</id>
-        <link href="https://www.gazzetta.it/Calcio/Calciomercato/Torino/18-06-2022/bremer-voglio-giocare-champions-league-4401040487669.shtml"/>
-        <updated>2022-06-18T09:44:14.000Z</updated>
-        <summary type="html"><![CDATA[Bremer: "Voglio giocare in Champions League. E se il Brasile non mi convoca..."
-Il difensore del Torino: "Sto valutando alcune proposte, credo che il mio addio sia questione di tempo". Poi strizza l'occhio a Mancini: "Se il Brasile non mi convoca..."]]></summary>
-        <author>
-            <name>Gasport</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Il Liverpool a sorpresa: riporta a casa il 33enne Spearing per farlo giocare... con l'Under-23]]></title>
-        <id>https://www.ilposticipo.it/calcio/il-nuovo-assurdo-acquisto-del-liverpool-klopp-compra-il-trentatreenne-spearing-per-giocare-nella-primavera/</id>
-        <link href="https://www.ilposticipo.it/calcio/il-nuovo-assurdo-acquisto-del-liverpool-klopp-compra-il-trentatreenne-spearing-per-giocare-nella-primavera/"/>
-        <updated>2022-06-18T09:41:38.000Z</updated>
-        <summary type="html"><![CDATA[Per l'ex Liverpool Jay Spearing è il momento di tornare ad Anfield, per diventare uno dei punti fermi della formazione Under-23, il corrispettivo della Primavera. Peccato che l'inglese di anni...ne abbia 33.]]></summary>
-        <author>
-            <name>Gazzetta.it</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Diawara: "Voglio giocare di più. A  gennaio ero del Valencia, ma poi…"]]></title>
-        <id>https://www.forzaroma.info/calciomercato-as-roma/diawara-sulla-cessione-voglio-giocare-di-piu-mi-piacerebbe-la-liga/</id>
-        <link href="https://www.forzaroma.info/calciomercato-as-roma/diawara-sulla-cessione-voglio-giocare-di-piu-mi-piacerebbe-la-liga/"/>
-        <updated>2022-06-18T09:34:42.000Z</updated>
-        <summary type="html"><![CDATA[Il centrocampista ha aperto alla cessione dopo aver rifiutato molte destinazioni]]></summary>
-        <author>
-            <name>Gazzetta.it</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Il ‘piano estivo’ di Lautaro: champagne e piscina con Augustina a Milano]]></title>
-        <id>https://www.golssip.it/social/agustina-lautaro-piano-perfetto-piscina/</id>
-        <link href="https://www.golssip.it/social/agustina-lautaro-piano-perfetto-piscina/"/>
-        <updated>2022-06-18T09:33:24.000Z</updated>
-        <summary type="html"><![CDATA[Gli scatti postati dalla splendida argentina su Instagram]]></summary>
-        <author>
-            <name>Gazzetta.it</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Al Nord aumentano le bollette, al Sud il cibo. Ecco le città con i maggiori rincari]]></title>
-        <id>gnn:lastampa:5420354</id>
-        <link href="https://www.lastampa.it/economia/2022/06/18/news/al_nord_aumentano_le_bollette_al_sud_il_cibo_ecco_le_citta_con_i_maggiori_rincari-5420354/"/>
-        <updated>2022-06-18T09:33:00.000Z</updated>
-        <summary type="html"><![CDATA[ROMA. La classifica delle città dove cibo, luce e gas sono più maggiormente rincarati per effetto della pandemia e della guerra russo-ucraina. Luce e gas più salati a Bolzano (+112,9%), Trento (+109,2%) e Lodi (+79,8%). Cibo più caro a C ... [Continua a leggere sul sito.]]]></summary>
-        <author>
-            <name>lastampa.it - Homepage</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fisco, Landini: “Si discute di una legge delega folle”]]></title>
-        <id>gnn:lastampa:5420351</id>
-        <link href="https://www.lastampa.it/economia/2022/06/18/news/fisco_landini_si_discute_di_una_legge_delega_folle_-5420351/"/>
-        <updated>2022-06-18T09:28:19.000Z</updated>
-        <summary type="html"><![CDATA[In Italia «c'è il problema di una vera riforma fiscale, leggo che stanno discutendo di una delega fiscale folle, che non è quella di cui abbiamo bisogno perché il fisco in Italia vuol dire combattere l'evasione fiscale ed introdurre davvero l ... [Continua a leggere sul sito.]]]></summary>
-        <author>
-            <name>lastampa.it - Homepage</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lo manda De Rossi, costa 3 milioni: il futuro di Salvatore Esposito]]></title>
-        <id>https://www.gazzetta.it/Calciomercato/18-06-2022/salvatore-esposito-mercato-4401034982015.shtml</id>
-        <link href="https://www.gazzetta.it/Calciomercato/18-06-2022/salvatore-esposito-mercato-4401034982015.shtml"/>
-        <updated>2022-06-18T09:22:03.000Z</updated>
-        <summary type="html"><![CDATA[Lo manda De Rossi, costa 3 milioni: il futuro di Salvatore Esposito
-Gioca come il suo idolo, ha debuttato in azzurro con Mancini, è un uomo mercato come suo fratello Sebastiano: ha già gli occhi addosso di tre squadre]]></summary>
-        <author>
-            <name>Alex Frosio</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Siccità, in Piemonte mancano due terzi di acqua nel Po]]></title>
-        <id>gnn:lastampa:5420332</id>
-        <link href="https://www.lastampa.it/cronaca/2022/06/18/video/siccita_in_piemonte_mancano_due_terzi_di_acqua_nel_po-5420332/"/>
-        <updated>2022-06-18T08:49:18.000Z</updated>
-        <summary type="html"><![CDATA[Sos siccità, in Piemonte mancano due terzi di acqua nel Po. Fiumi e torrenti in secca a causa della prolungata siccità nell'hinterland torine…]]></summary>
-        <author>
-            <name>lastampa.it - Homepage</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Olena Zelenska, la donna che i russi volevano far fuori: “Io, bersaglio numero 2 di Mosca”]]></title>
-        <id>gnn:lastampa:5420327</id>
-        <link href="https://www.lastampa.it/esteri/2022/06/18/news/la_first_lady_ucraina_olena_zelenska_bersaglio_numero_2_di_mosca_capaci_di_tutto_non_pensavo_la_russia_ci_avrebbe_invaso_-5420327/"/>
-        <updated>2022-06-18T08:30:30.000Z</updated>
-        <summary type="html"><![CDATA[È raro che Olena Zelenska parli. Donna molto riservata, ha sempre tenuto un profilo molto basso, soprattutto da quando è scoppiata la guerra in Ucraina. Quindi, l’intervista rilasciata al Guardian sta facendo il giro del mondo. Lei,  ... [Continua a leggere sul sito.]]]></summary>
-        <author>
-            <name>lastampa.it - Homepage</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Non solo Lukaku: Bonucci, Sheva, Kakà, Ibra, quando i campioni ci "ripensano"]]></title>
-        <id>https://www.gazzetta.it/Calcio/Serie-A/18-06-2022/lukaku-campioni-che-ritornano-bonucci-sheva-kaka-ibra-4401038242556.shtml</id>
-        <link href="https://www.gazzetta.it/Calcio/Serie-A/18-06-2022/lukaku-campioni-che-ritornano-bonucci-sheva-kaka-ibra-4401038242556.shtml"/>
-        <updated>2022-06-18T08:26:14.000Z</updated>
-        <summary type="html"><![CDATA[Non solo Lukaku: Bonucci, Sheva, Kakà, Ibra, quando i campioni ci "ripensano"
-Big Rom all’Inter l’ultimo di una lunga lista. Il Milan è una squadra di "ritornatori", ma di recente solo con Zlatan  è andata bene]]></summary>
-        <author>
-            <name>Sebastiano Vernazza</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pogba vs Lukaku, ricordi come andò quella sfida a basket?]]></title>
-        <id>https://video.gazzetta.it/video-pogba-vs-lukaku-partita-basket-2016/7f115de0-eedb-11ec-b6dd-b596f8ccc2de</id>
-        <link href="https://video.gazzetta.it/video-pogba-vs-lukaku-partita-basket-2016/7f115de0-eedb-11ec-b6dd-b596f8ccc2de"/>
-        <updated>2022-06-18T08:10:40.000Z</updated>
-        <summary type="html"><![CDATA[Pogba vs Lukaku, ricordi come andò quella sfida a basket?
-Paul Pogba e Romelu Lukaku sono molto vicini al ritorno in Italia, rispettivamente con Juventus e Inter, le squadre dove hanno vissuto i migliori momenti della loro carriera: nell'estate del 2016 si erano anche affrontati in una partita di basket, di cui sono entrambi molto appassionati. Ecco come andò]]></summary>
-        <author>
-            <name>Gasport</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Martina Trevisan: "Il buio a 15 anni e la risalita. Vi racconto le mie due vite (e la prossima)"]]></title>
-        <id>https://www.gazzetta.it/Tennis/WTA/18-06-2022/martina-trevisan-il-buio-15-anni-risalita-vi-racconto-mie-due-vite-intervista-sportweek-440983060999.shtml</id>
-        <link href="https://www.gazzetta.it/Tennis/WTA/18-06-2022/martina-trevisan-il-buio-15-anni-risalita-vi-racconto-mie-due-vite-intervista-sportweek-440983060999.shtml"/>
-        <updated>2022-06-18T08:09:26.000Z</updated>
-        <summary type="html"><![CDATA[Martina Trevisan: "Il buio a 15 anni e la risalita. Vi racconto le mie due vite (e la prossima)"
-Dopo la semifinale a Parigi, la 24enne tennista italiana guarda al futuro con fiducia: "Intanto, con una parte del milione e centomila euro che ho guadagnato  dalla competizione, ho rafforzato il mio staff"]]></summary>
-        <author>
-            <name>Riccardo Crivelli</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nadia Gresini: "Nel nome di Fausto ho fatto una follia. Ora voglio il Mondiale"]]></title>
-        <id>https://www.gazzetta.it/Moto/moto-GP/18-06-2022/gresini-moglie-nadia-nome-fausto-ho-fatto-follia-ora-voglio-mondiale.shtml</id>
-        <link href="https://www.gazzetta.it/Moto/moto-GP/18-06-2022/gresini-moglie-nadia-nome-fausto-ho-fatto-follia-ora-voglio-mondiale.shtml"/>
-        <updated>2022-06-18T08:08:03.000Z</updated>
-        <summary type="html"><![CDATA[Da infermiera a capo del team del marito scomparso nel 2021, Nadia Gresini si racconta alla vigilia del GP Germania di MotoGP: "Gli sponsor mollavano, io ci credevo"]]></summary>
-        <author>
-            <name>Gazzetta.it</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tv russa pubblica video dei due veterani Usa scomparsi]]></title>
-        <id>gnn:lastampa:5420320</id>
-        <link href="https://www.lastampa.it/esteri/2022/06/18/video/tv_russa_pubblica_video_dei_due_veterani_usa_scomparsi-5420320/"/>
-        <updated>2022-06-18T08:07:09.000Z</updated>
-        <summary type="html"><![CDATA[La tv russa ha rilasciato due video nei quali sono ripresi i militari statunitensi catturati in Ucraina. Nel primo l'ex sergente dell'esercito Usa Alex…]]></summary>
-        <author>
-            <name>lastampa.it - Homepage</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ecco chi è veramente Will, le sue canzoni fanno cantare e ballare TikTok]]></title>
-        <id>gnn:lastampa:5420318</id>
-        <link href="https://www.lastampa.it/spettacoli/musica/2022/06/18/news/ecco_chi_e_veramente_will_le_sue_canzoni_fanno_cantare_e_ballare_tiktok-5420318/"/>
-        <updated>2022-06-18T08:05:39.000Z</updated>
-        <summary type="html"><![CDATA[Le sue canzoni sono diventate la colonna sonora di tanti video di TikTok. Sono state dedicate, cantate, ballate. Will, al secolo William Busetti, 21 anni, si è fatto notare con canzoni che mescolano influenze british pop (la madre è di origin ... [Continua a leggere sul sito.]]]></summary>
-        <author>
-            <name>lastampa.it - Homepage</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Milan, il 4-3-3 sarà l'alternativa: ecco come giocherebbe]]></title>
-        <id>https://video.gazzetta.it/milan-202223-formazione-col-4-3-3/33111722-eedc-11ec-b6dd-b596f8ccc2de</id>
-        <link href="https://video.gazzetta.it/milan-202223-formazione-col-4-3-3/33111722-eedc-11ec-b6dd-b596f8ccc2de"/>
-        <updated>2022-06-18T08:04:23.000Z</updated>
-        <summary type="html"><![CDATA[Milan, il 4-3-3 sarà l'alternativa: ecco come giocherebbe
-Tra arrivi sicuri e trattative ben avviate, la rosa del Milan sarà molto più ricca al termine del calciomercato. Pioli non resterà legato al 4-2-3-1: il 4-3-3 sarà il sistema di gioco alternativo. Ecco quali potrebbero esserne gli interpreti.]]></summary>
-        <author>
-            <name>Gasport</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Erlic: "Ero povero e senza scarpe, mio padre mi ha insegnato il valore della fatica"]]></title>
-        <id>https://www.gazzetta.it/Calcio/Serie-A/Spezia/18-06-2022/erlic-ero-povero-senza-scarpre-mio-padre-mi-ha-insegnato-valore-fatica-sportweek-intervista-440983060061.shtml</id>
-        <link href="https://www.gazzetta.it/Calcio/Serie-A/Spezia/18-06-2022/erlic-ero-povero-senza-scarpre-mio-padre-mi-ha-insegnato-valore-fatica-sportweek-intervista-440983060061.shtml"/>
-        <updated>2022-06-18T07:53:43.000Z</updated>
-        <summary type="html"><![CDATA[Erlic: "Ero povero e senza scarpe, mio padre mi ha insegnato il valore della fatica"
-Il difensore croato è stato uno dei migliori nell'ultima stagione in Serie A, giocata con lo Spezia. Per "SportWeek" racconta la sua storia e le sue ambizioni per il futuro. Senza dimenticare mai da dove viene (e dove torna sempre con gratitudine)]]></summary>
-        <author>
-            <name>Fabrizio Salvio</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scaroni: "La Serie A oggi è un prodotto scarso e noioso. Nuovo stadio? Sono ottimista"]]></title>
-        <id>https://www.gazzetta.it/Calcio/Serie-A/Milan/18-06-2022/milan-scaroni-la-serie-oggi-prodotto-scarso-noioso-4401039410455.shtml</id>
-        <link href="https://www.gazzetta.it/Calcio/Serie-A/Milan/18-06-2022/milan-scaroni-la-serie-oggi-prodotto-scarso-noioso-4401039410455.shtml"/>
-        <updated>2022-06-18T07:37:57.000Z</updated>
-        <summary type="html"><![CDATA[Scaroni: "La Serie A oggi è un prodotto scarso e noioso. Nuovo stadio? Sono ottimista"
-Il presidente del Milan in un'intervista a "Il Foglio" ha fatto il punto sul calcio italiano, tra stadi difficili da realizzare, diritti tv e troppe interruzioni]]></summary>
-        <author>
-            <name>Gasport</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Psg, assalto a Skriniar: pronto un ingaggio da 7,7 milioni per il muro dell'Inter]]></title>
-        <id>https://www.gazzetta.it/Calcio/Calciomercato/Inter/18-06-2022/inter-psg-skriniar-pronto-ingaggio-77-milioni-4401034337363.shtml</id>
-        <link href="https://www.gazzetta.it/Calcio/Calciomercato/Inter/18-06-2022/inter-psg-skriniar-pronto-ingaggio-77-milioni-4401034337363.shtml"/>
-        <updated>2022-06-18T07:10:57.000Z</updated>
-        <summary type="html"><![CDATA[Psg, assalto a Skriniar: pronto un ingaggio da 7,7 milioni per il muro dell'Inter
-Il club francese ora deve convincere i nerazzurri. Rifiutata la prima offerta da 50 milioni, Marotta è fermo alla richiesta di 80]]></summary>
-        <author>
-            <name>Vincenzo D'Angelo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Taxi e cinema: quando le auto gialle diventano protagoniste. Dieci film memorabili]]></title>
-        <id>https://www.gazzetta.it/motori/la-mia-auto/storie/18-06-2022/taxi-auto-gialle-mondo-cinema-1655535592/</id>
-        <link href="https://www.gazzetta.it/motori/la-mia-auto/storie/18-06-2022/taxi-auto-gialle-mondo-cinema-1655535592/"/>
-        <updated>2022-06-18T07:00:04.000Z</updated>
-        <summary type="html"><![CDATA[Chiamati con un fischio, legati allo scorrere del tassametro, taxi e tassisti sono stati spesso protagonisti sul grande schermo. Abbiamo contato fino a 25 film, e ce ne sono altri, ne abbiamo selezionati solo dieci]]></summary>
-        <author>
-            <name>Gazzetta.it</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Valentino Rossi: "Lorenzo il più divertente. Marquez? Senza di lui in quel 2015..."]]></title>
-        <id>https://www.gazzetta.it/Moto/moto-GP/18-06-2022/motogp-valentino-rossi-lorenzo-marquez-2015.shtml</id>
-        <link href="https://www.gazzetta.it/Moto/moto-GP/18-06-2022/motogp-valentino-rossi-lorenzo-marquez-2015.shtml"/>
-        <updated>2022-06-18T06:59:27.000Z</updated>
-        <summary type="html"><![CDATA[In un'intervista al quotidiano francese L'Equipe, Valentino Rossi mostra il suo apprezzamento per Jorge Lorenzo e ricorda la guerra con Marc Marquez nel 2015]]></summary>
-        <author>
-            <name>Gazzetta.it</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Us Open, avanza solo Migliozzi. Molinari non passa il taglio]]></title>
-        <id>https://www.gazzetta.it/Golf/18-06-2022/us-open-italiani-avanza-migliozzi-molinari-non-passa-taglio-4401038987204.shtml</id>
-        <link href="https://www.gazzetta.it/Golf/18-06-2022/us-open-italiani-avanza-migliozzi-molinari-non-passa-taglio-4401038987204.shtml"/>
-        <updated>2022-06-18T06:58:40.000Z</updated>
-        <summary type="html"><![CDATA[Us Open, avanza solo Migliozzi. Molinari non passa il taglio
-Il torneo in corso a Brookline perde un italiano. In testa lotta aperta: al momento sono in vantaggio Morikawa e Dahmen, con McIllroy subito dietro]]></summary>
-        <author>
-            <name>Gasport</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Il talento di Mr. C è girato con amore ma è solo per i fan sfegatati]]></title>
-        <id>https://www.internazionale.it/opinione/eileen-jones/2022/06/18/il-talento-di-mr-c</id>
-        <link href="https://www.internazionale.it/opinione/eileen-jones/2022/06/18/il-talento-di-mr-c"/>
-        <updated>2022-06-18T06:57:02.000Z</updated>
-        <summary type="html"><![CDATA[Nicolas Cage nella vita reale si è da tempo calato nei panni della star cinematografica, strampalata e strafottente, un personaggio alimentato dai meme dei giovani fan sui social network. Il talento di Mr. C è un regalo per loro. Leggi]]></summary>
-        <author>
-            <name>Internazionale</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In Italia vince solo chi non prende gol. Juve: De Ligt-Koulibaly coppia da sogno]]></title>
-        <id>https://www.gazzetta.it/Calcio/Serie-A/18-06-2022/juve-de-ligt-koulibaly-coppia-sogno-4401035317075.shtml</id>
-        <link href="https://www.gazzetta.it/Calcio/Serie-A/18-06-2022/juve-de-ligt-koulibaly-coppia-sogno-4401035317075.shtml"/>
-        <updated>2022-06-18T06:55:24.000Z</updated>
-        <summary type="html"><![CDATA[In Italia vince solo chi non prende gol. Juve: De Ligt-Koulibaly coppia da sogno
-Nelle ultime dieci stagioni, lo scudetto è andato nove volte alla squadra con la difesa meno battuta. E la Signora, coi soldi incassati per Demiral, pensa al senegalese]]></summary>
-        <author>
-            <name>Stefano Agresti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I 40 anni di Borriello: “Ho faticato il doppio degli altri. Fidanzate? No, innamorato della vita”]]></title>
-        <id>https://www.gazzetta.it/Calcio/Serie-A/18-06-2022/esclusiva-borriello-qui-festa-fidanzate-no-ora-sono-innamorato-mia-vita-intervista-4401033292718.shtml</id>
-        <link href="https://www.gazzetta.it/Calcio/Serie-A/18-06-2022/esclusiva-borriello-qui-festa-fidanzate-no-ora-sono-innamorato-mia-vita-intervista-4401033292718.shtml"/>
-        <updated>2022-06-18T06:53:17.000Z</updated>
-        <summary type="html"><![CDATA[I 40 anni di Borriello: “Ho faticato il doppio degli altri. Fidanzate? No, innamorato della vita” 
-Il bello del gol, il compleanno tondo e un megaparty a Ibiza con più di 100 amici. “Un bilancio? Quando ne avrò 50, ma il Borriello più forte non si è mai visto. L’amore? Concetto astratto. Belen? Ero immaturo...”]]></summary>
-        <author>
-            <name>G.B. Olivero</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gol, intercetti e duelli: in cosa Bremer può essere meglio di Skriniar]]></title>
-        <id>https://www.gazzetta.it/Calcio/Calciomercato/Inter/18-06-2022/inter-bremer-posto-skriniar-confronto-440967477378.shtml</id>
-        <link href="https://www.gazzetta.it/Calcio/Calciomercato/Inter/18-06-2022/inter-bremer-posto-skriniar-confronto-440967477378.shtml"/>
-        <updated>2022-06-18T06:48:45.000Z</updated>
-        <summary type="html"><![CDATA[Gol, intercetti e duelli: in cosa Bremer può essere meglio di Skriniar
-Il brasiliano del Torino è uno dei nomi forti della difesa interista nel caso in cui partisse lo slovacco, tentato dal Paris Saint-Germain: l'ex Sampdoria è certamente più navigato, ma Gleison ha i numeri per imporsi ad altissimi livelli e superare il suo ipotetico predecessore]]></summary>
-        <author>
-            <name>Matteo Nava</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Padel, palestra, amici e un po' di calcio: così Marco Borriello festeggia i suoi 40 anni]]></title>
-        <id>https://www.gazzetta.it/fitness/allenamento/storie/18-06-2022/marco-borriello-40-anni-ibiza-padel-gossip-1655534595/</id>
-        <link href="https://www.gazzetta.it/fitness/allenamento/storie/18-06-2022/marco-borriello-40-anni-ibiza-padel-gossip-1655534595/"/>
-        <updated>2022-06-18T06:43:29.000Z</updated>
-        <summary type="html"><![CDATA[Marco Borriello oggi compie 40 anni e festeggia nella sua villa a Ibiza. Archiviate le storie con Belen Rodriguez e altre modelle, ora gioca sempre a padel.]]></summary>
-        <author>
-            <name>Gazzetta.it</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Come imitare il servizio di Matteo Berrettini: tecnica, tattica e lavoro mentale]]></title>
-        <id>https://www.gazzetta.it/fitness/allenamento/storie/18-06-2022/servizio-matteo-berrettini-come-si-fa-consigli-santopadre-1655534574/</id>
-        <link href="https://www.gazzetta.it/fitness/allenamento/storie/18-06-2022/servizio-matteo-berrettini-come-si-fa-consigli-santopadre-1655534574/"/>
-        <updated>2022-06-18T06:43:06.000Z</updated>
-        <summary type="html"><![CDATA[Se vuoi imitare il servizio di Matteo Berrettini ecco cosa ha detto il suo coach Vincenzo Santopadre: non è solo una questione di fisico. Scopri come battere.]]></summary>
-        <author>
-            <name>Gazzetta.it</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GP Canada, la pista di Montreal tra muro dei campioni e trappole]]></title>
-        <id>https://video.gazzetta.it/f1-gp-canada-la-pista-di-montreal-tra-muro-dei-campioni-e-trappole/89c3c7c1-bc26-4989-b303-1d9137888xlk</id>
-        <link href="https://video.gazzetta.it/f1-gp-canada-la-pista-di-montreal-tra-muro-dei-campioni-e-trappole/89c3c7c1-bc26-4989-b303-1d9137888xlk"/>
-        <updated>2022-06-18T06:42:54.000Z</updated>
-        <summary type="html"><![CDATA[La storia della pista di Montreal è ricca di colpi di scena. Il GP del Canada è noto per il "Muro dei Campioni", la barriera all'inizio del rettilineo d'arrivo, dove molti big della F1 hanno sbattuto]]></summary>
-        <author>
-            <name>Gazzetta.it</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lisa Lanceford tra workout con i pesi e ciclizzazione dei carboidrati: ecco il suo cambiamento]]></title>
-        <id>https://www.gazzetta.it/fitness/storie/18-06-2022/lisa-lanceford-workout-dieta-cambiamento-1655534554/</id>
-        <link href="https://www.gazzetta.it/fitness/storie/18-06-2022/lisa-lanceford-workout-dieta-cambiamento-1655534554/"/>
-        <updated>2022-06-18T06:42:46.000Z</updated>
-        <summary type="html"><![CDATA[Da quando ha aperto il suo profilo Instagram Lisa Lanceford ha riscontrato un grande successo: ecco come è cambiato il suo fisico con dieta e workout.]]></summary>
-        <author>
-            <name>Gazzetta.it</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Il surfista Barack Obama, tra il kite con Richard Branson e la session prima della Casa Bianca]]></title>
-        <id>https://www.gazzetta.it/mare/surf/storie/18-06-2022/barack-obama-surfista-nato-storia-con-tavola-surf-1655534021/</id>
-        <link href="https://www.gazzetta.it/mare/surf/storie/18-06-2022/barack-obama-surfista-nato-storia-con-tavola-surf-1655534021/"/>
-        <updated>2022-06-18T06:33:53.000Z</updated>
-        <summary type="html"><![CDATA[L'ex presidente degli Stati Uniti d'America Barack Obama è nato a Honolulu, terra di surf. Ecco la sua storia con la tavola. Fa anche kite con Richard Branson.]]></summary>
-        <author>
-            <name>Gazzetta.it</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paltrinieri: “Devi essere  arrogante dentro di te, non verso gli altri: posso ancora stare lassù"]]></title>
-        <id>https://www.gazzetta.it/Nuoto/18-06-2022/gregorio-paltrinieri-posso-ancora-stare-lassu-sportweek-intervista-440983060358.shtml</id>
-        <link href="https://www.gazzetta.it/Nuoto/18-06-2022/gregorio-paltrinieri-posso-ancora-stare-lassu-sportweek-intervista-440983060358.shtml"/>
-        <updated>2022-06-18T06:30:56.000Z</updated>
-        <summary type="html"><![CDATA[Paltrinieri: “Devi essere  arrogante dentro di te, non verso gli altri: posso ancora stare lassù"
-Una vita allungata per l'oro olimpico, dalla piscina al mare: “Sto cercando di diventare padrone in mare: in questi ultimi anni il fondo mi sta prendendo tanto, sta diventando la parte principale di quello che faccio"]]></summary>
-        <author>
-            <name>Stefano Arcobelli</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Milano-Bologna, è scontro totale. La Fip apre un'inchiesta su Zanetti]]></title>
-        <id>https://www.gazzetta.it/Basket/SerieA/18-06-2022/basket-milano-bologna-scontro-totale-c-inchiesta-zanetti-4401032638610.shtml</id>
-        <link href="https://www.gazzetta.it/Basket/SerieA/18-06-2022/basket-milano-bologna-scontro-totale-c-inchiesta-zanetti-4401032638610.shtml"/>
-        <updated>2022-06-18T06:30:46.000Z</updated>
-        <summary type="html"><![CDATA[Milano-Bologna, è scontro totale. La Fip apre un'inchiesta su Zanetti
-Stasera al Forum nuovo match-ball Olimpia. Accuse agli arbitri: la federazione indaga il patron della Virtus]]></summary>
-        <author>
-            <name>Andrea Tosi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I micro-cambiamenti che possono migliorarti la vita]]></title>
-        <id>https://www.gazzetta.it/salute/storie/18-06-2022/micro-cambiamenti-possono-migliorarti-vita-1655533572/</id>
-        <link href="https://www.gazzetta.it/salute/storie/18-06-2022/micro-cambiamenti-possono-migliorarti-vita-1655533572/"/>
-        <updated>2022-06-18T06:26:21.000Z</updated>
-        <summary type="html"><![CDATA[Stanchezza, stress, irritabilità: a volte basta mutare qualche dettaglio, adottare delle abitudini nuove per dare sollievo a corpo e mente. Vediamo cosa fare.]]></summary>
-        <author>
-            <name>Gazzetta.it</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Africani favoriti nel Running Day di Saronno]]></title>
-        <id>https://www.gazzetta.it/running/news/18-06-2022/running-day-saronno-2022-favoriti-edizione-15.shtml</id>
-        <link href="https://www.gazzetta.it/running/news/18-06-2022/running-day-saronno-2022-favoriti-edizione-15.shtml"/>
-        <updated>2022-06-18T06:25:23.000Z</updated>
-        <summary type="html"><![CDATA[Stasera, sabato 18 giugno 2022, c'è il Running Day Saronno 2022: vediamo i favoriti nella gara maschile e nella gara femminile della 15esima edizione.]]></summary>
-        <author>
-            <name>Gazzetta.it</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Melone e anguria: calorie, proprietà e controindicazioni secondo l'esperta]]></title>
-        <id>https://www.gazzetta.it/alimentazione/18-06-2022/melone-anguria-calorie-proprieta-controindicazioni.shtml</id>
-        <link href="https://www.gazzetta.it/alimentazione/18-06-2022/melone-anguria-calorie-proprieta-controindicazioni.shtml"/>
-        <updated>2022-06-18T06:24:20.000Z</updated>
-        <summary type="html"><![CDATA[La nutrizionista spiega quali sono le proprietà nutrizionali di melone e anguria? Calorie, sali minerali e vitamine che contengono. Quando è meglio evitarli.]]></summary>
-        <author>
-            <name>Gazzetta.it</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Salute mentale: il metodo scientifico per ridurre lo stress in 20 minuti]]></title>
-        <id>https://www.gazzetta.it/salute/18-06-2022/salute-mentale-metodo-scientifico-ridurre-stress-20-minuti.shtml</id>
-        <link href="https://www.gazzetta.it/salute/18-06-2022/salute-mentale-metodo-scientifico-ridurre-stress-20-minuti.shtml"/>
-        <updated>2022-06-18T06:24:03.000Z</updated>
-        <summary type="html"><![CDATA[Diversi studi scientifici dimostrano che camminare nella natura aiuta a ridurre lo stress: ecco perché e quanto tempo può bastare per stare meglio.]]></summary>
-        <author>
-            <name>Gazzetta.it</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bici senza sorprese in zona cambio: a quanto gonfio le gomme?]]></title>
-        <id>https://www.gazzetta.it/running/18-06-2022/triathlon-bici-zona-cambio-quanto-gonfio-gomme.shtml</id>
-        <link href="https://www.gazzetta.it/running/18-06-2022/triathlon-bici-zona-cambio-quanto-gonfio-gomme.shtml"/>
-        <updated>2022-06-18T06:23:45.000Z</updated>
-        <summary type="html"><![CDATA[Nella preparazione della bicicletta per la gara di triathlon, è fondamentale scegliere la giusta pressione degli pneumatici]]></summary>
-        <author>
-            <name>Gazzetta.it</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tre facili camminate lungo i Bisses del Vallese]]></title>
-        <id>https://www.gazzetta.it/montagna/18-06-2022/tre-facili-camminate-lungo-bisses-vallese.shtml</id>
-        <link href="https://www.gazzetta.it/montagna/18-06-2022/tre-facili-camminate-lungo-bisses-vallese.shtml"/>
-        <updated>2022-06-18T06:23:27.000Z</updated>
-        <summary type="html"><![CDATA[I sentieri del Vallese che costeggiano le antiche rogge d’irrigazione ritagliate nelle montagne sono ideali per i meno allenati e offrono paesaggi stupendi.]]></summary>
         <author>
             <name>Gazzetta.it</name>
         </author>
