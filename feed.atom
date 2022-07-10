@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sovy666.github.io/notizie/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-10T02:04:53.707Z</updated>
+    <updated>2022-07-10T06:23:30.962Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sovy666.github.io/notizie/index.html"/>
     <link rel="self" href="https://sovy666.github.io/notizie/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Covid Italia, Costa: "Liberare i positivi asintomatici"]]></title>
+        <id>https://www.adnkronos.com/covid-italia-costa-liberare-i-positivi-asintomatici_6Sb9o6DZdNqULnq2aekXj7</id>
+        <link href="https://www.adnkronos.com/covid-italia-costa-liberare-i-positivi-asintomatici_6Sb9o6DZdNqULnq2aekXj7"/>
+        <updated>2022-07-10T06:10:36.000Z</updated>
+        <summary type="html"><![CDATA[(Adnkronos) - Il sottosegretario alla Salute ribadisce: "Il contagio zero non è realizzabile, l'unica soluzione è la convivenza con il virus". E sulla scuola: "Obiettivo del Governo è iniziare a settembre in presenza e senza mascherine"]]></summary>
+        <author>
+            <name>webinfo@adnkronos.com (Web Info)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Attentato all’ex premier Abe, Kurosawa: “Uccidere un politico era impensabile, per il Giappone è un choc sistemico”]]></title>
+        <id>gnn:lastampa:5434545</id>
+        <link href="https://www.lastampa.it/esteri/2022/07/10/news/attentato_allex_premier_abe_uccidere_un_politico_era_impensabileper_il_giappone_e_un_choc_sistemico-5434545/"/>
+        <updated>2022-07-10T06:00:16.000Z</updated>
+        <summary type="html"><![CDATA[No, il regista Kiyoshi Kurosawa non è imparentato con il mitico connazionale Akira. È stato soprannominato «il David Cronenberg del Giappone» e in Occidente è noto soprattutto per i suoi film horror. E in effetti il mondo di oggi sembra proprio un ... [Continua a leggere sul sito.]]]></summary>
+        <author>
+            <name>lastampa.it - Homepage</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pace fiscale, migranti e pensioni: ecco i paletti della Lega per stare al governo]]></title>
+        <id>gnn:lastampa:5434543</id>
+        <link href="https://www.lastampa.it/politica/2022/07/10/news/pace_fiscale_migranti_e_pensioni_ecco_i_paletti_della_legaper_stare_al_governo-5434543/"/>
+        <updated>2022-07-10T05:53:05.000Z</updated>
+        <summary type="html"><![CDATA[ROMA. Quando Matteo Salvini e Giuseppe Conte affrontano il loro travagliato rapporto con il governo, c’è una parola, più di ogni altra, che negli ultimi tempi li accomuna: «Discontinuità». Una condizione essenziale posta da entrambi per proseguire ... [Continua a leggere sul sito.]]]></summary>
+        <author>
+            <name>lastampa.it - Homepage</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Il bivio dei 5 Stelle]]></title>
+        <id>gnn:lastampa:5434537</id>
+        <link href="https://www.lastampa.it/politica/2022/07/10/news/il_bivio_dei_5_stelle-5434537/"/>
+        <updated>2022-07-10T05:10:43.000Z</updated>
+        <summary type="html"><![CDATA[Nelle ultime ore, qualcosa è cambiato. I rapporti tra Mario Draghi e il Movimento 5 stelle sembrano meno tesi. Piccoli gesti simbolici, da parte del premier, vengono interpretati dai grillini come l’inizio di un’apertura. Per la prima volta da qua ... [Continua a leggere sul sito.]]]></summary>
+        <author>
+            <name>lastampa.it - Homepage</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[La mamma di una quindicenne denuncia: “Mia figlia e l’amica violentate in piscina”]]></title>
+        <id>gnn:lastampa:5434406</id>
+        <link href="https://www.lastampa.it/cuneo/2022/07/10/news/la_mamma_di_una_quindicenne_denuncia_mia_figlia_e_lamica_violentate_in_piscina-5434406/"/>
+        <updated>2022-07-10T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Attirate in trappola con una scusa e stuprate nei bagni di una piscina, a quindici anni. Sarebbe accaduto circa un mese fa a due studentesse di prima Superiore. È la mamma di una di loro a raccontare il drammatico sfogo della figlia. Una «verità»  ... [Continua a leggere sul sito.]]]></summary>
+        <author>
+            <name>lastampa.it - Homepage</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Foggia una donna lega il cane a un palo e lo abbandona davanti al figlio in lacrime]]></title>
+        <id>gnn:lastampa:5434511</id>
+        <link href="https://www.lastampa.it/la-zampa/cani/2022/07/10/news/a_foggia_una_donna_lega_il_cane_a_un_palo_e_lo_abbandona_davanti_al_figlio_in_lacrime-5434511/"/>
+        <updated>2022-07-10T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[È la sera del 1° giugno. Il cielo è già buio. Una donna si piega e lega un cane a un palo. Accanto a lei c’è il figlio, un ragazzino che gioca a sollevarsi su un muretto. Nulla fa pensare a ciò che in realtà sta accadendo: quella è la scena di un  ... [Continua a leggere sul sito.]]]></summary>
+        <author>
+            <name>lastampa.it - Homepage</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Europa in fiamme tra inflazione, disagio sociale e nuovi populismi]]></title>
+        <id>gnn:lastampa:5434503</id>
+        <link href="https://www.lastampa.it/editoriali/l-editoriale-massimo-giannini/2022/07/10/news/europa_in_fiamme_tra_inflazione_disagiosociale_e_nuovi_populismi-5434503/"/>
+        <updated>2022-07-09T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Viviamo un presente “retrotopico”. Perduta l’utopia, ci rifugiamo nella nostalgia. Nel mondo, ormai da quasi cinque mesi, c’è di nuovo la guerra. L’Angelo della Storia di Walter Benjamin, con il viso rivolto al passato e una catastrofe di morti e  ... [Continua a leggere sul sito.]]]></summary>
+        <author>
+            <name>lastampa.it - Homepage</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Maurizio Landini: “Io in campo ma senza un partito, non lascerò spazio alla destra”]]></title>
         <id>gnn:lastampa:5434485</id>
@@ -2542,622 +2612,6 @@ Max Verstappen ottiene la pole position della gara sprint del Gran Premio d'Aust
 Per l'argentino ingaggio base di 5 milioni e mezzo che può estendersi fino ai 7, al suo entourage riconosciuta una commissione di un milione e 300 mila euro]]></summary>
         <author>
             <name>Giovanni Albanese</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Giannini: "Il M5s uscirà dal governo, ma bisognerà attendere il pretesto"]]></title>
-        <id>gnn:lastampa:5433893</id>
-        <link href="https://www.lastampa.it/rubriche/metropolis/2022/07/08/video/giannini_il_m5s_uscira_dal_governo_ma_bisognera_attendere_per_il_pretesto-5433893/"/>
-        <updated>2022-07-08T18:18:43.000Z</updated>
-        <summary type="html"><![CDATA[Massimo Giannini, direttore della Stampa, a Metropolis analizza le ultime mosse del leader M5s e le fibrillazioni nel governo. "Ad agosto non succeder&agr…]]></summary>
-        <author>
-            <name>lastampa.it - Homepage</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wimbledon 2022, Djokovic batte Norrie e va in finale]]></title>
-        <id>https://www.adnkronos.com/wimbledon-2022-djokovic-batte-norrie-e-va-in-finale_2IDYsNQBrfj7DIUpoZq92J</id>
-        <link href="https://www.adnkronos.com/wimbledon-2022-djokovic-batte-norrie-e-va-in-finale_2IDYsNQBrfj7DIUpoZq92J"/>
-        <updated>2022-07-08T18:11:12.000Z</updated>
-        <summary type="html"><![CDATA[(Adnkronos) - Il serbo vince in 4 set, domenica sfida con Kyrgios]]></summary>
-        <author>
-            <name>webinfo@adnkronos.com (Web Info)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Impresa storica del Tre Fiori: prima vittoria europea in trasferta per un club di San Marino]]></title>
-        <id>https://www.gazzetta.it/Calcio/Conference-League/08-07-2022/conference-league-impresa-tre-fiori-4401335338519.shtml</id>
-        <link href="https://www.gazzetta.it/Calcio/Conference-League/08-07-2022/conference-league-impresa-tre-fiori-4401335338519.shtml"/>
-        <updated>2022-07-08T18:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Impresa storica del Tre Fiori: prima vittoria europea in trasferta per un club di San Marino
-Il successo  contro i lussemburghesi del Fola Esch entra nella storia: decisivo un gol di Joel Nunez Mastroianni, attaccante spagnolo proveniente dall’Atletico Ascoli (Eccellenza marchigiana)]]></summary>
-        <author>
-            <name>Giorgia Bertozzi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kyrgios: "Il bimbo mangione ora è  finalista Slam. Unico a difendere Nole in Australia"]]></title>
-        <id>https://www.gazzetta.it/Tennis/ATP/08-07-2022/kyrgios-si-racconta-prima-finale-wimbledon-4401335126900.shtml</id>
-        <link href="https://www.gazzetta.it/Tennis/ATP/08-07-2022/kyrgios-si-racconta-prima-finale-wimbledon-4401335126900.shtml"/>
-        <updated>2022-07-08T18:05:52.000Z</updated>
-        <summary type="html"><![CDATA[Kyrgios: "Io, da bimbo mangione a finalista Slam. Unico a difendere Nole in Australia"
-L’australiano è un fiume in piena in conferenza stampa: "Mi è dispiaciuto non giocare contro Nadal, ho dormito solo un’ora. Sono nervoso, cosa che di solito non sono. Ecco cosa mi ha detto Djokovic"]]></summary>
-        <author>
-            <name>Francesco Sessa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mercedes AMG SL, prova della cabrio di lusso]]></title>
-        <id>https://video.gazzetta.it/mercedes-amg-sl-prova-della-cabrio-di-lusso/40f43def-8218-48fd-9253-89f52ec2axlk</id>
-        <link href="https://video.gazzetta.it/mercedes-amg-sl-prova-della-cabrio-di-lusso/40f43def-8218-48fd-9253-89f52ec2axlk"/>
-        <updated>2022-07-08T18:02:49.000Z</updated>
-        <summary type="html"><![CDATA[Potenza di 585 Cv e coppia massima di 800 Nm da un V8 4 litri biturbo. Ecco come si reincarna <a href="https://www.gazzetta.it/motori/la-mia-auto/storie/23-04-2022/mercedes-sl-storia-70-anni-serie-1650714898/">la sigla SL</a>, stavolta by <a href="https://www.gazzetta.it/motori/la-mia-auto/08-04-2022/mercedes-amg-sl-43-roadster-sportiva-innovativa-tecnologia-motoristica.shtml">AMG</a> all’interno del listino Mercedes. Una cabrio da 4,70 metri che porta su strada tutta l’eleganza del brand e le capacità derivate dalla tecnologia di Affalterbach. Una prova nella variante più potente, lascia stregati dalla sua capacità di macinare chilometri senza il minimo stress per chi guida. Non solo, con il suo propulsore la SL è anche in grado di ricalibrare chi è al volante quando si parla di guida sportiva per questo genere di vetture]]></summary>
-        <author>
-            <name>Gazzetta.it</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Juve, si accende l'asta per De Ligt. E il Bayern rilancia fino a 90 milioni]]></title>
-        <id>https://www.gazzetta.it/Calcio/Calciomercato/Juventus/08-07-2022/calciomercato-juve-de-ligt-bayern-rilancia-fino-90-milioni-4401335769796.shtml</id>
-        <link href="https://www.gazzetta.it/Calcio/Calciomercato/Juventus/08-07-2022/calciomercato-juve-de-ligt-bayern-rilancia-fino-90-milioni-4401335769796.shtml"/>
-        <updated>2022-07-08T18:02:18.000Z</updated>
-        <summary type="html"><![CDATA[Juve, si accende l'asta per De Ligt. E il Bayern rilancia fino a 90 milioni
-L'agente Rafaela Pimenta è a Torino: l'ultima proposta del club tedesco, che ha il gradimento del difensore, prevederebbe 75 milioni più una ricca fetta di bonus. Se parte l'olandese, la prima opzione resta Koulibaly]]></summary>
-        <author>
-            <name>Giovanni Albanese</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Govorov, dall'Ucraina a Cuneo: "Grazie all’Italia preparo gli Europei"]]></title>
-        <id>https://www.gazzetta.it/Nuoto/08-07-2022/nuoto-govorov-ucraina-cuneo-grazie-italia-preparo-europei-4401334507443.shtml</id>
-        <link href="https://www.gazzetta.it/Nuoto/08-07-2022/nuoto-govorov-ucraina-cuneo-grazie-italia-preparo-europei-4401334507443.shtml"/>
-        <updated>2022-07-08T17:53:00.000Z</updated>
-        <summary type="html"><![CDATA[Govorov, dall'Ucraina a Cuneo: "Grazie all’Italia preparo gli Europei"
-Iniziativa di solidarietà per il primatista mondiale dei 50 farfalla che dal 4 luglio si allena nel centro piemontese in vista degli Europei di agosto a Roma]]></summary>
-        <author>
-            <name>Stefano Arcobelli</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aborto Usa, Biden firma ordine esecutivo]]></title>
-        <id>https://www.adnkronos.com/aborto-usa-biden-firma-ordine-esecutivo_1msdjqCqMAQ84OUztxWUfH</id>
-        <link href="https://www.adnkronos.com/aborto-usa-biden-firma-ordine-esecutivo_1msdjqCqMAQ84OUztxWUfH"/>
-        <updated>2022-07-08T17:29:00.000Z</updated>
-        <summary type="html"><![CDATA[(Adnkronos) - Per proteggere l'accesso all'interruzione di gravidanza e ai contraccettivi. "Le donne vadano in massa a votare per difendere i propri diritti"]]></summary>
-        <author>
-            <name>webinfo@adnkronos.com (Web Info)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[King Cup, sorteggiati i gironi. L'Italia a novembre  trova Canada e Svizzera]]></title>
-        <id>https://www.gazzetta.it/Tennis/08-07-2022/tennis-king-cup-italia-glasgow-canada-svizzera-4401334453099.shtml</id>
-        <link href="https://www.gazzetta.it/Tennis/08-07-2022/tennis-king-cup-italia-glasgow-canada-svizzera-4401334453099.shtml"/>
-        <updated>2022-07-08T17:26:15.000Z</updated>
-        <summary type="html"><![CDATA[King Cup, sorteggiati i gironi. L'Italia trova Canada e Svizzera
-Le azzurre in autunno  in campo a Glasgow. Spuntano le insidie Bencic e Fernandez, ma  la capitana Garbin è fiduciosa: "La maglia della Nazionale un incentivo"]]></summary>
-        <author>
-            <name>Arianna Nardi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Razzoli, non solo slalom. Ecco l’aceto balsamico: "Serve cura come nello sci"]]></title>
-        <id>https://www.gazzetta.it/Sport-Invernali/08-07-2022/razzoli-aceto-balsamico-sciatore-slalom-4401331752859.shtml</id>
-        <link href="https://www.gazzetta.it/Sport-Invernali/08-07-2022/razzoli-aceto-balsamico-sciatore-slalom-4401331752859.shtml"/>
-        <updated>2022-07-08T17:23:01.000Z</updated>
-        <summary type="html"><![CDATA[Razzoli, non solo slalom. Ecco l’aceto balsamico: "Serve cura come nello sci"
-L’olimpionico di Vancouver ha inaugurato l’acetaia di famiglia nel suo paese dell’appennino reggiano. “Porto avanti la tradizione di nonno Romeo. Perché maturi ci vogliono 25 anni, non ci sono scorciatoie. Proprio come in pista”]]></summary>
-        <author>
-            <name>Gasport</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Guerra Russia-Ucraina, cos'è successo oggi 8 luglio 2022: al G20 tutti contro Mosca, salta anche la foto di gruppo]]></title>
-        <id>gnn:lastampa:5433863</id>
-        <link href="https://www.lastampa.it/audio/serie/2022/07/08/audio/guerra_russiaucraina_cose_successo_oggi_8_luglio_2022_al_g20_tutti_contro_mosca_salta_anche_la_foto_di_gruppo-5433863/"/>
-        <updated>2022-07-08T17:22:14.000Z</updated>
-        <author>
-            <name>lastampa.it - Homepage</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Caso  Cristiano Ronaldo: niente tournée  con il Manchester United]]></title>
-        <id>https://www.itasportpress.it/calcio-estero/manchester-united-cristiano-ronaldo-non-convocato-per-la-tournee/</id>
-        <link href="https://www.itasportpress.it/calcio-estero/manchester-united-cristiano-ronaldo-non-convocato-per-la-tournee/"/>
-        <updated>2022-07-08T17:21:56.000Z</updated>
-        <summary type="html"><![CDATA[Il portoghese sarà assente nel tour estivo]]></summary>
-        <author>
-            <name>Gazzetta.it</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chiara Nasti, nuova polemica sui social: "I jeans premaman metteteveli voi"]]></title>
-        <id>https://www.golssip.it/social/risposta-secca-chiara-nasti/</id>
-        <link href="https://www.golssip.it/social/risposta-secca-chiara-nasti/"/>
-        <updated>2022-07-08T17:21:23.000Z</updated>
-        <summary type="html"><![CDATA[La risposta secca della influencer]]></summary>
-        <author>
-            <name>Gazzetta.it</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pnrr, c'è l'elenco degli impianti sportivi ammessi e "rimandati"]]></title>
-        <id>https://www.gazzetta.it/Sport-Vari/08-07-2022/pnrr-c-elenco-impianti-sportivi-ammessi-rimandati-4401335222128.shtml</id>
-        <link href="https://www.gazzetta.it/Sport-Vari/08-07-2022/pnrr-c-elenco-impianti-sportivi-ammessi-rimandati-4401335222128.shtml"/>
-        <updated>2022-07-08T17:14:17.000Z</updated>
-        <summary type="html"><![CDATA[Pnrr, c'è l'elenco degli impianti sportivi ammessi e "rimandati"
-Il volley punta su Cagliari, l’atletica su Bologna, il basket su Pesaro]]></summary>
-        <author>
-            <name>Valerio Piccioni</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De Silvestri aspetta Ilicic: "Giocatore di grande qualità, ogni volta che ci ho giocato contro  è stato  decisivo"]]></title>
-        <id>https://www.gazzetta.it/Calcio/Calciomercato/Bologna/08-07-2022/bologna-de-silvestri-rinnova-contratto-dichiarazioni-conferenza-stampa-4401333414137.shtml</id>
-        <link href="https://www.gazzetta.it/Calcio/Calciomercato/Bologna/08-07-2022/bologna-de-silvestri-rinnova-contratto-dichiarazioni-conferenza-stampa-4401333414137.shtml"/>
-        <updated>2022-07-08T17:07:46.000Z</updated>
-        <summary type="html"><![CDATA[De Silvestri aspetta Ilicic: "Giocatore di grande qualità, ogni volta che ci ho giocato contro  è stato  decisivo" 
-Il difensore rossoblu: "Sinisa ci ha detto di continuare ad essere professionali, lo abbiamo dimostrato anche in quelle sei partite con lui presente da… remoto ed è il caso di fare complimenti al gruppo"]]></summary>
-        <author>
-            <name>Matteo Dalla Vite</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paul Pogba torna in Italia: tra palestra, nuovi look e balli in allenamento ecco come è cambiato]]></title>
-        <id>https://www.gazzetta.it/fitness/storie/08-07-2022/paul-pogba-juve-fisico-cambiato-capelli-dieta-1657300042/</id>
-        <link href="https://www.gazzetta.it/fitness/storie/08-07-2022/paul-pogba-juve-fisico-cambiato-capelli-dieta-1657300042/"/>
-        <updated>2022-07-08T17:07:32.000Z</updated>
-        <summary type="html"><![CDATA[Per Paul Pogba Juve e Torino sono la sua seconda possibilità in Italia: ecco come è cambiato fisicamente negli anni a Manchester con molti muscoli in più.]]></summary>
-        <author>
-            <name>Gazzetta.it</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Per Djokovic l’ottava finale a Wimbledon, affronterà Kyrgios]]></title>
-        <id>gnn:lastampa:5433851</id>
-        <link href="https://www.lastampa.it/sport/tennis/2022/07/08/news/per_djokoviclottava_finale_a_wimbledon_affrontera_kyrgios-5433851/"/>
-        <updated>2022-07-08T17:07:21.000Z</updated>
-        <summary type="html"><![CDATA[LONDRA. Un'altra finale di Wimbledon per Novak Djokovic: il serbo ha battuto in semifinale il britannico Cameron Norrie in quattro set (2-6, 6-2, 6-3, 6-4) e 2 ore 34 minuti di gioco: affrontera' domenica l'australiano Nicholas Kyrgios, quali ... [Continua a leggere sul sito.]]]></summary>
-        <author>
-            <name>lastampa.it - Homepage</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Leclerc promette una Ferrari da battaglia: "Siamo tutti vicini". Verstappen: "Gran macchina"]]></title>
-        <id>https://www.gazzetta.it/Formula-1/08-07-2022/leclerc-promette-ferrari-battaglia-siamo-tutti-vicini-verstappen-gran-macchina.shtml</id>
-        <link href="https://www.gazzetta.it/Formula-1/08-07-2022/leclerc-promette-ferrari-battaglia-siamo-tutti-vicini-verstappen-gran-macchina.shtml"/>
-        <updated>2022-07-08T17:05:14.000Z</updated>
-        <summary type="html"><![CDATA[Il ferrarista contento della prima fila nella gara Sprint: "Complimenti a Max che è stato più bravo, io spero in una gara pulita". Sainz: "Non un giro perfetto, ma in FP2 possiamo sistemare le cose". L'olandese: "I punti si fanno sabato e domenica, sono fiducioso"]]></summary>
-        <author>
-            <name>Gazzetta.it</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hamilton che botta: finisce contro le barriere]]></title>
-        <id>https://video.gazzetta.it/video-gp-austria-q3-incidente-hamilton-finisce-contro-barriere/74887e60-fedc-11ec-8d5c-85e46e5bc498</id>
-        <link href="https://video.gazzetta.it/video-gp-austria-q3-incidente-hamilton-finisce-contro-barriere/74887e60-fedc-11ec-8d5c-85e46e5bc498"/>
-        <updated>2022-07-08T17:04:44.000Z</updated>
-        <summary type="html"><![CDATA[Incidente Hamilton, va a sbattere contro le barriere
-Guarda il video dell'incidente di Lewis Hamilton in Austria]]></summary>
-        <author>
-            <name>Gasport</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dodo colpo viola, Celik  fa felice Mou. Emerson e Alonso pronti a tornare in A]]></title>
-        <id>https://www.gazzetta.it/Calcio/Calciomercato/Fiorentina/08-07-2022/dodo-colpo-viola-celik-fa-felice-mourinho-borsa-pedulla-4401333033384.shtml</id>
-        <link href="https://www.gazzetta.it/Calcio/Calciomercato/Fiorentina/08-07-2022/dodo-colpo-viola-celik-fa-felice-mourinho-borsa-pedulla-4401333033384.shtml"/>
-        <updated>2022-07-08T17:03:04.000Z</updated>
-        <summary type="html"><![CDATA[Dodo colpo viola, Celik fa felice Mou. Emerson e Alonso pronti a tornare in A
-La Juve è pronta ad accogliere Cambiaso: possibile la partenza di Pellegrini, Alex Sandro "blindato" dai 6 milioni d'ingaggio]]></summary>
-        <author>
-            <name>Alfredo Pedullà</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wec 6 Ore di Monza: l'atteso debutto della nuova Peugeot 9x8]]></title>
-        <id>https://www.gazzetta.it/Auto/08-07-2022/wec-6-ore-monza-atteso-debutto-nuova-peugeot-9x8.shtml</id>
-        <link href="https://www.gazzetta.it/Auto/08-07-2022/wec-6-ore-monza-atteso-debutto-nuova-peugeot-9x8.shtml"/>
-        <updated>2022-07-08T17:00:12.000Z</updated>
-        <summary type="html"><![CDATA[Nelle prove libere Glickenhaus davanti ad Alpine e all'auto del leone]]></summary>
-        <author>
-            <name>Gazzetta.it</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coppa Italia, via col turno preliminare. In agosto in campo 12 squadre di A]]></title>
-        <id>https://www.gazzetta.it/Calcio/Coppa-Italia/08-07-2022/coppa-italia-2022-23-tabellone-programma-4401334532425.shtml</id>
-        <link href="https://www.gazzetta.it/Calcio/Coppa-Italia/08-07-2022/coppa-italia-2022-23-tabellone-programma-4401334532425.shtml"/>
-        <updated>2022-07-08T16:59:45.000Z</updated>
-        <summary type="html"><![CDATA[Coppa Italia 2022-23, il tabellone e il programma
-Il 30 e il 31 luglio quattro partite tra formazioni di B e C, poi nel weekend che precederà il campionato entrano in scena le rappresentanti della massima categoria. Possibili semifinali Juve-Inter e Milan-Napoli]]></summary>
-        <author>
-            <name>Gasport</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sagan: "Sto bene, ma potrei stare meglio. Oggi non era la tappa per me"]]></title>
-        <id>https://video.gazzetta.it/video-sagan-sto-bene-ma-potrei-stare-meglio-oggi-non-era-tappa-me/b1a32a46-fede-11ec-8d5c-85e46e5bc498</id>
-        <link href="https://video.gazzetta.it/video-sagan-sto-bene-ma-potrei-stare-meglio-oggi-non-era-tappa-me/b1a32a46-fede-11ec-8d5c-85e46e5bc498"/>
-        <updated>2022-07-08T16:57:38.000Z</updated>
-        <summary type="html"><![CDATA[Sagan: "Sto bene, ma potrei stare meglio. Oggi non era la tappa per me"
-Le parole di Peter Sagan dal traguardo di oggi del Tour de France]]></summary>
-        <author>
-            <name>Ciro Scognamiglio</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vaiolo delle scimmie, secondo caso in Liguria]]></title>
-        <id>https://www.adnkronos.com/vaiolo-delle-scimmie-secondo-caso-in-liguria_1zX1duD3BqNc59OEb4lpr</id>
-        <link href="https://www.adnkronos.com/vaiolo-delle-scimmie-secondo-caso-in-liguria_1zX1duD3BqNc59OEb4lpr"/>
-        <updated>2022-07-08T16:56:02.000Z</updated>
-        <summary type="html"><![CDATA[(Adnkronos) - Policlinico San Martino di Genova conferma infezione in 26enne. Bassetti: "E' in buone condizioni di salute"]]></summary>
-        <author>
-            <name>webinfo@adnkronos.com (Web Info)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Governo Gb, Sunak si candida a premier e leader dei Tory]]></title>
-        <id>https://www.adnkronos.com/gb-sunak-si-candida-a-premier-e-leader-dei-tory_2Q254G0fK046WVM6EfO3Wl</id>
-        <link href="https://www.adnkronos.com/gb-sunak-si-candida-a-premier-e-leader-dei-tory_2Q254G0fK046WVM6EfO3Wl"/>
-        <updated>2022-07-08T16:55:00.000Z</updated>
-        <summary type="html"><![CDATA[(Adnkronos) - L'ex cancelliere dello Scacchiere britannico: "Qualcuno deve cogliere questo momento e prendere le decisioni giuste"]]></summary>
-        <author>
-            <name>webinfo@adnkronos.com (Web Info)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lo sbarco, la mano sul cuore, i selfie con i tifosi alla Continassa: le prime ore di Pogba a Torino]]></title>
-        <id>https://video.gazzetta.it/video-pogba-arriva-torino-accoglienza-tifosi-juve/9e1058a8-fedb-11ec-8d5c-85e46e5bc498</id>
-        <link href="https://video.gazzetta.it/video-pogba-arriva-torino-accoglienza-tifosi-juve/9e1058a8-fedb-11ec-8d5c-85e46e5bc498"/>
-        <updated>2022-07-08T16:51:43.000Z</updated>
-        <summary type="html"><![CDATA[Lo sbarco, la mano sul cuore, i selfie con i tifosi alla Continassa: le prime ore di Pogba a Torino
-Paul Pogba inizia la sua seconda avventura alla Juve:  il suo aereo è atterrato all’aeroporto di Caselle nel pomeriggio di oggi. Poi subito alla Continassa dove il francese è stato accolto da tantissimi tifosi]]></summary>
-        <author>
-            <name>Giovanni Albanese</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Le pagelle: Pogacar padrone, 10. Roglic è un leone e  si rivede Ganna: 6,5]]></title>
-        <id>https://www.gazzetta.it/ciclismo/tour-de-france/08-07-2022/tour-france-pagelle-pogacar-padrone-10-roglic-leone-si-rivede-ganna-65-4401332924410.shtml</id>
-        <link href="https://www.gazzetta.it/ciclismo/tour-de-france/08-07-2022/tour-france-pagelle-pogacar-padrone-10-roglic-leone-si-rivede-ganna-65-4401332924410.shtml"/>
-        <updated>2022-07-08T16:47:53.000Z</updated>
-        <summary type="html"><![CDATA[Le pagelle: Pogacar padrone, 10. Roglic è un leone e  si rivede Ganna: 6,5
-I nostri giudizi dopo il primo arrivo in salita: lo sguardo di Tadej incenerisce Vingegaard. Thomas sa come si fa, Vlasov e Quintana le delusioni]]></summary>
-        <author>
-            <name>Luca Gialanella</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[F1 Austria, Verstappen beffa Leclerc e Sainz: pole Red Bull nella gara Sprint]]></title>
-        <id>https://www.gazzetta.it/Formula-1/08-07-2022/f1-austria-verstappen-beffa-leclerc-sainz-pole-red-bull-gara-sprint.shtml</id>
-        <link href="https://www.gazzetta.it/Formula-1/08-07-2022/f1-austria-verstappen-beffa-leclerc-sainz-pole-red-bull-gara-sprint.shtml"/>
-        <updated>2022-07-08T16:39:27.000Z</updated>
-        <summary type="html"><![CDATA[L'olandese si scatena nelle qualifiche di Zeltweg, bruciando di pochi millesimi le Ferrari. Quarto Perez davanti a Russell che sbatte come il compagno di squadra Hamilton, solo 10°]]></summary>
-        <author>
-            <name>Gazzetta.it</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vaccino Covid, Pfizer: "Chiesto via libera in Ue per bimbi 6 mesi-5 anni"]]></title>
-        <id>https://www.adnkronos.com/vaccino-covid-pfizer-chiesto-via-libera-in-ue-per-bimbi-6-mesi-5-anni_kC8boxMdkN6zbg2WEWTdr</id>
-        <link href="https://www.adnkronos.com/vaccino-covid-pfizer-chiesto-via-libera-in-ue-per-bimbi-6-mesi-5-anni_kC8boxMdkN6zbg2WEWTdr"/>
-        <updated>2022-07-08T16:36:06.000Z</updated>
-        <summary type="html"><![CDATA[(Adnkronos) - Ceo Bourla: "Passo importante per proteggere i giovanissimi"]]></summary>
-        <author>
-            <name>webinfo@adnkronos.com (Web Info)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Djokovic show: che punto con lob in tweener]]></title>
-        <id>https://video.gazzetta.it/video-wimbledon-djokovic-show-punto-lob-tweener-contro-norrie/a8279d26-fed9-11ec-8d5c-85e46e5bc498</id>
-        <link href="https://video.gazzetta.it/video-wimbledon-djokovic-show-punto-lob-tweener-contro-norrie/a8279d26-fed9-11ec-8d5c-85e46e5bc498"/>
-        <updated>2022-07-08T16:32:39.000Z</updated>
-        <summary type="html"><![CDATA[Wimbledon, Djokovic show: punto con lob in tweener
-Super punto di Novak Djokovic, in campo per giocarsi l'accesso alla finale di Wimbledon, guarda il video della sua prodezza]]></summary>
-        <author>
-            <name>Gasport</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dino Zoff incontra 40 anni dopo l'arbitro di Italia-Brasile 3-2 Abraham Klein che disse ai guardalinee "gli Azzurri non hanno speranze”]]></title>
-        <id>gnn:lastampa:5433807</id>
-        <link href="https://www.lastampa.it/sport/calcio/2022/07/08/video/dino_zoff_incontra_40_anni_dopo_larbitro_di_italiabrasile_32_abraham_klein_che_disse_ai_guardalinee_gli_azzurri_non_hann-5433807/"/>
-        <updated>2022-07-08T16:23:22.000Z</updated>
-        <summary type="html"><![CDATA[Fuori dall’Italia la persona più felice per il leggendario 3-2 della Nazionale di Enzo Bearzot al Brasile, il 5 luglio 1982 allo stadio Sarri&aacu…]]></summary>
-        <author>
-            <name>lastampa.it - Homepage</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morto il primo giorno di lavoro nell’Ennese, il fratello: “In Francia la sicurezza è al 180 per cento, non si può finire così. Chiedo giustizia”]]></title>
-        <id>gnn:lastampa:5433805</id>
-        <link href="https://www.lastampa.it/cronaca/2022/07/08/news/morto_il_primo_giorno_di_lavoro_nellennese_il_fratelloin_francia_la_sicurezza_eal_180_per_cento_non_si_puo_finirecos-5433805/"/>
-        <updated>2022-07-08T16:20:14.000Z</updated>
-        <summary type="html"><![CDATA[«Morire al primo giorno di lavoro, ma anche se fosse stato il secondo, il terzo, cosa sarebbe cambiato? Niente: io dico che non si può morire per il lavoro, no, non si può e non si deve finire così». La voce di Giuseppe Savasta è rotta dall’emozio ... [Continua a leggere sul sito.]]]></summary>
-        <author>
-            <name>lastampa.it - Homepage</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Covid oggi Lazio, 10.108 contagi: a Roma 4.929 casi]]></title>
-        <id>https://www.adnkronos.com/covid-oggi-lazio-10108-contagi-a-roma-4929-casi_1Ez0FR4hFirkFySBGu4gcB</id>
-        <link href="https://www.adnkronos.com/covid-oggi-lazio-10108-contagi-a-roma-4929-casi_1Ez0FR4hFirkFySBGu4gcB"/>
-        <updated>2022-07-08T16:17:30.000Z</updated>
-        <summary type="html"><![CDATA[(Adnkronos) - I dati della regione]]></summary>
-        <author>
-            <name>webinfo@adnkronos.com (Web Info)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Legge elettorale, per il Pd va cambiata con tutti. "No a blitz"]]></title>
-        <id>https://www.adnkronos.com/legge-elettorale-per-il-pd-va-cambiata-con-tutti-no-a-blitz_11g8mXGhvTRPx0ogUZfmi1</id>
-        <link href="https://www.adnkronos.com/legge-elettorale-per-il-pd-va-cambiata-con-tutti-no-a-blitz_11g8mXGhvTRPx0ogUZfmi1"/>
-        <updated>2022-07-08T16:13:09.000Z</updated>
-        <summary type="html"><![CDATA[(Adnkronos) - Al momento non c'è una singola proposta, ma la volontà di un confronto approfondito e serio con le forze politiche in Parlamento.]]></summary>
-        <author>
-            <name>webinfo@adnkronos.com (Web Info)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Energia, Ceo Daikin Italia Geert Vos: "Pompe di calore abbattono i consumi"]]></title>
-        <id>https://www.adnkronos.com/energia-ceo-daikin-italia-geert-vos-pompe-di-calore-abbattono-i-consumi_497Kh20miMY1DhPWgSzQwR</id>
-        <link href="https://www.adnkronos.com/energia-ceo-daikin-italia-geert-vos-pompe-di-calore-abbattono-i-consumi_497Kh20miMY1DhPWgSzQwR"/>
-        <updated>2022-07-08T16:12:07.000Z</updated>
-        <summary type="html"><![CDATA[(Adnkronos) - Il manager: "Il riscaldamento sta andando rapidamente verso l’elettrificazione, dobbiamo essere pronti". La casa giapponese investe 300 mln per un nuovo stabilimento in Polonia]]></summary>
-        <author>
-            <name>webinfo@adnkronos.com (Web Info)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Di Maio all'attacco su Conte e la Russia: “Aprire la crisi significa prestare il fianco alla propaganda di Putin”]]></title>
-        <id>gnn:lastampa:5433793</id>
-        <link href="https://www.lastampa.it/politica/2022/07/08/news/di_maio_allattacco_su_conte_e_la_russia_aprire_la_crisi_significaprestare_il_fianco_alla_propaganda_di_putin-5433793/"/>
-        <updated>2022-07-08T16:09:05.000Z</updated>
-        <summary type="html"><![CDATA[La metamorfosi di Luigi Di Maio è compiuta, ma è interessante – e va oltre la contesta ormai cronica con Giuseppe Conte – il tipo di rilievi che il ministro degli Esteri sta muovendo contro l’avvocato del popolo. L’ultimo è un’accusa mol ... [Continua a leggere sul sito.]]]></summary>
-        <author>
-            <name>lastampa.it - Homepage</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hyundai Ioniq 5: prova e autonomia dell’elettrica con stile]]></title>
-        <id>https://video.gazzetta.it/hyundai-ioniq-5-prova-e-autonomia-dell-elettrica-con-stile/49a0529a-fef1-4422-8d00-a4446082bxlk</id>
-        <link href="https://video.gazzetta.it/hyundai-ioniq-5-prova-e-autonomia-dell-elettrica-con-stile/49a0529a-fef1-4422-8d00-a4446082bxlk"/>
-        <updated>2022-07-08T16:07:37.000Z</updated>
-        <summary type="html"><![CDATA[Il design è quello di una concept car in vetrina ad un salone dell’auto, ma la <a href="https://www.gazzetta.it/motori/la-mia-auto/prove-auto/11-10-2021/hyundai-ioniq-5-prova-prezzo-info-autonomia-crossover-elettrico-4201705639384.shtml" title="Hyundai Ioniq 5: ecco come va. La prova, le info e il prezzo del crossover elettrico coreano">Ioniq 5</a> è acquistabile presso tutti i concessionari Hyundai. Sotto il cofano, anzi nel pianale, troviamo una batteria da 72,6 kWh che alimenta due motori, uno per asse, per una potenza complessiva di 305 cavalli ed un’autonomia dichiarata di 430 km. Un'auto che mostra particolare attenzione anche per gli interni che sono stati realizzati con materiali ecosostenibili. La Ioniq 5 è in grado di ricaricare fino ad una potenza massima di 350 kW, questo le permette un rifornimento di energia di 100 km in soli 5 minuti. Accreditata della guida autonoma di livello 2 la coreana ha sospensioni tarate per assorbire al meglio ogni imperfezione della strada a vantaggio di un grande benessere di bordo. Per il top di gamma protagonista della nostra prova servono circa 60 mila euro.]]></summary>
-        <author>
-            <name>Gazzetta.it</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Europei, Girelli e la Francia nel destino: "Loro fortissime, ma possiamo giocarcela"]]></title>
-        <id>https://www.gazzetta.it/Calcio/Nazionale-femminile/08-07-2022/europei-femminili-domani-italia-francia-4401333169216.shtml</id>
-        <link href="https://www.gazzetta.it/Calcio/Nazionale-femminile/08-07-2022/europei-femminili-domani-italia-francia-4401333169216.shtml"/>
-        <updated>2022-07-08T16:03:06.000Z</updated>
-        <summary type="html"><![CDATA[Europei femminili, Girelli e la Francia nel destino: "Loro fortissime, ma possiamo giocarcela"
-Domenica a Rotherham (ore 21 italiane. Rai  1 e Sky) azzurre in campo con le favorite. Cristiana ha già segnato contro le transalpine]]></summary>
-        <author>
-            <name>Marco Calabresi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Non solo Pogba: da Causio a  Bonucci, i grandi ritorni nella storia della Juve]]></title>
-        <id>https://video.gazzetta.it/video-juve-cavalli-ritorno-grandi-ritorni-storia-bianconera/e51ff7b4-fed4-11ec-8d5c-85e46e5bc498</id>
-        <link href="https://video.gazzetta.it/video-juve-cavalli-ritorno-grandi-ritorni-storia-bianconera/e51ff7b4-fed4-11ec-8d5c-85e46e5bc498"/>
-        <updated>2022-07-08T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Non solo Pogba: da Causio a  Bonucci, i grandi ritorni nella storia della Juve 
-Pogba è arrivato a Torino, non è la prima volta che la Juve riaccoglie un grande giocatore, andiamo a vedere i ritorni più famosi della storia bianconera]]></summary>
-        <author>
-            <name>Antonino Lo Re</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bradi Christain e la rivoluzione del reggiseno: "Perché noi donne no?"]]></title>
-        <id>https://www.gazzetta.it/calcio/calcio-femminile/08-07-2022/christain-rivoluzione-reggiseno-calcio-femminile-4401327562734.shtml</id>
-        <link href="https://www.gazzetta.it/calcio/calcio-femminile/08-07-2022/christain-rivoluzione-reggiseno-calcio-femminile-4401327562734.shtml"/>
-        <updated>2022-07-08T15:59:34.000Z</updated>
-        <summary type="html"><![CDATA[Bradi Christain e la rivoluzione del reggiseno: "Perché noi donne no?"
-Pasadena, 10 luglio 1999. Gli Stati Uniti vincono il mondiale, lei segna il rigore decisivo  e festeggia a modo suo. Alzando il sipario su una nuova epoca]]></summary>
-        <author>
-            <name>Furio Zara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Che fine ha fatto Seri? Dalla possibile approdo al Barça alla Champioship]]></title>
-        <id>https://www.ilposticipo.it/calcio/la-stella-cadente-di-seri-era-a-un-passo-dal-barcellona-ora-si-ritrova-in-championship-con-lhull-city/</id>
-        <link href="https://www.ilposticipo.it/calcio/la-stella-cadente-di-seri-era-a-un-passo-dal-barcellona-ora-si-ritrova-in-championship-con-lhull-city/"/>
-        <updated>2022-07-08T15:57:13.000Z</updated>
-        <summary type="html"><![CDATA[Jean Michel Seri, centrocampista ivoriano classe 1991, nell'estate del 2017 era tra i calciatori più richiesti del mercato europeo e doveva finire al Barça. Ma dopo il no all'ultimo momento dei blaugrana, la sua carriera è precipitata...]]></summary>
-        <author>
-            <name>Gazzetta.it</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fiorentina, svelati i kit delle maglie di questa stagione]]></title>
-        <id>https://www.violanews.com/gallery/gallery-vn-ecco-la-nuova-divisa-viola-tutti-i-dettagli/</id>
-        <link href="https://www.violanews.com/gallery/gallery-vn-ecco-la-nuova-divisa-viola-tutti-i-dettagli/"/>
-        <updated>2022-07-08T15:55:01.000Z</updated>
-        <summary type="html"><![CDATA[Tutti i dettagli della nuova divisa della Fiorentina]]></summary>
-        <author>
-            <name>Gazzetta.it</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Covid Italia, Rezza: "Alta circolazione virus, in aumento congestione ospedali"]]></title>
-        <id>https://www.adnkronos.com/covid-italia-rezza-alta-circolazione-virus-in-aumento-congestione-ospedali_1QxVL6AlPCTSYBxBjOJjjf</id>
-        <link href="https://www.adnkronos.com/covid-italia-rezza-alta-circolazione-virus-in-aumento-congestione-ospedali_1QxVL6AlPCTSYBxBjOJjjf"/>
-        <updated>2022-07-08T15:48:23.000Z</updated>
-        <summary type="html"><![CDATA[(Adnkronos) - "Proteggere le persone più anziane e fragili con la quarta dose di vaccino"]]></summary>
-        <author>
-            <name>webinfo@adnkronos.com (Web Info)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Due operatori di ambulanza cercano di girare un video per la Giornata internazionale dei paramedici, ma il risultato è esilarante]]></title>
-        <id>gnn:lastampa:5433782</id>
-        <link href="https://www.lastampa.it/video/socialnews/2022/07/08/video/due_operatori_di_ambulanza_cercano_di_girare_un_video_per_la_giornata_internazionale_dei_paramedici_ma_il_risultato_e_esila-5433782/"/>
-        <updated>2022-07-08T15:48:15.000Z</updated>
-        <summary type="html"><![CDATA[Il filmato di due operatori di ambulanza inglesi che lottano per non ridere mentre registrano un video per la Giornata internazionale dei paramedici si è…]]></summary>
-        <author>
-            <name>lastampa.it - Homepage</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Salvini in bici al ritiro del Bologna: "Ha dei meriti nello scudetto del Milan..."]]></title>
-        <id>https://www.gazzetta.it/Calcio/Serie-A/Bologna/08-07-2022/salvini-ritiro-bologna-ha-grandi-meriti-scudetto-milan-4401333032677.shtml</id>
-        <link href="https://www.gazzetta.it/Calcio/Serie-A/Bologna/08-07-2022/salvini-ritiro-bologna-ha-grandi-meriti-scudetto-milan-4401333032677.shtml"/>
-        <updated>2022-07-08T15:41:34.000Z</updated>
-        <summary type="html"><![CDATA[Salvini in bici al ritiro del Bologna: "Ha dei meriti nello scudetto del Milan..."
-Il leader della Lega in vacanza a Pinzolo: "Stimo Mihajlovic come allenatore e come uomo. Quando la sua squadra ha battuto l'Inter è stato il primo a cui ho mandato un messaggio"]]></summary>
-        <author>
-            <name>Matteo Dalla Vite</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dolomiti, crolla un pilastro dalla Moiazza: nessun ferito]]></title>
-        <id>https://www.adnkronos.com/dolomiti-crolla-un-pilastro-dalla-moiazza-nessun-ferito-video_7eWfTg1gyGl8GTtOeO1Psx</id>
-        <link href="https://www.adnkronos.com/dolomiti-crolla-un-pilastro-dalla-moiazza-nessun-ferito-video_7eWfTg1gyGl8GTtOeO1Psx"/>
-        <updated>2022-07-08T15:38:21.000Z</updated>
-        <summary type="html"><![CDATA[(Adnkronos) - A dare l'allarme alle 11.38 un escursionista tedesco di passaggio sull'Alta via numero 1 nella zona di Forcella del Camp che ha sentito un boato]]></summary>
-        <author>
-            <name>webinfo@adnkronos.com (Web Info)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Renato Sanches, De Ligt, Deulofeu e... Le ultime di mercato]]></title>
-        <id>https://video.gazzetta.it/calciomercato-serie-a-trattative-notizie-oggi/efcc937c-fed2-11ec-8d5c-85e46e5bc498</id>
-        <link href="https://video.gazzetta.it/calciomercato-serie-a-trattative-notizie-oggi/efcc937c-fed2-11ec-8d5c-85e46e5bc498"/>
-        <updated>2022-07-08T15:36:55.000Z</updated>
-        <summary type="html"><![CDATA[Renato Sanches, De Ligt, Deulofeu e... Le ultime di mercato
-Dal Milan che prepara l'offerta da 30 milioni per De Ketelaere all'Inter che cerca il sostituto di Skriniar. Ma anche la Juve che accoglie Di Maria e Pogba e si prepara a salutare De Ligt per il quale il Bayern alza la proposta d'acquisto. Non solo: anche il mercato di Napoli, Lazio, Atalanta, Torino e Fiorentina. Le notizie di mercato del giorno a cura di Salvatore Malfitano]]></summary>
-        <author>
-            <name>Salvatore Malfitano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Diana Bracco, 'imprese devono sostenere cultura, è investimento valoriale']]></title>
-        <id>https://www.adnkronos.com/diana-bracco-imprese-devono-sostenere-cultura-e-investimento-valoriale_7FQMDvRcOHjWHH6AoYKfhC</id>
-        <link href="https://www.adnkronos.com/diana-bracco-imprese-devono-sostenere-cultura-e-investimento-valoriale_7FQMDvRcOHjWHH6AoYKfhC"/>
-        <updated>2022-07-08T15:36:26.000Z</updated>
-        <summary type="html"><![CDATA[(Adnkronos) - "La cultura è un asset di crescita straordinario per l’Italia, un driver fondamentale per lo sviluppo economico sostenibile e diffuso sui territori. L’intreccio tra bellezza, arte, paesaggio, creatività e innovazione è il tratto essenziale della nostra identità nazionale, oltre che un punto di forza a livello globale. L’investimento in cultura è un investimento valoriale, che arricchisce sul piano personale e che ha un impatto positivo sia all’interno dell’azienda sia all’esterno, nel rapporto con le comunità e i territori. Ed è per questo che le aziende devono sostenere la cultura". Così Diana Bracco, presidente della Fondazione Bracco, intervenendo a Spoleto all'incontro 'Per una cultura della parità', promosso da Rai per la Sostenibilità Esg e Rai Umbria in collaborazione con il Festival dei Due Mondi e il Comune di Spoleto, in sintonia con “No Women No Panel” la campagna Rai per l’equilibrio di genere nel dibattito pubblico.]]></summary>
-        <author>
-            <name>webinfo@adnkronos.com (Web Info)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pogacar trionfa su La Planche des Belles Filles. Il re è sempre più giallo]]></title>
-        <id>https://www.gazzetta.it/ciclismo/tour-de-france/08-07-2022/ciclismo-tour-2022-pogacar-trionfa-la-super-planche-des-belles-filles-re-sempre-piu-giallo-4401332011061.shtml</id>
-        <link href="https://www.gazzetta.it/ciclismo/tour-de-france/08-07-2022/ciclismo-tour-2022-pogacar-trionfa-la-super-planche-des-belles-filles-re-sempre-piu-giallo-4401332011061.shtml"/>
-        <updated>2022-07-08T15:36:09.000Z</updated>
-        <summary type="html"><![CDATA[Pogacar trionfa su La Planche des Belles Filles. Il re è sempre più giallo  
-Nella settima tappa capolavoro dello sloveno che nell’ultimo chilometro raggiunge Kamna e poi precede Vingegaard e Roglic. È la seconda vittoria di tappa in questa edizione, l’ottava totale alla Grand Boucle]]></summary>
-        <author>
-            <name>Davide Romani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Infortunati fuori dal campo almeno tre minuti: così in Usa evitano perdite di tempo]]></title>
-        <id>https://www.gazzetta.it/Calcio/Estero/08-07-2022/calcio-usa-infortunati-fuori-campo-almeno-tre-minuti-4401333050240.shtml</id>
-        <link href="https://www.gazzetta.it/Calcio/Estero/08-07-2022/calcio-usa-infortunati-fuori-campo-almeno-tre-minuti-4401333050240.shtml"/>
-        <updated>2022-07-08T15:29:34.000Z</updated>
-        <summary type="html"><![CDATA[Infortunati fuori dal campo almeno tre minuti: così in Usa evitano perdite di tempo
-La Mls Next Pro, terza serie del calcio statunitense, introduce un limite di tempo per gli interventi dello staff medico, con alcune eccezioni. E le squalifiche si scontano contro la stessa squadra al ritorno]]></summary>
-        <author>
-            <name>Salvatore Malfitano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Diana Bracco: "Ancora divario di genere per donne manager, ma siamo su strada giusta"]]></title>
-        <id>https://www.adnkronos.com/diana-bracco-ancora-divario-di-genere-per-donne-manager-ma-siamo-su-strada-giusta_DnzdMH5VkqxrrggAwjRdH</id>
-        <link href="https://www.adnkronos.com/diana-bracco-ancora-divario-di-genere-per-donne-manager-ma-siamo-su-strada-giusta_DnzdMH5VkqxrrggAwjRdH"/>
-        <updated>2022-07-08T15:22:51.000Z</updated>
-        <summary type="html"><![CDATA[(Adnkronos) - "Spero che ai vertici delle istituzioni culturali le donne siano sempre di più"]]></summary>
-        <author>
-            <name>webinfo@adnkronos.com (Web Info)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Djokovic supera Norrie 3-1. Domenica con Kyrgios va a caccia del 7° sigillo]]></title>
-        <id>https://www.gazzetta.it/Tennis/08-07-2022/wimbledon-semifinale-djokovic-norrie-0-1-4401332736401.shtml</id>
-        <link href="https://www.gazzetta.it/Tennis/08-07-2022/wimbledon-semifinale-djokovic-norrie-0-1-4401332736401.shtml"/>
-        <updated>2022-07-08T15:02:19.000Z</updated>
-        <summary type="html"><![CDATA[Djokovic supera Norrie 3-1. Domenica con Kyrgios va a caccia del 7° sigillo
-Nole inizia col piede sbagliato, cede il primo set poi reagisce (pur senza brillare) chiude in quattro set in rimonta: per lui è l'ottava finale a Wimbledon]]></summary>
-        <author>
-            <name>Federica Cocchi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Origi-Lukaku, il derby (nel derby) profuma di Belgio. E il milanista con Romelu sa già come si fa...]]></title>
-        <id>https://www.gazzetta.it/Calcio/Serie-A/Milan/08-07-2022/origi-lukaku-derby-nel-derby-profuma-belgio-divock-romelu-sa-gia-come-si-fa-4401313810528.shtml</id>
-        <link href="https://www.gazzetta.it/Calcio/Serie-A/Milan/08-07-2022/origi-lukaku-derby-nel-derby-profuma-belgio-divock-romelu-sa-gia-come-si-fa-4401313810528.shtml"/>
-        <updated>2022-07-08T14:53:23.000Z</updated>
-        <summary type="html"><![CDATA[Origi-Lukaku, il derby (nel derby) profuma di Belgio. E il milanista con Romelu sa già come si fa...
-Nei tre incroci a Liverpool il rossonero ha sempre vinto e segnato. Il nerazzurro invece detta legge in nazionale. Ma se osserviamo la bacheca...]]></summary>
-        <author>
-            <name>Marco Pasotto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coronavirus, il bollettino di venerdì 8 luglio: 105 morti e 100.690 nuovi contagi, circa 6.500 in meno di ieri]]></title>
-        <id>gnn:lastampa:5433748</id>
-        <link href="https://www.lastampa.it/cronaca/2022/07/08/news/coronavirus_il_bollettino_di_venerdi_8_luglio105_morti_e_100690_nuovi_contagi_circa_6500_in_meno_di_ieri-5433748/"/>
-        <updated>2022-07-08T14:46:24.000Z</updated>
-        <summary type="html"><![CDATA[La “poco” letale Omicron 5 fa oggi 105 morti in un giorno con 100.690 contagi, circa 6.500 in meno di ieri ma 14mila in più di una settimana fa, anche se rispetto ai giorni scorsi la crescita sembra aver perso un po' di slancio. Come dimostra anch ... [Continua a leggere sul sito.]]]></summary>
-        <author>
-            <name>lastampa.it - Homepage</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ecco com'è atterrare a Saba sulla pista più corta del mondo nel mezzo dei Caraibi e tra due strapiombi]]></title>
-        <id>gnn:lastampa:5433746</id>
-        <link href="https://www.lastampa.it/viaggi/2022/07/08/video/ecco_come_atterrare_a_saba_sulla_pista_piu_corta_del_mondo_nel_mezzo_dei_caraibi_e_tra_due_strapiombi-5433746/"/>
-        <updated>2022-07-08T14:45:48.000Z</updated>
-        <summary type="html"><![CDATA[Atterrare a Saba, la più piccola isola dei Caraibi olandesi, non è per i deboli di cuore. I pendii vertiginosi e le scogliere marine di…]]></summary>
-        <author>
-            <name>lastampa.it - Homepage</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Antares, due mondiali e  la grande kickboxing domani in diretta su gazzetta.it: la guida alla card]]></title>
-        <id>https://www.gazzetta.it/Sport-Vari/08-07-2022/kickboxing-antares-martine-michieletto-diretta-gazzetta-4401332311399.shtml</id>
-        <link href="https://www.gazzetta.it/Sport-Vari/08-07-2022/kickboxing-antares-martine-michieletto-diretta-gazzetta-4401332311399.shtml"/>
-        <updated>2022-07-08T14:39:18.000Z</updated>
-        <summary type="html"><![CDATA[Antares, due mondiali e  la grande kickboxing domani in diretta su gazzetta.it: la guida alla card
-Martine Michieletto, Christian Guiderdone e altri nostri atleti di punta: in diretta gratuita dalle 20.30 sul nostro sito una serata di grandi arti marziali. La preview incontro per incontro]]></summary>
-        <author>
-            <name>Guido Colombo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Non solo Di Maria: ecco le stelle della Juve di Andrea Agnelli]]></title>
-        <id>https://www.gazzetta.it/Calcio/Calciomercato/Juventus/storie/08-07-2022/di-maria-altri-stelle-juve-andrea-agnelli-4401185140529/</id>
-        <link href="https://www.gazzetta.it/Calcio/Calciomercato/Juventus/storie/08-07-2022/di-maria-altri-stelle-juve-andrea-agnelli-4401185140529/"/>
-        <updated>2022-07-08T14:31:22.000Z</updated>
-        <summary type="html"><![CDATA[Non solo Di Maria: ecco le stelle della Juve di Andrea Agnelli
-Da Pirlo a Ronaldo, fino a Pogba e il Fideo, tanti sono stati i colpi Juve di livello internazionale dal 2011 in poi. Quando sono stati messi a segno e come sono andati]]></summary>
-        <author>
-            <name>Giovanni Albanese</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Giro Donne, l'Italia c'è: Cavalli seconda, Longo Borghini sogna la rimonta]]></title>
-        <id>https://www.gazzetta.it/Ciclismo/08-07-2022/giro-donne-italia-cavalli-longo-borghini-sogna-rimonta-4401332225190.shtml</id>
-        <link href="https://www.gazzetta.it/Ciclismo/08-07-2022/giro-donne-italia-cavalli-longo-borghini-sogna-rimonta-4401332225190.shtml"/>
-        <updated>2022-07-08T14:11:07.000Z</updated>
-        <summary type="html"><![CDATA[Giro Donne, l'Italia c'è: Cavalli seconda, Longo Borghini sogna la rimonta
-Nel giorno del dominio di Van Vleuten, che stravince ad Aldeno nonostante una caduta in discesa, sorridono anche le azzurre. Marta stacca Garcia nella generale, Elisa può sperare nel recupero sulla spagnola per la terza piazza]]></summary>
-        <author>
-            <name>Davide Terraneo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shinzo Abe, Kennedy, Giovanni Paolo II: gli attentati contro i capi di Stato nelle immagini storiche]]></title>
-        <id>gnn:lastampa:5433732</id>
-        <link href="https://www.lastampa.it/esteri/2022/07/08/video/shinzo_abe_kennedy_giovanni_paolo_ii_gli_attentati_contro_i_capi_di_stato_nelle_immagini_storiche-5433732/"/>
-        <updated>2022-07-08T14:07:37.000Z</updated>
-        <summary type="html"><![CDATA[L'ex premier giapponese Shinzo Abe è morto a 67 anni a causa di un attentato avvenuto mentre teneva un comizio nella città di Nara. Il killer…]]></summary>
-        <author>
-            <name>lastampa.it - Homepage</name>
         </author>
     </entry>
 </feed>
